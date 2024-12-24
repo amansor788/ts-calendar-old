@@ -886,6 +886,10 @@ function setCalendarHint17(){
 	document.getElementById('cab6_2025_2_20').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
 	document.getElementById('cab6_2025_2_21').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
 	document.getElementById('cab6_2025_2_22').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
+	document.getElementById('cab6_2025_2_3').title='| Cliente: Gotte |'
+	document.getElementById('cab6_2025_2_4').title='| Cliente: Gotte |'
+	document.getElementById('cab6_2025_2_5').title='| Cliente: Gotte |'
+	document.getElementById('cab6_2025_2_6').title='| Cliente: Gotte |'
 }
 function setCalendarHint18(){
 	document.getElementById('cab7_2024_12_26').title='| Cliente: BLOQUEADO | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 0 |'
@@ -2443,6 +2447,18 @@ table td{
 }
 #cab6_2025_2_2{
   background-color:#FF0000;
+}
+#cab6_2025_2_3{
+  background-color:#F00FFF;
+}
+#cab6_2025_2_4{
+  background-color:#F00FFF;
+}
+#cab6_2025_2_5{
+  background-color:#F00FFF;
+}
+#cab6_2025_2_6{
+  background-color:#F00FFF;
 }
 #cab7_2024_12_26{
   background-color: #FFFF00;
