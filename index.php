@@ -890,6 +890,13 @@ function setCalendarHint17(){
 	document.getElementById('cab6_2025_2_4').title='| Cliente: Gotte |'
 	document.getElementById('cab6_2025_2_5').title='| Cliente: Gotte |'
 	document.getElementById('cab6_2025_2_6').title='| Cliente: Gotte |'
+	document.getElementById('cab5_2025_1_26').title='| Cliente: Capuccio |'
+	document.getElementById('cab5_2025_1_27').title='| Cliente: Capuccio |'
+	document.getElementById('cab5_2025_1_28').title='| Cliente: Capuccio |'
+	document.getElementById('cab5_2025_1_29').title='| Cliente: Capuccio |'
+	document.getElementById('cab5_2025_1_30').title='| Cliente: Capuccio |'
+	document.getElementById('cab5_2025_1_31').title='| Cliente: Capuccio |'
+	document.getElementById('cab5_2025_2_1').title='| Cliente: Capuccio |'
 }
 function setCalendarHint18(){
 	document.getElementById('cab7_2024_12_26').title='| Cliente: BLOQUEADO | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 0 |'
@@ -2448,6 +2455,7 @@ table td{
 #cab6_2025_2_2{
   background-color:#FF0000;
 }
+/* gotte */
 #cab6_2025_2_3{
   background-color:#F00FFF;
 }
@@ -2740,6 +2748,28 @@ table td{
   background-color:#99CC33;
 }
 #cab8_2025_1_3{
+  background-color:#99CC33;
+}
+/* capuccio */
+#cab5_2025_1_26{
+  background-color:#99CC33;
+}
+#cab5_2025_1_27{
+  background-color:#99CC33;
+}
+#cab5_2025_1_28{
+  background-color:#99CC33;
+}
+#cab5_2025_1_29{
+  background-color:#99CC33;
+}
+#cab5_2025_1_30{
+  background-color:#99CC33;
+}
+#cab5_2025_1_31{
+  background-color:#99CC33;
+}
+#cab5_2025_2_1{
   background-color:#99CC33;
 }
 </style>
