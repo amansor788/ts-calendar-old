@@ -900,6 +900,10 @@ function setCalendarHint17(){
 	document.getElementById('cab3_2024_12_30').title='| Cliente: Lujan Daniela |'
 	document.getElementById('cab3_2024_12_31').title='| Cliente: Lujan Daniela |'
 	document.getElementById('cab3_2025_1_1').title='| Cliente: Lujan Daniela |'
+	document.getElementById('cab1_2025_2_15').title='| Cliente: Sole Fasano |'
+	document.getElementById('cab1_2025_2_16').title='| Cliente: Sole Fasano |'
+	document.getElementById('cab1_2025_2_17').title='| Cliente: Sole Fasano |'
+	document.getElementById('cab1_2025_2_18').title='| Cliente: Sole Fasano |'
 }
 function setCalendarHint18(){
 	document.getElementById('cab7_2024_12_26').title='| Cliente: BLOQUEADO | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 0 |'
@@ -2783,6 +2787,19 @@ table td{
   background-color:#00FFFF;
 }
 #cab3_2025_1_1{
+  background-color:#00FFFF;
+}
+/* sole fasano */
+#cab1_2025_2_15{
+  background-color:#00FFFF;
+}
+#cab1_2025_2_16{
+  background-color:#00FFFF;
+}
+#cab1_2025_2_17{
+  background-color:#00FFFF;
+}
+#cab1_2025_2_18{
   background-color:#00FFFF;
 }
 </style>
