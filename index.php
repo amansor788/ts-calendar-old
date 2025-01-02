@@ -868,24 +868,12 @@ function setCalendarHint17(){
 	document.getElementById('cab6_2025_2_10').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
 	document.getElementById('cab6_2025_2_11').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
 	document.getElementById('cab6_2025_2_12').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab6_2025_2_17').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_18').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_19').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_20').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_21').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_22').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_17').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_18').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_19').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_20').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_21').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_22').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_17').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_18').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_19').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_20').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_21').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
-	document.getElementById('cab6_2025_2_22').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
+	document.getElementById('cab5_2025_2_17').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
+	document.getElementById('cab5_2025_2_18').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
+	document.getElementById('cab5_2025_2_19').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
+	document.getElementById('cab5_2025_2_20').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
+	document.getElementById('cab5_2025_2_21').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
+	document.getElementById('cab5_2025_2_22').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
 	document.getElementById('cab6_2025_2_3').title='| Cliente: Gotte |'
 	document.getElementById('cab6_2025_2_4').title='| Cliente: Gotte |'
 	document.getElementById('cab6_2025_2_5').title='| Cliente: Gotte |'
@@ -906,6 +894,9 @@ function setCalendarHint17(){
 	document.getElementById('cab1_2025_2_18').title='| Cliente: Sole Fasano |'
 	document.getElementById('cab5_2025_1_3').title='| Cliente: Natali Pimentel |'
 	document.getElementById('cab5_2025_1_4').title='| Cliente: Natali Pimentel |'
+	document.getElementById('cab5_2025_2_14').title='| Cliente: Lorena Toledo |'
+	document.getElementById('cab5_2025_2_15').title='| Cliente: Lorena Toledo |'
+	document.getElementById('cab5_2025_2_16').title='| Cliente: Lorena Toledo |'
 }
 function setCalendarHint18(){
 	document.getElementById('cab7_2024_12_26').title='| Cliente: BLOQUEADO | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 0 |'
@@ -2386,22 +2377,22 @@ table td{
 #cab6_2025_2_12{
   background-color: #F00FFF;
 }
-#cab6_2025_2_17{
+#cab5_2025_2_17{
   background-color: #00FFFF;
 }
-#cab6_2025_2_18{
+#cab5_2025_2_18{
   background-color: #00FFFF;
 }
-#cab6_2025_2_19{
+#cab5_2025_2_19{
   background-color: #00FFFF;
 }
-#cab6_2025_2_20{
+#cab5_2025_2_20{
   background-color: #00FFFF;
 }
-#cab6_2025_2_21{
+#cab5_2025_2_21{
   background-color: #00FFFF;
 }
-#cab6_2025_2_22{
+#cab5_2025_2_22{
   background-color: #00FFFF;
 }
 #cab6_2025_1_1{
@@ -2810,6 +2801,16 @@ table td{
 }
 #cab5_2025_1_4{
   background-color:magenta;
+}
+/* lorena toledo */
+#cab5_2025_2_14{
+  background-color:orange;
+}
+#cab5_2025_2_15{
+  background-color:orange;
+}
+#cab5_2025_2_16{
+  background-color:orange;
 }
 </style>
 </head>
