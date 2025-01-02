@@ -904,6 +904,8 @@ function setCalendarHint17(){
 	document.getElementById('cab1_2025_2_16').title='| Cliente: Sole Fasano |'
 	document.getElementById('cab1_2025_2_17').title='| Cliente: Sole Fasano |'
 	document.getElementById('cab1_2025_2_18').title='| Cliente: Sole Fasano |'
+	document.getElementById('cab5_2025_1_3').title='| Cliente: Natali Pimentel |'
+	document.getElementById('cab5_2025_1_4').title='| Cliente: Natali Pimentel |'
 }
 function setCalendarHint18(){
 	document.getElementById('cab7_2024_12_26').title='| Cliente: BLOQUEADO | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 0 |'
@@ -2801,6 +2803,13 @@ table td{
 }
 #cab1_2025_2_18{
   background-color:#00FFFF;
+}
+/* natali pimentel */
+#cab5_2025_1_3{
+  background-color:magenta;
+}
+#cab5_2025_1_4{
+  background-color:magenta;
 }
 </style>
 </head>
