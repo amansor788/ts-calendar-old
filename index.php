@@ -948,18 +948,6 @@ function setCalendarHint20(){
 	document.getElementById('cab7_2025_1_9').title='| Cliente: Bindi | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 180000 |'
 	document.getElementById('cab7_2025_1_10').title='| Cliente: Bindi | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 180000 |'
 	document.getElementById('cab7_2025_1_11').title='| Cliente: Bindi | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 180000 |'
-	document.getElementById('cab7_2025_1_12').title='| Cliente: Delfino | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
-	document.getElementById('cab7_2025_1_13').title='| Cliente: Delfino | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
-	document.getElementById('cab7_2025_1_14').title='| Cliente: Delfino | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
-	document.getElementById('cab7_2025_1_15').title='| Cliente: Delfino | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
-	document.getElementById('cab7_2025_1_12').title='| Cliente: Delfino | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
-	document.getElementById('cab7_2025_1_13').title='| Cliente: Delfino | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
-	document.getElementById('cab7_2025_1_14').title='| Cliente: Delfino | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
-	document.getElementById('cab7_2025_1_15').title='| Cliente: Delfino | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
-	document.getElementById('cab7_2025_1_12').title='| Cliente: Delfino | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
-	document.getElementById('cab7_2025_1_13').title='| Cliente: Delfino | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
-	document.getElementById('cab7_2025_1_14').title='| Cliente: Delfino | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
-	document.getElementById('cab7_2025_1_15').title='| Cliente: Delfino | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
 	document.getElementById('cab7_2025_1_16').title='| Cliente: Pecorari | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
 	document.getElementById('cab7_2025_1_17').title='| Cliente: Pecorari | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
 	document.getElementById('cab7_2025_1_18').title='| Cliente: Pecorari | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 118000 |'
@@ -2518,18 +2506,6 @@ table td{
 }
 #cab7_2025_1_11{
   background-color: #999999;
-}
-#cab7_2025_1_12{
-  background-color: #55FFCC;
-}
-#cab7_2025_1_13{
-  background-color: #55FFCC;
-}
-#cab7_2025_1_14{
-  background-color: #55FFCC;
-}
-#cab7_2025_1_15{
-  background-color: #55FFCC;
 }
 #cab7_2025_1_16{
   background-color: #FF0000;
