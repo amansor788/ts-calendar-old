@@ -1130,18 +1130,7 @@ function setCalendarHint23(){
 	document.getElementById('cab8_2025_2_5').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
 	document.getElementById('cab8_2025_2_6').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
 	document.getElementById('cab8_2025_2_7').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
-	document.getElementById('cab8_2025_2_2').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
-	document.getElementById('cab8_2025_2_3').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
-	document.getElementById('cab8_2025_2_4').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
-	document.getElementById('cab8_2025_2_5').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
-	document.getElementById('cab8_2025_2_6').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
-	document.getElementById('cab8_2025_2_7').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
-	document.getElementById('cab8_2025_2_2').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
-	document.getElementById('cab8_2025_2_3').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
-	document.getElementById('cab8_2025_2_4').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
-	document.getElementById('cab8_2025_2_5').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
-	document.getElementById('cab8_2025_2_6').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
-	document.getElementById('cab8_2025_2_7').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
+	document.getElementById('cab8_2025_2_8').title='| Cliente: Habitante | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 195000 |'
 }
 function setCalendarHints(){
 setCalendarHint0();
@@ -2706,6 +2695,9 @@ table td{
   background-color: #FFFF00;
 }
 #cab8_2025_2_7{
+  background-color: #FFFF00;
+}
+#cab8_2025_2_8{
   background-color: #FFFF00;
 }
 #cab8_2025_1_1{
