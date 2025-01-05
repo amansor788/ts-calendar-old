@@ -206,6 +206,13 @@ function setCalendarHint4(){
 	document.getElementById('cab2_2024_12_29').title='| Cliente: Gorjon | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 160000 |'
 	document.getElementById('cab2_2024_12_30').title='| Cliente: Spanger | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 212000 |'
 	document.getElementById('cab2_2024_12_31').title='| Cliente: Spanger | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 212000 |'
+	document.getElementById('cab7_2025_1_12').title='| Cliente: Romina Delfino |'
+	document.getElementById('cab7_2025_1_13').title='| Cliente: Romina Delfino |'
+	document.getElementById('cab7_2025_1_14').title='| Cliente: Romina Delfino |'
+	document.getElementById('cab7_2025_1_15').title='| Cliente: Romina Delfino |'
+	document.getElementById('cab6_2025_2_7').title='| Cliente: Graciela Alvarez |'
+	document.getElementById('cab6_2025_2_8').title='| Cliente: Graciela Alvarez |'
+	document.getElementById('cab6_2025_2_9').title='| Cliente: Graciela Alvarez |'
 }
 function setCalendarHint5(){
 	document.getElementById('cab2_2025_1_1').title='| Cliente: Spanger | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 212000 |'
@@ -2522,6 +2529,29 @@ table td{
 }
 #cab7_2025_1_24{
   background-color: #F00FFF;
+}
+/* graciela alvarez */
+#cab6_2025_2_7{
+  background-color: #00FFFF;
+}
+#cab6_2025_2_8{
+  background-color: #00FFFF;
+}
+#cab6_2025_2_9{
+  background-color: #00FFFF;
+}
+/* romina delfino */
+#cab7_2025_1_12{
+  background-color: #00FFFF;
+}
+#cab7_2025_1_13{
+  background-color: #00FFFF;
+}
+#cab7_2025_1_14{
+  background-color: #00FFFF;
+}
+#cab7_2025_1_15{
+  background-color: #00FFFF;
 }
 #cab7_2025_1_25{
   background-color: #00FFFF;
