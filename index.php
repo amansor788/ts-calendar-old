@@ -213,6 +213,10 @@ function setCalendarHint4(){
 	document.getElementById('cab6_2025_2_7').title='| Cliente: Graciela Alvarez |'
 	document.getElementById('cab6_2025_2_8').title='| Cliente: Graciela Alvarez |'
 	document.getElementById('cab6_2025_2_9').title='| Cliente: Graciela Alvarez |'
+	document.getElementById('cab1_2025_2_28').title='| Cliente: Rossana Lostouret |'
+	document.getElementById('cab1_2025_3_1').title='| Cliente: Rossana Lostouret |'
+	document.getElementById('cab1_2025_3_2').title='| Cliente: Rossana Lostouret |'
+	document.getElementById('cab1_2025_3_3').title='| Cliente: Rossana Lostouret |'
 }
 function setCalendarHint5(){
 	document.getElementById('cab2_2025_1_1').title='| Cliente: Spanger | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 212000 |'
@@ -2538,6 +2542,19 @@ table td{
   background-color: #00FFFF;
 }
 #cab6_2025_2_9{
+  background-color: #00FFFF;
+}
+/* rossana lostouret */
+#cab1_2025_2_28{
+  background-color: #00FFFF;
+}
+#cab1_2025_3_1{
+  background-color: #00FFFF;
+}
+#cab1_2025_3_2{
+  background-color: #00FFFF;
+}
+#cab1_2025_3_3{
   background-color: #00FFFF;
 }
 /* romina delfino */
