@@ -217,6 +217,10 @@ function setCalendarHint4(){
 	document.getElementById('cab1_2025_3_1').title='| Cliente: Rossana Lostouret |'
 	document.getElementById('cab1_2025_3_2').title='| Cliente: Rossana Lostouret |'
 	document.getElementById('cab1_2025_3_3').title='| Cliente: Rossana Lostouret |'
+	document.getElementById('cab5_2025_2_10').title='| Cliente: Laura Zarate |'
+	document.getElementById('cab5_2025_2_11').title='| Cliente: Laura Zarate |'
+	document.getElementById('cab5_2025_2_12').title='| Cliente: Laura Zarate |'
+	document.getElementById('cab5_2025_2_13').title='| Cliente: Laura Zarate |'
 }
 function setCalendarHint5(){
 	document.getElementById('cab2_2025_1_1').title='| Cliente: Spanger | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 212000 |'
@@ -2542,6 +2546,19 @@ table td{
   background-color: #00FFFF;
 }
 #cab6_2025_2_9{
+  background-color: #00FFFF;
+}
+/* laura zarate */
+#cab5_2025_2_10{
+  background-color: #00FFFF;
+}
+#cab5_2025_2_11{
+  background-color: #00FFFF;
+}
+#cab5_2025_2_12{
+  background-color: #00FFFF;
+}
+#cab5_2025_2_13{
   background-color: #00FFFF;
 }
 /* rossana lostouret */
