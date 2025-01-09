@@ -227,6 +227,9 @@ function setCalendarHint4(){
 	document.getElementById('cab7_2025_2_12').title='| Cliente: Vanina Caceres |'
 	document.getElementById('cab7_2025_2_13').title='| Cliente: Vanina Caceres |'
 	document.getElementById('cab7_2025_2_14').title='| Cliente: Vanina Caceres |'
+	document.getElementById('cab8_2025_1_30').title='| Cliente: Beatriz Ochoa |'
+	document.getElementById('cab8_2025_1_31').title='| Cliente: Beatriz Ochoa |'
+	document.getElementById('cab8_2025_2_1').title='| Cliente: Beatriz Ochoa |'
 }
 function setCalendarHint5(){
 	document.getElementById('cab2_2025_1_1').title='| Cliente: Spanger | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 212000 |'
@@ -2585,6 +2588,16 @@ table td{
 }
 #cab5_2025_2_13{
   background-color: #00FFFF;
+}
+/* beatriz ochoa */
+#cab8_2025_1_30{
+  background-color: red;
+}
+#cab8_2025_1_31{
+  background-color: red;
+}
+#cab8_2025_2_1{
+  background-color: red;
 }
 /* rossana lostouret */
 #cab1_2025_2_28{
