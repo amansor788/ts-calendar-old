@@ -221,6 +221,12 @@ function setCalendarHint4(){
 	document.getElementById('cab5_2025_2_11').title='| Cliente: Laura Zarate |'
 	document.getElementById('cab5_2025_2_12').title='| Cliente: Laura Zarate |'
 	document.getElementById('cab5_2025_2_13').title='| Cliente: Laura Zarate |'
+	document.getElementById('cab7_2025_2_9').title='| Cliente: Vanina Caceres |'
+	document.getElementById('cab7_2025_2_10').title='| Cliente: Vanina Caceres |'
+	document.getElementById('cab7_2025_2_11').title='| Cliente: Vanina Caceres |'
+	document.getElementById('cab7_2025_2_12').title='| Cliente: Vanina Caceres |'
+	document.getElementById('cab7_2025_2_13').title='| Cliente: Vanina Caceres |'
+	document.getElementById('cab7_2025_2_14').title='| Cliente: Vanina Caceres |'
 }
 function setCalendarHint5(){
 	document.getElementById('cab2_2025_1_1').title='| Cliente: Spanger | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 212000 |'
@@ -2546,6 +2552,25 @@ table td{
   background-color: #00FFFF;
 }
 #cab6_2025_2_9{
+  background-color: #00FFFF;
+}
+/* vanina caceres */
+#cab7_2025_2_9{
+  background-color: #00FFFF;
+}
+#cab7_2025_2_10{
+  background-color: #00FFFF;
+}
+#cab7_2025_2_11{
+  background-color: #00FFFF;
+}
+#cab7_2025_2_12{
+  background-color: #00FFFF;
+}
+#cab7_2025_2_13{
+  background-color: #00FFFF;
+}
+#cab7_2025_2_14{
   background-color: #00FFFF;
 }
 /* laura zarate */
