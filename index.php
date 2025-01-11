@@ -230,6 +230,16 @@ function setCalendarHint4(){
 	document.getElementById('cab8_2025_1_30').title='| Cliente: Beatriz Ochoa |'
 	document.getElementById('cab8_2025_1_31').title='| Cliente: Beatriz Ochoa |'
 	document.getElementById('cab8_2025_2_1').title='| Cliente: Beatriz Ochoa |'
+	document.getElementById('cab2_2025_2_26').title='| Cliente: Alberto Alvarez |'
+	document.getElementById('cab2_2025_2_27').title='| Cliente: Alberto Alvarez |'
+	document.getElementById('cab2_2025_2_28').title='| Cliente: Alberto Alvarez |'
+	document.getElementById('cab3_2025_2_22').title='| Cliente: Mariela Pastorino |'
+	document.getElementById('cab3_2025_2_23').title='| Cliente: Mariela Pastorino |'
+	document.getElementById('cab3_2025_2_24').title='| Cliente: Mariela Pastorino |'
+	document.getElementById('cab3_2025_2_25').title='| Cliente: Mariela Pastorino |'
+	document.getElementById('cab3_2025_2_26').title='| Cliente: Mariela Pastorino |'
+	document.getElementById('cab3_2025_2_27').title='| Cliente: Mariela Pastorino |'
+	document.getElementById('cab3_2025_2_28').title='| Cliente: Mariela Pastorino |'
 }
 function setCalendarHint5(){
 	document.getElementById('cab2_2025_1_1').title='| Cliente: Spanger | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 212000 |'
@@ -2588,6 +2598,38 @@ table td{
 }
 #cab5_2025_2_13{
   background-color: #00FFFF;
+}
+/* mariela pastorino */
+#cab3_2025_2_22{
+  background-color: red;
+}
+#cab3_2025_2_23{
+  background-color: red;
+}
+#cab3_2025_2_24{
+  background-color: red;
+}
+#cab3_2025_2_25{
+  background-color: red;
+}
+#cab3_2025_2_26{
+  background-color: red;
+}
+#cab3_2025_2_27{
+  background-color: red;
+}
+#cab3_2025_2_28{
+  background-color: red;
+}
+/* alberto alvarez */
+#cab2_2025_2_26{
+  background-color: red;
+}
+#cab2_2025_2_27{
+  background-color: red;
+}
+#cab2_2025_2_28{
+  background-color: red;
 }
 /* beatriz ochoa */
 #cab8_2025_1_30{
