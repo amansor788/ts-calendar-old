@@ -1113,15 +1113,6 @@ function setCalendarHint23(){
 	document.getElementById('cab8_2025_1_12').title='| Cliente: De Gaspari | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 330000 |'
 	document.getElementById('cab8_2025_1_13').title='| Cliente: De Gaspari | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 330000 |'
 	document.getElementById('cab8_2025_1_14').title='| Cliente: De Gaspari | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 330000 |'
-	document.getElementById('cab8_2025_1_15').title='| Cliente: Palacios | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab8_2025_1_16').title='| Cliente: Palacios | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab8_2025_1_17').title='| Cliente: Palacios | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab8_2025_1_15').title='| Cliente: Palacios | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab8_2025_1_16').title='| Cliente: Palacios | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab8_2025_1_17').title='| Cliente: Palacios | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab8_2025_1_15').title='| Cliente: Palacios | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab8_2025_1_16').title='| Cliente: Palacios | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab8_2025_1_17').title='| Cliente: Palacios | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 98000 |'
 	document.getElementById('cab8_2025_1_18').title='| Cliente: Calderon | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 90000 |'
 	document.getElementById('cab8_2025_1_19').title='| Cliente: Calderon | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 90000 |'
 	document.getElementById('cab8_2025_1_20').title='| Cliente: Calderon | Caba�a: Mini 4 | Usa Cuna: No | Deposito: $ 90000 |'
@@ -2777,15 +2768,6 @@ table td{
 }
 #cab8_2025_1_14{
   background-color: #999999;
-}
-#cab8_2025_1_15{
-  background-color: #55FFCC;
-}
-#cab8_2025_1_16{
-  background-color: #55FFCC;
-}
-#cab8_2025_1_17{
-  background-color: #55FFCC;
 }
 #cab8_2025_1_18{
   background-color: #FF0000;
