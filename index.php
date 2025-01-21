@@ -931,6 +931,9 @@ function setCalendarHint17(){
 	document.getElementById('cab5_2025_2_14').title='| Cliente: Lorena Toledo |'
 	document.getElementById('cab5_2025_2_15').title='| Cliente: Lorena Toledo |'
 	document.getElementById('cab5_2025_2_16').title='| Cliente: Lorena Toledo |'
+	document.getElementById('cab2_2025_2_20').title='| Cliente: Hugo Ferraris |'
+	document.getElementById('cab2_2025_2_21').title='| Cliente: Hugo Ferraris |'
+	document.getElementById('cab2_2025_2_22').title='| Cliente: Hugo Ferraris |'
 }
 function setCalendarHint18(){
 	document.getElementById('cab7_2024_12_26').title='| Cliente: BLOQUEADO | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 0 |'
@@ -2888,6 +2891,16 @@ table td{
 }
 #cab1_2025_2_18{
   background-color:#00FFFF;
+}
+/* ferraris hugo */
+#cab2_2025_2_20{
+  background-color:magenta;
+}
+#cab2_2025_2_21{
+  background-color:magenta;
+}
+#cab2_2025_2_22{
+  background-color:magenta;
 }
 /* natali pimentel */
 #cab5_2025_1_3{
