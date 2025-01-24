@@ -800,6 +800,9 @@ function setCalendarHint14(){
 	document.getElementById('cab5_2025_2_4').title='| Cliente: Jurado | Caba�a: Mini 1 | Usa Cuna: No | Deposito: $ 142000 |'
 	document.getElementById('cab5_2025_2_5').title='| Cliente: Jurado | Caba�a: Mini 1 | Usa Cuna: No | Deposito: $ 142000 |'
 	document.getElementById('cab5_2025_2_6').title='| Cliente: Jurado | Caba�a: Mini 1 | Usa Cuna: No | Deposito: $ 142000 |'
+	document.getElementById('cab6_2025_2_21').title='| Cliente: Soledad Chazarreta |'
+	document.getElementById('cab6_2025_2_22').title='| Cliente: Soledad Chazarreta |'
+	document.getElementById('cab6_2025_2_23').title='| Cliente: Soledad Chazarreta |'
 }
 function setCalendarHint15(){
 	document.getElementById('cab6_2024_12_28').title='| Cliente: Ruiz | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 200000 |'
@@ -928,9 +931,8 @@ function setCalendarHint17(){
 	document.getElementById('cab1_2025_2_18').title='| Cliente: Sole Fasano |'
 	document.getElementById('cab5_2025_1_3').title='| Cliente: Natali Pimentel |'
 	document.getElementById('cab5_2025_1_4').title='| Cliente: Natali Pimentel |'
-	document.getElementById('cab5_2025_2_14').title='| Cliente: Lorena Toledo |'
-	document.getElementById('cab5_2025_2_15').title='| Cliente: Lorena Toledo |'
-	document.getElementById('cab5_2025_2_16').title='| Cliente: Lorena Toledo |'
+	document.getElementById('cab3_2025_2_8').title='| Cliente: Lorena Toledo |'
+	document.getElementById('cab3_2025_2_9').title='| Cliente: Lorena Toledo |'
 	document.getElementById('cab2_2025_2_20').title='| Cliente: Hugo Ferraris |'
 	document.getElementById('cab2_2025_2_21').title='| Cliente: Hugo Ferraris |'
 	document.getElementById('cab2_2025_2_22').title='| Cliente: Hugo Ferraris |'
@@ -1307,6 +1309,15 @@ table td{
 }
 #cab1_2025_1_15{
   background-color: #55FFCC;
+}
+#cab6_2025_2_21{
+  background-color: #FF0000;
+}
+#cab6_2025_2_22{
+  background-color: #FF0000;
+}
+#cab6_2025_2_23{
+  background-color: #FF0000;
 }
 #cab1_2025_1_16{
   background-color: #FF0000;
@@ -2910,13 +2921,10 @@ table td{
   background-color:magenta;
 }
 /* lorena toledo */
-#cab5_2025_2_14{
+#cab3_2025_2_8{
   background-color:orange;
 }
-#cab5_2025_2_15{
-  background-color:orange;
-}
-#cab5_2025_2_16{
+#cab3_2025_2_9{
   background-color:orange;
 }
 </style>
