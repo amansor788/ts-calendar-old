@@ -918,6 +918,10 @@ function setCalendarHint17(){
 	document.getElementById('cab5_2025_2_14').title='| Cliente: Tito Colombo |'
 	document.getElementById('cab5_2025_2_15').title='| Cliente: Tito Colombo |'
 	document.getElementById('cab5_2025_2_16').title='| Cliente: Tito Colombo |'
+	document.getElementById('cab1_2025_2_24').title='| Cliente: Dannae Gauna |'
+	document.getElementById('cab1_2025_2_25').title='| Cliente: Dannae Gauna |'
+	document.getElementById('cab1_2025_2_26').title='| Cliente: Dannae Gauna |'
+	document.getElementById('cab1_2025_2_27').title='| Cliente: Dannae Gauna |'
 }
 function setCalendarHint18(){
 	document.getElementById('cab7_2024_12_26').title='| Cliente: BLOQUEADO | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 0 |'
@@ -2886,6 +2890,19 @@ table td{
   background-color:orange;
 }
 #cab3_2025_2_9{
+  background-color:orange;
+}
+/* dannae gauna */
+#cab1_2025_2_24{
+  background-color:orange;
+}
+#cab1_2025_2_25{
+  background-color:orange;
+}
+#cab1_2025_2_26{
+  background-color:orange;
+}
+#cab1_2025_2_27{
   background-color:orange;
 }
 /* tito colombo */
