@@ -646,27 +646,6 @@ function setCalendarHint11(){
 	document.getElementById('cab4_2025_1_30').title='| Cliente: Schwidnt | Caba�a: Cabaña 4 | Usa Cuna: S� | Deposito: $ 343000 |'
 	document.getElementById('cab4_2025_1_31').title='| Cliente: Schwidnt | Caba�a: Cabaña 4 | Usa Cuna: S� | Deposito: $ 343000 |'
 	document.getElementById('cab4_2025_2_1').title='| Cliente: Schwidnt | Caba�a: Cabaña 4 | Usa Cuna: S� | Deposito: $ 343000 |'
-	document.getElementById('cab4_2025_2_2').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_3').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_4').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_5').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_6').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_7').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_8').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_2').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_3').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_4').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_5').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_6').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_7').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_8').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_2').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_3').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_4').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_5').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_6').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_7').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
-	document.getElementById('cab4_2025_2_8').title='| Cliente: Meiler | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 315000 |'
 	document.getElementById('cab4_2025_2_9').title='| Cliente: Pinolli | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 630000 |'
 	document.getElementById('cab4_2025_2_10').title='| Cliente: Pinolli | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 630000 |'
 	document.getElementById('cab4_2025_2_11').title='| Cliente: Pinolli | Caba�a: Cabaña 4 | Usa Cuna: No | Deposito: $ 630000 |'
@@ -936,6 +915,9 @@ function setCalendarHint17(){
 	document.getElementById('cab2_2025_2_20').title='| Cliente: Hugo Ferraris |'
 	document.getElementById('cab2_2025_2_21').title='| Cliente: Hugo Ferraris |'
 	document.getElementById('cab2_2025_2_22').title='| Cliente: Hugo Ferraris |'
+	document.getElementById('cab5_2025_2_14').title='| Cliente: Tito Colombo |'
+	document.getElementById('cab5_2025_2_15').title='| Cliente: Tito Colombo |'
+	document.getElementById('cab5_2025_2_16').title='| Cliente: Tito Colombo |'
 }
 function setCalendarHint18(){
 	document.getElementById('cab7_2024_12_26').title='| Cliente: BLOQUEADO | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 0 |'
@@ -2027,27 +2009,6 @@ table td{
 #cab4_2025_2_1{
   background-color:#00FFFF;
 }
-#cab4_2025_2_2{
-  background-color: #FFFF00;
-}
-#cab4_2025_2_3{
-  background-color: #FFFF00;
-}
-#cab4_2025_2_4{
-  background-color: #FFFF00;
-}
-#cab4_2025_2_5{
-  background-color: #FFFF00;
-}
-#cab4_2025_2_6{
-  background-color: #FFFF00;
-}
-#cab4_2025_2_7{
-  background-color: #FFFF00;
-}
-#cab4_2025_2_8{
-  background-color: #FFFF00;
-}
 #cab4_2025_2_9{
   background-color: #99CC33;
 }
@@ -2925,6 +2886,16 @@ table td{
   background-color:orange;
 }
 #cab3_2025_2_9{
+  background-color:orange;
+}
+/* tito colombo */
+#cab5_2025_2_14{
+  background-color:orange;
+}
+#cab5_2025_2_15{
+  background-color:orange;
+}
+#cab5_2025_2_16{
   background-color:orange;
 }
 </style>
