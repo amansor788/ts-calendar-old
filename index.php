@@ -926,6 +926,9 @@ function setCalendarHint17(){
   document.getElementById('cab3_2025_3_2').title='| Cliente: Jimena Blanco |'
   document.getElementById('cab3_2025_3_3').title='| Cliente: Jimena Blanco |'
   document.getElementById('cab3_2025_3_4').title='| Cliente: Jimena Blanco |'
+  document.getElementById('cab6_2025_2_13').title='| Cliente: Pablo Irazoque |'
+  document.getElementById('cab6_2025_2_14').title='| Cliente: Pablo Irazoque |'
+  document.getElementById('cab6_2025_2_15').title='| Cliente: Pablo Irazoque |'
 }
 function setCalendarHint18(){
 	document.getElementById('cab7_2024_12_26').title='| Cliente: BLOQUEADO | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 0 |'
@@ -2900,6 +2903,16 @@ table td{
   background-color:orange;
 }
 #cab3_2025_3_4{
+  background-color:orange;
+}
+/* Pablo Irazoque */
+#cab6_2025_2_13{
+  background-color:orange;
+}
+#cab6_2025_2_14{
+  background-color:orange;
+}
+#cab6_2025_2_15{
   background-color:orange;
 }
 /* lorena toledo */
