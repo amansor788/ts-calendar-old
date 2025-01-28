@@ -174,6 +174,11 @@ function setCalendarHint2(){
 	document.getElementById('cab1_2025_2_21').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
 	document.getElementById('cab1_2025_2_22').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
 	document.getElementById('cab1_2025_2_23').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
+	document.getElementById('cab6_2025_2_16').title='| Cliente: Romina Lopez |'
+	document.getElementById('cab6_2025_2_17').title='| Cliente: Romina Lopez |'
+	document.getElementById('cab6_2025_2_18').title='| Cliente: Romina Lopez |'
+	document.getElementById('cab6_2025_2_19').title='| Cliente: Romina Lopez |'
+	document.getElementById('cab6_2025_2_20').title='| Cliente: Romina Lopez |'
 }
 function setCalendarHint3(){
 	document.getElementById('cab2_2024_12_14').title='| Cliente: Morales | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 255000 |'
@@ -2891,6 +2896,22 @@ table td{
 }
 #cab5_2025_1_4{
   background-color:magenta;
+}
+/* Romina Lopez */
+#cab6_2025_2_16{
+  background-color:yellow;
+}
+#cab6_2025_2_17{
+  background-color:yellow;
+}
+#cab6_2025_2_18{
+  background-color:yellow;
+}
+#cab6_2025_2_19{
+  background-color:yellow;
+}
+#cab6_2025_2_20{
+  background-color:yellow;
 }
 /* Jimena Blanco */
 #cab3_2025_3_1{
