@@ -183,6 +183,8 @@ function setCalendarHint2(){
 	document.getElementById('cab7_2025_2_1').title='| Cliente: German Peralta |'
 	document.getElementById('cab7_2025_2_2').title='| Cliente: German Peralta |'
 	document.getElementById('cab7_2025_2_3').title='| Cliente: German Peralta |'
+	document.getElementById('cab4_2025_2_2').title='| Cliente: Luisa Merino |'
+	document.getElementById('cab4_2025_2_3').title='| Cliente: Luisa Merino |'
 }
 function setCalendarHint3(){
 	document.getElementById('cab2_2024_12_14').title='| Cliente: Morales | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 255000 |'
@@ -2913,6 +2915,13 @@ table td{
 }
 #cab7_2025_2_3{
   background-color:red;
+}
+/* Luisa Merino */
+#cab4_2025_2_2{
+  background-color:yellow;
+}
+#cab4_2025_2_3{
+  background-color:yellow;
 }
 /* Romina Lopez */
 #cab6_2025_2_16{
