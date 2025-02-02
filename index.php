@@ -188,6 +188,10 @@ function setCalendarHint2(){
 	document.getElementById('cab5_2025_2_7').title='| Cliente: Alejandra Fantini |'
 	document.getElementById('cab5_2025_2_8').title='| Cliente: Alejandra Fantini |'
 	document.getElementById('cab5_2025_2_9').title='| Cliente: Alejandra Fantini |'
+	document.getElementById('cab4_2025_2_28').title='| Cliente: Romina Cerda |'
+	document.getElementById('cab4_2025_3_1').title='| Cliente: Romina Cerda |'
+	document.getElementById('cab4_2025_3_2').title='| Cliente: Romina Cerda |'
+	document.getElementById('cab4_2025_3_3').title='| Cliente: Romina Cerda |'
 }
 function setCalendarHint3(){
 	document.getElementById('cab2_2024_12_14').title='| Cliente: Morales | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 255000 |'
@@ -2918,6 +2922,19 @@ table td{
 }
 #cab7_2025_2_3{
   background-color:red;
+}
+/* Romina Cerda */
+#cab4_2025_2_28{
+  background-color:yellow;
+}
+#cab4_2025_3_1{
+  background-color:yellow;
+}
+#cab4_2025_3_2{
+  background-color:yellow;
+}
+#cab4_2025_3_3{
+  background-color:yellow;
 }
 /* Alejandra Fantini */
 #cab5_2025_2_7{
