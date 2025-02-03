@@ -192,6 +192,10 @@ function setCalendarHint2(){
 	document.getElementById('cab4_2025_3_1').title='| Cliente: Romina Cerda |'
 	document.getElementById('cab4_2025_3_2').title='| Cliente: Romina Cerda |'
 	document.getElementById('cab4_2025_3_3').title='| Cliente: Romina Cerda |'
+	document.getElementById('cab2_2025_3_1').title='| Cliente: Graciela Banchi |'
+	document.getElementById('cab2_2025_3_2').title='| Cliente: Graciela Banchi |'
+	document.getElementById('cab2_2025_3_3').title='| Cliente: Graciela Banchi |'
+	document.getElementById('cab2_2025_3_4').title='| Cliente: Graciela Banchi |'
 }
 function setCalendarHint3(){
 	document.getElementById('cab2_2024_12_14').title='| Cliente: Morales | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 255000 |'
@@ -2922,6 +2926,19 @@ table td{
 }
 #cab7_2025_2_3{
   background-color:red;
+}
+/* Graciela Banchi */
+#cab2_2025_3_1{
+  background-color:yellow;
+}
+#cab2_2025_3_2{
+  background-color:yellow;
+}
+#cab2_2025_3_3{
+  background-color:yellow;
+}
+#cab2_2025_3_4{
+  background-color:yellow;
 }
 /* Romina Cerda */
 #cab4_2025_2_28{
