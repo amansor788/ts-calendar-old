@@ -196,6 +196,9 @@ function setCalendarHint2(){
 	document.getElementById('cab2_2025_3_2').title='| Cliente: Graciela Banchi |'
 	document.getElementById('cab2_2025_3_3').title='| Cliente: Graciela Banchi |'
 	document.getElementById('cab2_2025_3_4').title='| Cliente: Graciela Banchi |'
+	document.getElementById('cab8_2025_2_13').title='| Cliente: Agostina Pereyra |'
+	document.getElementById('cab8_2025_2_14').title='| Cliente: Agostina Pereyra |'
+	document.getElementById('cab8_2025_2_15').title='| Cliente: Agostina Pereyra |'
 }
 function setCalendarHint3(){
 	document.getElementById('cab2_2024_12_14').title='| Cliente: Morales | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 255000 |'
@@ -2926,6 +2929,16 @@ table td{
 }
 #cab7_2025_2_3{
   background-color:red;
+}
+/* Agostina Pereyra */
+#cab8_2025_2_13{
+  background-color:yellow;
+}
+#cab8_2025_2_14{
+  background-color:yellow;
+}
+#cab8_2025_2_15{
+  background-color:yellow;
 }
 /* Graciela Banchi */
 #cab2_2025_3_1{
