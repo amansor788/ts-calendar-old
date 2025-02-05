@@ -265,6 +265,9 @@ function setCalendarHint4(){
 	document.getElementById('cab3_2025_2_26').title='| Cliente: Mariela Pastorino |'
 	document.getElementById('cab3_2025_2_27').title='| Cliente: Mariela Pastorino |'
 	document.getElementById('cab3_2025_2_28').title='| Cliente: Mariela Pastorino |'
+	document.getElementById('cab4_2025_2_6').title='| Cliente: Mathias Acevedo |'
+	document.getElementById('cab4_2025_2_7').title='| Cliente: Mathias Acevedo |'
+	document.getElementById('cab4_2025_2_8').title='| Cliente: Mathias Acevedo |'
 }
 function setCalendarHint5(){
 	document.getElementById('cab2_2025_1_1').title='| Cliente: Spanger | Caba�a: Cabaña 2 | Usa Cuna: No | Deposito: $ 212000 |'
@@ -2568,6 +2571,16 @@ table td{
 }
 #cab6_2025_2_9{
   background-color: #00FFFF;
+}
+/* Mathias Acevedo */
+#cab4_2025_2_6{
+  background-color: red;
+}
+#cab4_2025_2_7{
+  background-color: red;
+}
+#cab4_2025_2_8{
+  background-color: red;
 }
 /* vanina caceres */
 #cab5_2025_2_23{
