@@ -242,10 +242,10 @@ function setCalendarHint4(){
 	document.getElementById('cab1_2025_3_1').title='| Cliente: Rossana Lostouret |'
 	document.getElementById('cab1_2025_3_2').title='| Cliente: Rossana Lostouret |'
 	document.getElementById('cab1_2025_3_3').title='| Cliente: Rossana Lostouret |'
-	document.getElementById('cab5_2025_2_10').title='| Cliente: Laura Zarate |'
-	document.getElementById('cab5_2025_2_11').title='| Cliente: Laura Zarate |'
-	document.getElementById('cab5_2025_2_12').title='| Cliente: Laura Zarate |'
-	document.getElementById('cab5_2025_2_13').title='| Cliente: Laura Zarate |'
+	document.getElementById('cab7_2025_2_10').title='| Cliente: Laura Zarate |'
+	document.getElementById('cab7_2025_2_11').title='| Cliente: Laura Zarate |'
+	document.getElementById('cab7_2025_2_12').title='| Cliente: Laura Zarate |'
+	document.getElementById('cab7_2025_2_13').title='| Cliente: Laura Zarate |'
 	document.getElementById('cab5_2025_2_23').title='| Cliente: Vanina Caceres |'
 	document.getElementById('cab5_2025_2_24').title='| Cliente: Vanina Caceres |'
 	document.getElementById('cab5_2025_2_25').title='| Cliente: Vanina Caceres |'
@@ -903,15 +903,15 @@ function setCalendarHint17(){
 	document.getElementById('cab6_2025_1_31').title='| Cliente: Roza | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 200000 |'
 	document.getElementById('cab6_2025_2_1').title='| Cliente: Roza | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 200000 |'
 	document.getElementById('cab6_2025_2_2').title='| Cliente: Roza | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 200000 |'
-	document.getElementById('cab6_2025_2_10').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab6_2025_2_11').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab6_2025_2_12').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab6_2025_2_10').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab6_2025_2_11').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab6_2025_2_12').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab6_2025_2_10').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab6_2025_2_11').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
-	document.getElementById('cab6_2025_2_12').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
+	document.getElementById('cab8_2025_2_10').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
+	document.getElementById('cab8_2025_2_11').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
+	document.getElementById('cab8_2025_2_12').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
+	document.getElementById('cab8_2025_2_10').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
+	document.getElementById('cab8_2025_2_11').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
+	document.getElementById('cab8_2025_2_12').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
+	document.getElementById('cab8_2025_2_10').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
+	document.getElementById('cab8_2025_2_11').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
+	document.getElementById('cab8_2025_2_12').title='| Cliente: Turco | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 98000 |'
 	document.getElementById('cab5_2025_2_17').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
 	document.getElementById('cab5_2025_2_18').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
 	document.getElementById('cab5_2025_2_19').title='| Cliente: Alderete | Caba�a: Mini 2 | Usa Cuna: No | Deposito: $ 177000 |'
@@ -2384,13 +2384,13 @@ table td{
 #cab6_2025_2_2{
   background-color:#FF0000;
 }
-#cab6_2025_2_10{
+#cab8_2025_2_10{
   background-color: #F00FFF;
 }
-#cab6_2025_2_11{
+#cab8_2025_2_11{
   background-color: #F00FFF;
 }
-#cab6_2025_2_12{
+#cab8_2025_2_12{
   background-color: #F00FFF;
 }
 #cab5_2025_2_17{
@@ -2602,16 +2602,16 @@ table td{
   background-color: red;
 }
 /* laura zarate */
-#cab5_2025_2_10{
+#cab7_2025_2_10{
   background-color: #00FFFF;
 }
-#cab5_2025_2_11{
+#cab7_2025_2_11{
   background-color: #00FFFF;
 }
-#cab5_2025_2_12{
+#cab7_2025_2_12{
   background-color: #00FFFF;
 }
-#cab5_2025_2_13{
+#cab7_2025_2_13{
   background-color: #00FFFF;
 }
 /* mariela pastorino */
