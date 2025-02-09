@@ -932,6 +932,14 @@ function setCalendarHint17(){
 	document.getElementById('cab3_2024_12_30').title='| Cliente: Lujan Daniela |'
 	document.getElementById('cab3_2024_12_31').title='| Cliente: Lujan Daniela |'
 	document.getElementById('cab3_2025_1_1').title='| Cliente: Lujan Daniela |'
+	document.getElementById('cab7_2025_2_22').title='| Cliente: Edgardo Kirigin |'
+	document.getElementById('cab7_2025_2_23').title='| Cliente: Edgardo Kirigin |'
+	document.getElementById('cab7_2025_2_24').title='| Cliente: Edgardo Kirigin |'
+	document.getElementById('cab7_2025_2_25').title='| Cliente: Edgardo Kirigin |'
+	document.getElementById('cab8_2025_2_22').title='| Cliente: Jorge Romero |'
+	document.getElementById('cab8_2025_2_23').title='| Cliente: Jorge Romero |'
+	document.getElementById('cab8_2025_2_24').title='| Cliente: Jorge Romero |'
+	document.getElementById('cab8_2025_2_25').title='| Cliente: Jorge Romero |'
 	document.getElementById('cab1_2025_2_15').title='| Cliente: Sole Fasano |'
 	document.getElementById('cab1_2025_2_16').title='| Cliente: Sole Fasano |'
 	document.getElementById('cab1_2025_2_17').title='| Cliente: Sole Fasano |'
@@ -2889,6 +2897,32 @@ table td{
 }
 #cab5_2025_2_1{
   background-color:#99CC33;
+}
+/* Edgardo Kirigin */
+#cab7_2025_2_22{
+  background-color:red;
+}
+#cab7_2025_2_23{
+  background-color:red;
+}
+#cab7_2025_2_24{
+  background-color:red;
+}
+#cab7_2025_2_25{
+  background-color:red
+}
+/* Jorge Romero */
+#cab8_2025_2_22{
+  background-color:red;
+}
+#cab8_2025_2_23{
+  background-color:red;
+}
+#cab8_2025_2_24{
+  background-color:red;
+}
+#cab8_2025_2_25{
+  background-color:red;
 }
 /* daniela lujan */
 #cab3_2024_12_30{
