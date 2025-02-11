@@ -940,10 +940,6 @@ function setCalendarHint17(){
 	document.getElementById('cab8_2025_2_23').title='| Cliente: Jorge Romero |'
 	document.getElementById('cab8_2025_2_24').title='| Cliente: Jorge Romero |'
 	document.getElementById('cab8_2025_2_25').title='| Cliente: Jorge Romero |'
-	document.getElementById('cab1_2025_2_15').title='| Cliente: Sole Fasano |'
-	document.getElementById('cab1_2025_2_16').title='| Cliente: Sole Fasano |'
-	document.getElementById('cab1_2025_2_17').title='| Cliente: Sole Fasano |'
-	document.getElementById('cab1_2025_2_18').title='| Cliente: Sole Fasano |'
 	document.getElementById('cab5_2025_1_3').title='| Cliente: Natali Pimentel |'
 	document.getElementById('cab5_2025_1_4').title='| Cliente: Natali Pimentel |'
 	document.getElementById('cab3_2025_2_8').title='| Cliente: Lorena Toledo |'
@@ -2932,19 +2928,6 @@ table td{
   background-color:#00FFFF;
 }
 #cab3_2025_1_1{
-  background-color:#00FFFF;
-}
-/* sole fasano */
-#cab1_2025_2_15{
-  background-color:#00FFFF;
-}
-#cab1_2025_2_16{
-  background-color:#00FFFF;
-}
-#cab1_2025_2_17{
-  background-color:#00FFFF;
-}
-#cab1_2025_2_18{
   background-color:#00FFFF;
 }
 /* ferraris hugo */
