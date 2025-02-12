@@ -934,6 +934,12 @@ function setCalendarHint17(){
 	document.getElementById('cab5_2025_1_4').title='| Cliente: Natali Pimentel |'
 	document.getElementById('cab3_2025_2_8').title='| Cliente: Lorena Toledo |'
 	document.getElementById('cab3_2025_2_9').title='| Cliente: Lorena Toledo |'
+  /* Belen Finos */
+	document.getElementById('cab1_2025_2_15').title='| Cliente: Belen Finos |'
+	document.getElementById('cab1_2025_2_16').title='| Cliente: Belen Finos |'
+	document.getElementById('cab1_2025_2_17').title='| Cliente: Belen Finos |'
+	document.getElementById('cab1_2025_2_18').title='| Cliente: Belen Finos |'
+	document.getElementById('cab1_2025_2_19').title='| Cliente: Belen Finos |'
 	document.getElementById('cab1_2025_2_20').title='| Cliente: Hugo Ferraris |'
 	document.getElementById('cab1_2025_2_21').title='| Cliente: Hugo Ferraris |'
 	document.getElementById('cab1_2025_2_22').title='| Cliente: Hugo Ferraris |'
@@ -2961,7 +2967,22 @@ table td{
 #cab8_2025_3_4{
   background-color:lightblue;
 }
-
+/* Belen Finos */
+#cab1_2025_2_15{
+  background-color:red;
+}
+#cab1_2025_2_16{
+  background-color:red;
+}
+#cab1_2025_2_17{
+  background-color:red;
+}
+#cab1_2025_2_18{
+  background-color:red;
+}
+#cab1_2025_2_19{
+  background-color:red;
+}
 /* ferraris hugo */
 #cab1_2025_2_20{
   background-color:magenta;
