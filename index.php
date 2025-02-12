@@ -961,6 +961,15 @@ function setCalendarHint17(){
   document.getElementById('cab6_2025_2_13').title='| Cliente: Pablo Irazoque |'
   document.getElementById('cab6_2025_2_14').title='| Cliente: Pablo Irazoque |'
   document.getElementById('cab6_2025_2_15').title='| Cliente: Pablo Irazoque |'
+	document.getElementById('cab6_2025_2_28').title='| Cliente: Juan Pablo Cardozo |'
+	document.getElementById('cab6_2025_3_1').title='| Cliente: Juan Pablo Cardozo |'
+	document.getElementById('cab6_2025_3_2').title='| Cliente: Juan Pablo Cardozo |'
+	document.getElementById('cab6_2025_3_3').title='| Cliente: Juan Pablo Cardozo |'
+	document.getElementById('cab6_2025_3_4').title='| Cliente: Juan Pablo Cardozo |'
+	document.getElementById('cab8_2025_3_1').title='| Cliente: Claudia Gerez |'
+	document.getElementById('cab8_2025_3_2').title='| Cliente: Claudia Gerez |'
+	document.getElementById('cab8_2025_3_3').title='| Cliente: Claudia Gerez |'
+	document.getElementById('cab8_2025_3_4').title='| Cliente: Claudia Gerez |'
 }
 function setCalendarHint18(){
 	document.getElementById('cab7_2024_12_26').title='| Cliente: BLOQUEADO | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 0 |'
@@ -977,6 +986,7 @@ function setCalendarHint19(){
 	document.getElementById('cab7_2024_12_29').title='| Cliente: Colabella | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 150000 |'
 	document.getElementById('cab7_2024_12_30').title='| Cliente: Colabella | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 150000 |'
 	document.getElementById('cab7_2024_12_31').title='| Cliente: Colabella | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 150000 |'
+
 }
 function setCalendarHint20(){
 	document.getElementById('cab7_2025_1_1').title='| Cliente: Budino | Caba�a: Mini 3 | Usa Cuna: No | Deposito: $ 163000 |'
@@ -2930,6 +2940,38 @@ table td{
 #cab3_2025_1_1{
   background-color:#00FFFF;
 }
+
+/* juan pablo cardozo */
+#cab6_2025_2_28{
+  background-color:lightblue;
+}
+#cab6_2025_3_1{
+  background-color:lightblue;
+}
+#cab6_2025_3_2{
+  background-color:lightblue;
+}
+#cab6_2025_3_3{
+  background-color:lightblue;
+}
+#cab6_2025_3_4{
+  background-color:lightblue;
+}
+
+/* Claudia Gerez */
+#cab8_2025_3_1{
+  background-color:lightblue;
+}
+#cab8_2025_3_2{
+  background-color:lightblue;
+}
+#cab8_2025_3_3{
+  background-color:lightblue;
+}
+#cab8_2025_3_4{
+  background-color:lightblue;
+}
+
 /* ferraris hugo */
 #cab2_2025_2_20{
   background-color:magenta;
