@@ -159,21 +159,11 @@ function setCalendarHint2(){
 	document.getElementById('cab1_2025_2_12').title='| Cliente: Schmidt | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 240000 |'
 	document.getElementById('cab1_2025_2_13').title='| Cliente: Schmidt | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 240000 |'
 	document.getElementById('cab1_2025_2_14').title='| Cliente: Schmidt | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 240000 |'
-	document.getElementById('cab1_2025_2_19').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
-	document.getElementById('cab1_2025_2_20').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
-	document.getElementById('cab1_2025_2_21').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
-	document.getElementById('cab1_2025_2_22').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
-	document.getElementById('cab1_2025_2_23').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
-	document.getElementById('cab1_2025_2_19').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
-	document.getElementById('cab1_2025_2_20').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
-	document.getElementById('cab1_2025_2_21').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
-	document.getElementById('cab1_2025_2_22').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
-	document.getElementById('cab1_2025_2_23').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
-	document.getElementById('cab1_2025_2_19').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
-	document.getElementById('cab1_2025_2_20').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
-	document.getElementById('cab1_2025_2_21').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
-	document.getElementById('cab1_2025_2_22').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
-	document.getElementById('cab1_2025_2_23').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
+	document.getElementById('cab2_2025_2_19').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
+	document.getElementById('cab2_2025_2_20').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
+	document.getElementById('cab2_2025_2_21').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
+	document.getElementById('cab2_2025_2_22').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
+	document.getElementById('cab2_2025_2_23').title='| Cliente: Blanco | Caba�a: Cabaña 1 | Usa Cuna: No | Deposito: $ 250000 |'
 	document.getElementById('cab6_2025_2_16').title='| Cliente: Romina Lopez |'
 	document.getElementById('cab6_2025_2_17').title='| Cliente: Romina Lopez |'
 	document.getElementById('cab6_2025_2_18').title='| Cliente: Romina Lopez |'
@@ -944,9 +934,9 @@ function setCalendarHint17(){
 	document.getElementById('cab5_2025_1_4').title='| Cliente: Natali Pimentel |'
 	document.getElementById('cab3_2025_2_8').title='| Cliente: Lorena Toledo |'
 	document.getElementById('cab3_2025_2_9').title='| Cliente: Lorena Toledo |'
-	document.getElementById('cab2_2025_2_20').title='| Cliente: Hugo Ferraris |'
-	document.getElementById('cab2_2025_2_21').title='| Cliente: Hugo Ferraris |'
-	document.getElementById('cab2_2025_2_22').title='| Cliente: Hugo Ferraris |'
+	document.getElementById('cab1_2025_2_20').title='| Cliente: Hugo Ferraris |'
+	document.getElementById('cab1_2025_2_21').title='| Cliente: Hugo Ferraris |'
+	document.getElementById('cab1_2025_2_22').title='| Cliente: Hugo Ferraris |'
 	document.getElementById('cab5_2025_2_14').title='| Cliente: Tito Colombo |'
 	document.getElementById('cab5_2025_2_15').title='| Cliente: Tito Colombo |'
 	document.getElementById('cab5_2025_2_16').title='| Cliente: Tito Colombo |'
@@ -1444,19 +1434,19 @@ table td{
 #cab1_2025_2_14{
   background-color: #99CC33;
 }
-#cab1_2025_2_19{
+#cab2_2025_2_19{
   background-color: #999999;
 }
-#cab1_2025_2_20{
+#cab2_2025_2_20{
   background-color: #999999;
 }
-#cab1_2025_2_21{
+#cab2_2025_2_21{
   background-color: #999999;
 }
-#cab1_2025_2_22{
+#cab2_2025_2_22{
   background-color: #999999;
 }
-#cab1_2025_2_23{
+#cab2_2025_2_23{
   background-color: #999999;
 }
 #cab1_2025_1_1{
@@ -2973,13 +2963,13 @@ table td{
 }
 
 /* ferraris hugo */
-#cab2_2025_2_20{
+#cab1_2025_2_20{
   background-color:magenta;
 }
-#cab2_2025_2_21{
+#cab1_2025_2_21{
   background-color:magenta;
 }
-#cab2_2025_2_22{
+#cab1_2025_2_22{
   background-color:magenta;
 }
 /* natali pimentel */
