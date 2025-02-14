@@ -940,6 +940,8 @@ function setCalendarHint17(){
 	document.getElementById('cab8_2025_2_19').title='| Cliente: Karina de Priego |'
 	document.getElementById('cab8_2025_2_20').title='| Cliente: Karina de Priego |'
 	document.getElementById('cab8_2025_2_21').title='| Cliente: Karina de Priego |'
+	document.getElementById('cab2_2025_2_17').title='| Cliente: Priscila Mazzia |'
+	document.getElementById('cab2_2025_2_18').title='| Cliente: Priscila Mazzia |'
   /* Belen Finos */
 	document.getElementById('cab1_2025_2_15').title='| Cliente: Belen Finos |'
 	document.getElementById('cab1_2025_2_16').title='| Cliente: Belen Finos |'
@@ -2990,6 +2992,13 @@ table td{
   background-color:lightblue;
 }
 #cab8_2025_2_21{
+  background-color:lightblue;
+}
+/* Priscila Mazzia */
+#cab2_2025_2_17{
+  background-color:lightblue;
+}
+#cab2_2025_2_18{
   background-color:lightblue;
 }
 
