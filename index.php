@@ -942,6 +942,10 @@ function setCalendarHint17(){
 	document.getElementById('cab8_2025_2_21').title='| Cliente: Karina de Priego |'
 	document.getElementById('cab2_2025_2_17').title='| Cliente: Priscila Mazzia |'
 	document.getElementById('cab2_2025_2_18').title='| Cliente: Priscila Mazzia |'
+	document.getElementById('cab5_2025_3_1').title='| Cliente: Veronica Hernandez |'
+	document.getElementById('cab5_2025_3_2').title='| Cliente: Veronica Hernandez |'
+	document.getElementById('cab5_2025_3_3').title='| Cliente: Veronica Hernandez |'
+	document.getElementById('cab5_2025_3_4').title='| Cliente: Veronica Hernandez |'
   /* Belen Finos */
 	document.getElementById('cab1_2025_2_15').title='| Cliente: Belen Finos |'
 	document.getElementById('cab1_2025_2_16').title='| Cliente: Belen Finos |'
@@ -2993,6 +2997,19 @@ table td{
 }
 #cab8_2025_2_21{
   background-color:lightblue;
+}
+/* Veronica Hernandez */
+#cab5_2025_3_1{
+  background-color:yellow;
+}
+#cab5_2025_3_2{
+  background-color:yellow;
+}
+#cab5_2025_3_3{
+  background-color:yellow;
+}
+#cab5_2025_3_4{
+  background-color:yellow;
 }
 /* Priscila Mazzia */
 #cab2_2025_2_17{
