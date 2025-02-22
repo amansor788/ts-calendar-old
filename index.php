@@ -946,6 +946,10 @@ function setCalendarHint17(){
 	document.getElementById('cab5_2025_3_2').title='| Cliente: Veronica Hernandez |'
 	document.getElementById('cab5_2025_3_3').title='| Cliente: Veronica Hernandez |'
 	document.getElementById('cab5_2025_3_4').title='| Cliente: Veronica Hernandez |'
+	document.getElementById('cab7_2025_3_1').title='| Cliente: Sandra Toso |'
+	document.getElementById('cab7_2025_3_2').title='| Cliente: Sandra Toso |'
+	document.getElementById('cab7_2025_3_3').title='| Cliente: Sandra Toso |'
+	document.getElementById('cab7_2025_3_4').title='| Cliente: Sandra Toso |'
   /* Belen Finos */
 	document.getElementById('cab1_2025_2_15').title='| Cliente: Belen Finos |'
 	document.getElementById('cab1_2025_2_16').title='| Cliente: Belen Finos |'
@@ -3018,7 +3022,19 @@ table td{
 #cab2_2025_2_18{
   background-color:lightblue;
 }
-
+/* Sandra Toso */
+#cab7_2025_3_1{
+  background-color:red;
+}
+#cab7_2025_3_2{
+  background-color:red;
+}
+#cab7_2025_3_3{
+  background-color:red;
+}
+#cab7_2025_3_4{
+  background-color:red;
+}
 /* Belen Finos */
 #cab1_2025_2_15{
   background-color:red;
