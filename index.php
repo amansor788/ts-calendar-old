@@ -942,6 +942,8 @@ function setCalendarHint17(){
 	document.getElementById('cab8_2025_2_21').title='| Cliente: Karina de Priego |'
 	document.getElementById('cab2_2025_2_17').title='| Cliente: Priscila Mazzia |'
 	document.getElementById('cab2_2025_2_18').title='| Cliente: Priscila Mazzia |'
+	document.getElementById('cab2_2025_2_24').title='| Cliente: Constanza Soria |'
+	document.getElementById('cab2_2025_2_25').title='| Cliente: Constanza Soria |'
 	document.getElementById('cab5_2025_3_1').title='| Cliente: Veronica Hernandez |'
 	document.getElementById('cab5_2025_3_2').title='| Cliente: Veronica Hernandez |'
 	document.getElementById('cab5_2025_3_3').title='| Cliente: Veronica Hernandez |'
@@ -3002,6 +3004,14 @@ table td{
 #cab8_2025_2_21{
   background-color:lightblue;
 }
+/* Constanza Soria */
+#cab2_2025_2_24{
+  background-color:yellow;
+}
+#cab2_2025_2_25{
+  background-color:yellow;
+}
+
 /* Veronica Hernandez */
 #cab5_2025_3_1{
   background-color:yellow;
