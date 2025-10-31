@@ -308,6 +308,27 @@ function setCalendarHints(){
 #cab6_2025_11_26 {
     background-color: #66B3FF;
 }
+#cab6_2026_1_18 {
+    background-color: #FFB366;
+}
+#cab6_2026_1_19 {
+    background-color: #FFB366;
+}
+#cab6_2026_1_20 {
+    background-color: #FFB366;
+}
+#cab6_2026_1_21 {
+    background-color: #FFB366;
+}
+#cab6_2026_1_22 {
+    background-color: #FFB366;
+}
+#cab6_2026_1_23 {
+    background-color: #FFB366;
+}
+#cab6_2026_1_24 {
+    background-color: #FFB366;
+}
 #cab7_2025_11_20 {
     background-color: #FF9999;
 }
