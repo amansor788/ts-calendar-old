@@ -2,14 +2,14 @@
 from datetime import datetime, timedelta
 import re
 
-# Paleta de 6 colores pastel
+# Paleta de 6 colores fuertes y contrastados
 COLORS = [
-    "#FFE5B4",  # Beige claro
-    "#B4E5FF",  # Azul claro  
-    "#D4FFD4",  # Verde claro
-    "#FFD4FF",  # Rosa claro
-    "#E5D4FF",  # Morado claro
-    "#FFFFD4",  # Amarillo claro
+    "#FF9999",  # Coral/Rojo fuerte
+    "#66B3FF",  # Azul brillante
+    "#99FF99",  # Verde brillante
+    "#FFB366",  # Naranja fuerte
+    "#CC99FF",  # Morado brillante
+    "#FFFF66",  # Amarillo brillante
 ]
 
 # Reservas con los cambios aplicados
@@ -95,7 +95,7 @@ for cabin, indices in cabin_bookings.items():
             color_index = (color_index + 1) % len(COLORS)
 
 # Read the file
-with open('index2026.php', 'r') as f:
+with open('index.php', 'r') as f:
     content = f.read()
 
 # Replace the entire style section
@@ -185,7 +185,7 @@ for idx, booking in enumerate(bookings):
         current_date += timedelta(days=1)
 
 # Write the updated content
-with open('index2026.php', 'w') as f:
+with open('index.php', 'w') as f:
     f.write(content)
 
 print(f"✅ Procesadas {len(bookings)} reservas")
