@@ -266,6 +266,15 @@ function setCalendarHints(){
 #cab5_2025_11_2 {
     background-color: #FF9999;
 }
+#cab5_2026_1_9 {
+    background-color: #FFCC99;
+}
+#cab5_2026_1_10 {
+    background-color: #FFCC99;
+}
+#cab5_2026_1_11 {
+    background-color: #FFCC99;
+}
 #cab5_2026_1_21 {
     background-color: #66B3FF;
 }
@@ -1608,9 +1617,9 @@ function setCalendarHints(){
     <td id='cab5_2026_1_6'>6</td>
     <td id='cab5_2026_1_7'>7</td>
     <td id='cab5_2026_1_8'>8</td>
-    <td id='cab5_2026_1_9'>9</td>
-    <td id='cab5_2026_1_10'>10</td>
-    <td id='cab5_2026_1_11'>11</td>
+    <td id='cab5_2026_1_9' title='Dascanio Adolfo'>9</td>
+    <td id='cab5_2026_1_10' title='Dascanio Adolfo'>10</td>
+    <td id='cab5_2026_1_11' title='Dascanio Adolfo'>11</td>
   </tr>
   <tr>
     <td id='cab5_2026_1_12'>12</td>
