@@ -266,6 +266,15 @@ function setCalendarHints(){
 #cab5_2025_11_2 {
     background-color: #FF9999;
 }
+#cab5_2025_11_21 {
+    background-color: #99CCFF;
+}
+#cab5_2025_11_22 {
+    background-color: #99CCFF;
+}
+#cab5_2025_11_23 {
+    background-color: #99CCFF;
+}
 #cab5_2026_1_9 {
     background-color: #FFCC99;
 }
@@ -1505,9 +1514,9 @@ function setCalendarHints(){
     <td id='cab5_2025_11_18'>18</td>
     <td id='cab5_2025_11_19'>19</td>
     <td id='cab5_2025_11_20'>20</td>
-    <td id='cab5_2025_11_21'>21</td>
-    <td id='cab5_2025_11_22'>22</td>
-    <td id='cab5_2025_11_23'>23</td>
+    <td id='cab5_2025_11_21' title='Fajardo Gustavo'>21</td>
+    <td id='cab5_2025_11_22' title='Fajardo Gustavo'>22</td>
+    <td id='cab5_2025_11_23' title='Fajardo Gustavo'>23</td>
   </tr>
   <tr>
     <td id='cab5_2025_11_24'>24</td>
