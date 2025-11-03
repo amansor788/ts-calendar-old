@@ -245,6 +245,15 @@ function setCalendarHints(){
 #cab3_2026_1_7 {
     background-color: #FF9999;
 }
+#cab3_2025_11_21 {
+    background-color: #FF99CC;
+}
+#cab3_2025_11_22 {
+    background-color: #FF99CC;
+}
+#cab3_2025_11_23 {
+    background-color: #FF99CC;
+}
 #cab3_2026_1_9 {
     background-color: #66B3FF;
 }
@@ -986,9 +995,9 @@ function setCalendarHints(){
     <td id='cab3_2025_11_18'>18</td>
     <td id='cab3_2025_11_19'>19</td>
     <td id='cab3_2025_11_20'>20</td>
-    <td id='cab3_2025_11_21'>21</td>
-    <td id='cab3_2025_11_22'>22</td>
-    <td id='cab3_2025_11_23'>23</td>
+    <td id='cab3_2025_11_21' title='Gimenez Valentina'>21</td>
+    <td id='cab3_2025_11_22' title='Gimenez Valentina'>22</td>
+    <td id='cab3_2025_11_23' title='Gimenez Valentina'>23</td>
   </tr>
   <tr>
     <td id='cab3_2025_11_24'>24</td>
