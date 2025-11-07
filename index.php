@@ -62,6 +62,21 @@ function setCalendarHints(){
 #cab1_2026_1_16 {
     background-color: #FFB366;
 }
+#cab1_2026_1_19 {
+    background-color: #FFCC66;
+}
+#cab1_2026_1_20 {
+    background-color: #FFCC66;
+}
+#cab1_2026_1_21 {
+    background-color: #FFCC66;
+}
+#cab1_2026_1_22 {
+    background-color: #FFCC66;
+}
+#cab1_2026_1_23 {
+    background-color: #FFCC66;
+}
 #cab2_2026_1_2 {
     background-color: #99FF99;
 }
@@ -365,6 +380,42 @@ function setCalendarHints(){
 #cab6_2026_1_24 {
     background-color: #FFB366;
 }
+#cab6_2026_1_29 {
+    background-color: #99CCFF;
+}
+#cab6_2026_1_30 {
+    background-color: #99CCFF;
+}
+#cab6_2026_1_31 {
+    background-color: #99CCFF;
+}
+#cab6_2026_2_1 {
+    background-color: #99CCFF;
+}
+#cab6_2026_2_2 {
+    background-color: #99CCFF;
+}
+#cab6_2026_2_3 {
+    background-color: #99CCFF;
+}
+#cab6_2026_2_4 {
+    background-color: #99CCFF;
+}
+#cab6_2026_2_5 {
+    background-color: #99CCFF;
+}
+#cab6_2026_2_6 {
+    background-color: #99CCFF;
+}
+#cab6_2026_2_7 {
+    background-color: #99CCFF;
+}
+#cab6_2026_2_8 {
+    background-color: #99CCFF;
+}
+#cab6_2026_2_9 {
+    background-color: #99CCFF;
+}
 #cab7_2025_11_20 {
     background-color: #FF9999;
 }
@@ -601,11 +652,11 @@ function setCalendarHints(){
     <td id='cab1_2026_1_18'>18</td>
   </tr>
   <tr>
-    <td id='cab1_2026_1_19'>19</td>
-    <td id='cab1_2026_1_20'>20</td>
-    <td id='cab1_2026_1_21'>21</td>
-    <td id='cab1_2026_1_22'>22</td>
-    <td id='cab1_2026_1_23'>23</td>
+    <td id='cab1_2026_1_19' title='Aguirre Belen (3)'>19</td>
+    <td id='cab1_2026_1_20' title='Aguirre Belen (3)'>20</td>
+    <td id='cab1_2026_1_21' title='Aguirre Belen (3)'>21</td>
+    <td id='cab1_2026_1_22' title='Aguirre Belen (3)'>22</td>
+    <td id='cab1_2026_1_23' title='Aguirre Belen (3)'>23</td>
     <td id='cab1_2026_1_24'>24</td>
     <td id='cab1_2026_1_25'>25</td>
   </tr>
@@ -1934,9 +1985,9 @@ function setCalendarHints(){
     <td id='cab6_2026_1_26'>26</td>
     <td id='cab6_2026_1_27'>27</td>
     <td id='cab6_2026_1_28'>28</td>
-    <td id='cab6_2026_1_29'>29</td>
-    <td id='cab6_2026_1_30'>30</td>
-    <td id='cab6_2026_1_31'>31</td>
+    <td id='cab6_2026_1_29' title='De San Pio Miguel Angel (2)'>29</td>
+    <td id='cab6_2026_1_30' title='De San Pio Miguel Angel (2)'>30</td>
+    <td id='cab6_2026_1_31' title='De San Pio Miguel Angel (2)'>31</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -1966,19 +2017,19 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab6_2026_2_1'>1</td>
+    <td id='cab6_2026_2_1' title='De San Pio Miguel Angel (2)'>1</td>
   </tr>
   <tr>
-    <td id='cab6_2026_2_2'>2</td>
-    <td id='cab6_2026_2_3'>3</td>
-    <td id='cab6_2026_2_4'>4</td>
-    <td id='cab6_2026_2_5'>5</td>
-    <td id='cab6_2026_2_6'>6</td>
-    <td id='cab6_2026_2_7'>7</td>
-    <td id='cab6_2026_2_8'>8</td>
+    <td id='cab6_2026_2_2' title='De San Pio Miguel Angel (2)'>2</td>
+    <td id='cab6_2026_2_3' title='De San Pio Miguel Angel (2)'>3</td>
+    <td id='cab6_2026_2_4' title='De San Pio Miguel Angel (2)'>4</td>
+    <td id='cab6_2026_2_5' title='De San Pio Miguel Angel (2)'>5</td>
+    <td id='cab6_2026_2_6' title='De San Pio Miguel Angel (2)'>6</td>
+    <td id='cab6_2026_2_7' title='De San Pio Miguel Angel (2)'>7</td>
+    <td id='cab6_2026_2_8' title='De San Pio Miguel Angel (2)'>8</td>
   </tr>
   <tr>
-    <td id='cab6_2026_2_9'>9</td>
+    <td id='cab6_2026_2_9' title='De San Pio Miguel Angel (2)'>9</td>
     <td id='cab6_2026_2_10'>10</td>
     <td id='cab6_2026_2_11'>11</td>
     <td id='cab6_2026_2_12'>12</td>
