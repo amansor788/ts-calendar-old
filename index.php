@@ -29,16 +29,16 @@ function setCalendarHints(){
 #cab1_2025_11_23 {
     background-color: #66B3FF;
 }
-#cab1_2025_12_29 {
+#cab2_2025_12_29 {
     background-color: #99FF99;
 }
-#cab1_2025_12_30 {
+#cab2_2025_12_30 {
     background-color: #99FF99;
 }
-#cab1_2025_12_31 {
+#cab2_2025_12_31 {
     background-color: #99FF99;
 }
-#cab1_2026_1_1 {
+#cab2_2026_1_1 {
     background-color: #99FF99;
 }
 #cab1_2026_1_10 {
@@ -62,22 +62,22 @@ function setCalendarHints(){
 #cab1_2026_1_16 {
     background-color: #FFB366;
 }
-#cab1_2026_1_2 {
+#cab2_2026_1_2 {
     background-color: #99FF99;
 }
-#cab1_2026_1_3 {
+#cab2_2026_1_3 {
     background-color: #99FF99;
 }
-#cab1_2026_1_4 {
+#cab2_2026_1_4 {
     background-color: #99FF99;
 }
-#cab1_2026_1_5 {
+#cab2_2026_1_5 {
     background-color: #99FF99;
 }
-#cab1_2026_1_6 {
+#cab2_2026_1_6 {
     background-color: #99FF99;
 }
-#cab1_2026_1_7 {
+#cab2_2026_1_7 {
     background-color: #99FF99;
 }
 #cab2_2025_11_22 {
@@ -158,34 +158,34 @@ function setCalendarHints(){
 #cab2_2026_1_29 {
     background-color: #CC99FF;
 }
-#cab2_2026_1_3 {
+#cab1_2026_1_3 {
     background-color: #66B3FF;
 }
 #cab2_2026_1_30 {
     background-color: #CC99FF;
 }
-#cab2_2026_1_4 {
+#cab1_2026_1_4 {
     background-color: #66B3FF;
 }
-#cab2_2026_1_5 {
+#cab1_2026_1_5 {
     background-color: #66B3FF;
 }
-#cab2_2026_1_6 {
+#cab1_2026_1_6 {
     background-color: #66B3FF;
 }
-#cab2_2026_1_7 {
+#cab1_2026_1_7 {
     background-color: #66B3FF;
 }
-#cab3_2025_12_29 {
+#cab4_2025_12_29 {
     background-color: #FF9999;
 }
-#cab3_2025_12_30 {
+#cab4_2025_12_30 {
     background-color: #FF9999;
 }
-#cab3_2025_12_31 {
+#cab4_2025_12_31 {
     background-color: #FF9999;
 }
-#cab3_2026_1_1 {
+#cab4_2026_1_1 {
     background-color: #FF9999;
 }
 #cab3_2026_1_10 {
@@ -218,7 +218,7 @@ function setCalendarHints(){
 #cab3_2026_1_19 {
     background-color: #66B3FF;
 }
-#cab3_2026_1_2 {
+#cab4_2026_1_2 {
     background-color: #FF9999;
 }
 #cab3_2026_1_20 {
@@ -230,19 +230,19 @@ function setCalendarHints(){
 #cab3_2026_1_22 {
     background-color: #66B3FF;
 }
-#cab3_2026_1_3 {
+#cab4_2026_1_3 {
     background-color: #FF9999;
 }
-#cab3_2026_1_4 {
+#cab4_2026_1_4 {
     background-color: #FF9999;
 }
-#cab3_2026_1_5 {
+#cab4_2026_1_5 {
     background-color: #FF9999;
 }
-#cab3_2026_1_6 {
+#cab4_2026_1_6 {
     background-color: #FF9999;
 }
-#cab3_2026_1_7 {
+#cab4_2026_1_7 {
     background-color: #FF9999;
 }
 #cab3_2025_11_21 {
@@ -254,6 +254,18 @@ function setCalendarHints(){
 #cab3_2025_11_23 {
     background-color: #FF99CC;
 }
+#cab3_2026_1_5 {
+    background-color: #99FFCC;
+}
+#cab3_2026_1_6 {
+    background-color: #99FFCC;
+}
+#cab3_2026_1_7 {
+    background-color: #99FFCC;
+}
+#cab3_2026_1_8 {
+    background-color: #99FFCC;
+}
 #cab3_2026_1_9 {
     background-color: #66B3FF;
 }
@@ -264,9 +276,6 @@ function setCalendarHints(){
     background-color: #FF9999;
 }
 #cab4_2026_1_7 {
-    background-color: #FF9999;
-}
-#cab4_2026_1_8 {
     background-color: #FF9999;
 }
 #cab5_2025_11_1 {
@@ -536,9 +545,9 @@ function setCalendarHints(){
     <td id='cab1_2025_12_28'>28</td>
   </tr>
   <tr>
-    <td id='cab1_2025_12_29' title='Perez Daniel (Es cliente)'>29</td>
-    <td id='cab1_2025_12_30' title='Perez Daniel (Es cliente)'>30</td>
-    <td id='cab1_2025_12_31' title='Perez Daniel (Es cliente)'>31</td>
+    <td id='cab1_2025_12_29'>29</td>
+    <td id='cab1_2025_12_30'>30</td>
+    <td id='cab1_2025_12_31'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -568,15 +577,15 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab1_2026_1_1' title='Perez Daniel (Es cliente)'>1</td>
-    <td id='cab1_2026_1_2' title='Perez Daniel (Es cliente)'>2</td>
-    <td id='cab1_2026_1_3' title='Perez Daniel (Es cliente)'>3</td>
-    <td id='cab1_2026_1_4' title='Perez Daniel (Es cliente)'>4</td>
+    <td id='cab1_2026_1_1'>1</td>
+    <td id='cab1_2026_1_2'>2</td>
+    <td id='cab1_2026_1_3' title='Barale Eugenia'>3</td>
+    <td id='cab1_2026_1_4' title='Barale Eugenia'>4</td>
   </tr>
   <tr>
-    <td id='cab1_2026_1_5' title='Perez Daniel (Es cliente)'>5</td>
-    <td id='cab1_2026_1_6' title='Perez Daniel (Es cliente)'>6</td>
-    <td id='cab1_2026_1_7' title='Perez Daniel (Es cliente)'>7</td>
+    <td id='cab1_2026_1_5' title='Barale Eugenia'>5</td>
+    <td id='cab1_2026_1_6' title='Barale Eugenia'>6</td>
+    <td id='cab1_2026_1_7' title='Barale Eugenia'>7</td>
     <td id='cab1_2026_1_8'>8</td>
     <td id='cab1_2026_1_9'>9</td>
     <td id='cab1_2026_1_10' title='Cura Maximiliano'>10</td>
@@ -801,9 +810,9 @@ function setCalendarHints(){
     <td id='cab2_2025_12_28'>28</td>
   </tr>
   <tr>
-    <td id='cab2_2025_12_29'>29</td>
-    <td id='cab2_2025_12_30'>30</td>
-    <td id='cab2_2025_12_31'>31</td>
+    <td id='cab2_2025_12_29' title='Perez Daniel (Es cliente)'>29</td>
+    <td id='cab2_2025_12_30' title='Perez Daniel (Es cliente)'>30</td>
+    <td id='cab2_2025_12_31' title='Perez Daniel (Es cliente)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -833,15 +842,15 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab2_2026_1_1'>1</td>
-    <td id='cab2_2026_1_2'>2</td>
-    <td id='cab2_2026_1_3' title='Barale Eugenia'>3</td>
-    <td id='cab2_2026_1_4' title='Barale Eugenia'>4</td>
+    <td id='cab2_2026_1_1' title='Perez Daniel (Es cliente)'>1</td>
+    <td id='cab2_2026_1_2' title='Perez Daniel (Es cliente)'>2</td>
+    <td id='cab2_2026_1_3' title='Perez Daniel (Es cliente)'>3</td>
+    <td id='cab2_2026_1_4' title='Perez Daniel (Es cliente)'>4</td>
   </tr>
   <tr>
-    <td id='cab2_2026_1_5' title='Barale Eugenia'>5</td>
-    <td id='cab2_2026_1_6' title='Barale Eugenia'>6</td>
-    <td id='cab2_2026_1_7' title='Barale Eugenia'>7</td>
+    <td id='cab2_2026_1_5' title='Perez Daniel (Es cliente)'>5</td>
+    <td id='cab2_2026_1_6' title='Perez Daniel (Es cliente)'>6</td>
+    <td id='cab2_2026_1_7' title='Perez Daniel (Es cliente)'>7</td>
     <td id='cab2_2026_1_8'>8</td>
     <td id='cab2_2026_1_9'>9</td>
     <td id='cab2_2026_1_10'>10</td>
@@ -1065,9 +1074,9 @@ function setCalendarHints(){
     <td id='cab3_2025_12_28'>28</td>
   </tr>
   <tr>
-    <td id='cab3_2025_12_29' title='Perez Daniel (Es cliente)'>29</td>
-    <td id='cab3_2025_12_30' title='Perez Daniel (Es cliente)'>30</td>
-    <td id='cab3_2025_12_31' title='Perez Daniel (Es cliente)'>31</td>
+    <td id='cab3_2025_12_29'>29</td>
+    <td id='cab3_2025_12_30'>30</td>
+    <td id='cab3_2025_12_31'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -1097,16 +1106,16 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab3_2026_1_1' title='Perez Daniel (Es cliente)'>1</td>
-    <td id='cab3_2026_1_2' title='Perez Daniel (Es cliente)'>2</td>
-    <td id='cab3_2026_1_3' title='Perez Daniel (Es cliente)'>3</td>
-    <td id='cab3_2026_1_4' title='Perez Daniel (Es cliente)'>4</td>
+    <td id='cab3_2026_1_1'>1</td>
+    <td id='cab3_2026_1_2'>2</td>
+    <td id='cab3_2026_1_3'>3</td>
+    <td id='cab3_2026_1_4'>4</td>
   </tr>
   <tr>
-    <td id='cab3_2026_1_5' title='Perez Daniel (Es cliente)'>5</td>
-    <td id='cab3_2026_1_6' title='Perez Daniel (Es cliente)'>6</td>
-    <td id='cab3_2026_1_7' title='Perez Daniel (Es cliente)'>7</td>
-    <td id='cab3_2026_1_8'>8</td>
+    <td id='cab3_2026_1_5' title='Pascual Pamela'>5</td>
+    <td id='cab3_2026_1_6' title='Pascual Pamela'>6</td>
+    <td id='cab3_2026_1_7' title='Pascual Pamela'>7</td>
+    <td id='cab3_2026_1_8' title='Pascual Pamela'>8</td>
     <td id='cab3_2026_1_9' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>9</td>
     <td id='cab3_2026_1_10' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>10</td>
     <td id='cab3_2026_1_11' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>11</td>
@@ -1329,9 +1338,9 @@ function setCalendarHints(){
     <td id='cab4_2025_12_28'>28</td>
   </tr>
   <tr>
-    <td id='cab4_2025_12_29'>29</td>
-    <td id='cab4_2025_12_30'>30</td>
-    <td id='cab4_2025_12_31'>31</td>
+    <td id='cab4_2025_12_29' title='Perez Daniel (Es cliente)'>29</td>
+    <td id='cab4_2025_12_30' title='Perez Daniel (Es cliente)'>30</td>
+    <td id='cab4_2025_12_31' title='Perez Daniel (Es cliente)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -1361,16 +1370,16 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab4_2026_1_1'>1</td>
-    <td id='cab4_2026_1_2'>2</td>
-    <td id='cab4_2026_1_3'>3</td>
-    <td id='cab4_2026_1_4'>4</td>
+    <td id='cab4_2026_1_1' title='Perez Daniel (Es cliente)'>1</td>
+    <td id='cab4_2026_1_2' title='Perez Daniel (Es cliente)'>2</td>
+    <td id='cab4_2026_1_3' title='Perez Daniel (Es cliente)'>3</td>
+    <td id='cab4_2026_1_4' title='Perez Daniel (Es cliente)'>4</td>
   </tr>
   <tr>
-    <td id='cab4_2026_1_5' title='Pascual Pamela'>5</td>
-    <td id='cab4_2026_1_6' title='Pascual Pamela'>6</td>
-    <td id='cab4_2026_1_7' title='Pascual Pamela'>7</td>
-    <td id='cab4_2026_1_8' title='Pascual Pamela'>8</td>
+    <td id='cab4_2026_1_5' title='Perez Daniel (Es cliente)'>5</td>
+    <td id='cab4_2026_1_6' title='Perez Daniel (Es cliente)'>6</td>
+    <td id='cab4_2026_1_7' title='Perez Daniel (Es cliente)'>7</td>
+    <td id='cab4_2026_1_8'>8</td>
     <td id='cab4_2026_1_9'>9</td>
     <td id='cab4_2026_1_10'>10</td>
     <td id='cab4_2026_1_11'>11</td>
