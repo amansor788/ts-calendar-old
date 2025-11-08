@@ -260,6 +260,15 @@ function setCalendarHints(){
 #cab4_2026_1_7 {
     background-color: #FF9999;
 }
+#cab4_2025_11_21 {
+    background-color: #CCCCFF;
+}
+#cab4_2025_11_22 {
+    background-color: #CCCCFF;
+}
+#cab4_2025_11_23 {
+    background-color: #CCCCFF;
+}
 #cab3_2025_11_21 {
     background-color: #FF99CC;
 }
@@ -1319,9 +1328,9 @@ function setCalendarHints(){
     <td id='cab4_2025_11_18'>18</td>
     <td id='cab4_2025_11_19'>19</td>
     <td id='cab4_2025_11_20'>20</td>
-    <td id='cab4_2025_11_21'>21</td>
-    <td id='cab4_2025_11_22'>22</td>
-    <td id='cab4_2025_11_23'>23</td>
+    <td id='cab4_2025_11_21' title='Damiani Edgardo (2)'>21</td>
+    <td id='cab4_2025_11_22' title='Damiani Edgardo (2)'>22</td>
+    <td id='cab4_2025_11_23' title='Damiani Edgardo (2)'>23</td>
   </tr>
   <tr>
     <td id='cab4_2025_11_24'>24</td>
