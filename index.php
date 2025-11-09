@@ -416,10 +416,10 @@ function setCalendarHints(){
 #cab6_2026_1_24 {
     background-color: #FFB366;
 }
-#cab6_2025_12_5 {
+#cab6_2025_12_6 {
     background-color: #FFCCCC;
 }
-#cab6_2025_12_6 {
+#cab6_2025_12_7 {
     background-color: #FFCCCC;
 }
 #cab6_2026_1_29 {
@@ -1927,9 +1927,9 @@ function setCalendarHints(){
     <td id='cab6_2025_12_2'>2</td>
     <td id='cab6_2025_12_3'>3</td>
     <td id='cab6_2025_12_4'>4</td>
-    <td id='cab6_2025_12_5' title='Cantarutti Adriana (2)'>5</td>
+    <td id='cab6_2025_12_5'>5</td>
     <td id='cab6_2025_12_6' title='Cantarutti Adriana (2)'>6</td>
-    <td id='cab6_2025_12_7'>7</td>
+    <td id='cab6_2025_12_7' title='Cantarutti Adriana (2)'>7</td>
   </tr>
   <tr>
     <td id='cab6_2025_12_8'>8</td>
