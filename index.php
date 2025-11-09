@@ -353,6 +353,18 @@ function setCalendarHints(){
 #cab5_2026_1_11 {
     background-color: #FFCC99;
 }
+#cab5_2026_1_17 {
+    background-color: #FF99FF;
+}
+#cab5_2026_1_18 {
+    background-color: #FF99FF;
+}
+#cab5_2026_1_19 {
+    background-color: #FF99FF;
+}
+#cab5_2026_1_20 {
+    background-color: #FF99FF;
+}
 #cab5_2026_1_21 {
     background-color: #66B3FF;
 }
@@ -1747,12 +1759,12 @@ function setCalendarHints(){
     <td id='cab5_2026_1_14'>14</td>
     <td id='cab5_2026_1_15'>15</td>
     <td id='cab5_2026_1_16'>16</td>
-    <td id='cab5_2026_1_17'>17</td>
-    <td id='cab5_2026_1_18'>18</td>
+    <td id='cab5_2026_1_17' title='Chazarreta Cintia (2)'>17</td>
+    <td id='cab5_2026_1_18' title='Chazarreta Cintia (2)'>18</td>
   </tr>
   <tr>
-    <td id='cab5_2026_1_19'>19</td>
-    <td id='cab5_2026_1_20'>20</td>
+    <td id='cab5_2026_1_19' title='Chazarreta Cintia (2)'>19</td>
+    <td id='cab5_2026_1_20' title='Chazarreta Cintia (2)'>20</td>
     <td id='cab5_2026_1_21' title='Gutierrez Sonia'>21</td>
     <td id='cab5_2026_1_22' title='Gutierrez Sonia'>22</td>
     <td id='cab5_2026_1_23' title='Gutierrez Sonia'>23</td>
