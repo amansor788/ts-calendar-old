@@ -302,6 +302,33 @@ function setCalendarHints(){
 #cab4_2026_1_7 {
     background-color: #FF9999;
 }
+#cab4_2026_1_22 {
+    background-color: #99FF66;
+}
+#cab4_2026_1_23 {
+    background-color: #99FF66;
+}
+#cab4_2026_1_24 {
+    background-color: #99FF66;
+}
+#cab4_2026_1_25 {
+    background-color: #99FF66;
+}
+#cab4_2026_1_26 {
+    background-color: #99FF66;
+}
+#cab4_2026_1_27 {
+    background-color: #99FF66;
+}
+#cab4_2026_1_28 {
+    background-color: #99FF66;
+}
+#cab4_2026_1_29 {
+    background-color: #99FF66;
+}
+#cab4_2026_1_30 {
+    background-color: #99FF66;
+}
 #cab5_2025_11_1 {
     background-color: #FF9999;
 }
@@ -388,6 +415,12 @@ function setCalendarHints(){
 }
 #cab6_2026_1_24 {
     background-color: #FFB366;
+}
+#cab6_2025_12_5 {
+    background-color: #FFCCCC;
+}
+#cab6_2025_12_6 {
+    background-color: #FFCCCC;
 }
 #cab6_2026_1_29 {
     background-color: #99CCFF;
@@ -1457,17 +1490,17 @@ function setCalendarHints(){
     <td id='cab4_2026_1_19'>19</td>
     <td id='cab4_2026_1_20'>20</td>
     <td id='cab4_2026_1_21'>21</td>
-    <td id='cab4_2026_1_22'>22</td>
-    <td id='cab4_2026_1_23'>23</td>
-    <td id='cab4_2026_1_24'>24</td>
-    <td id='cab4_2026_1_25'>25</td>
+    <td id='cab4_2026_1_22' title='Zapata Martin (5)'>22</td>
+    <td id='cab4_2026_1_23' title='Zapata Martin (5)'>23</td>
+    <td id='cab4_2026_1_24' title='Zapata Martin (5)'>24</td>
+    <td id='cab4_2026_1_25' title='Zapata Martin (5)'>25</td>
   </tr>
   <tr>
-    <td id='cab4_2026_1_26'>26</td>
-    <td id='cab4_2026_1_27'>27</td>
-    <td id='cab4_2026_1_28'>28</td>
-    <td id='cab4_2026_1_29'>29</td>
-    <td id='cab4_2026_1_30'>30</td>
+    <td id='cab4_2026_1_26' title='Zapata Martin (5)'>26</td>
+    <td id='cab4_2026_1_27' title='Zapata Martin (5)'>27</td>
+    <td id='cab4_2026_1_28' title='Zapata Martin (5)'>28</td>
+    <td id='cab4_2026_1_29' title='Zapata Martin (5)'>29</td>
+    <td id='cab4_2026_1_30' title='Zapata Martin (5)'>30</td>
     <td id='cab4_2026_1_31'>31</td>
     <td>&nbsp;</td>
   </tr>
@@ -1894,8 +1927,8 @@ function setCalendarHints(){
     <td id='cab6_2025_12_2'>2</td>
     <td id='cab6_2025_12_3'>3</td>
     <td id='cab6_2025_12_4'>4</td>
-    <td id='cab6_2025_12_5'>5</td>
-    <td id='cab6_2025_12_6'>6</td>
+    <td id='cab6_2025_12_5' title='Cantarutti Adriana (2)'>5</td>
+    <td id='cab6_2025_12_6' title='Cantarutti Adriana (2)'>6</td>
     <td id='cab6_2025_12_7'>7</td>
   </tr>
   <tr>
