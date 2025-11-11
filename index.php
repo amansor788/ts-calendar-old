@@ -29,6 +29,18 @@ function setCalendarHints(){
 #cab1_2025_11_23 {
     background-color: #66B3FF;
 }
+#cab1_2025_11_28 {
+    background-color: #CCFFCC;
+}
+#cab1_2025_11_29 {
+    background-color: #CCFFCC;
+}
+#cab1_2025_11_30 {
+    background-color: #CCFFCC;
+}
+#cab1_2025_12_1 {
+    background-color: #CCFFCC;
+}
 #cab2_2025_12_29 {
     background-color: #99FF99;
 }
@@ -589,9 +601,9 @@ function setCalendarHints(){
     <td id='cab1_2025_11_25'>25</td>
     <td id='cab1_2025_11_26'>26</td>
     <td id='cab1_2025_11_27'>27</td>
-    <td id='cab1_2025_11_28'>28</td>
-    <td id='cab1_2025_11_29'>29</td>
-    <td id='cab1_2025_11_30'>30</td>
+    <td id='cab1_2025_11_28' title='Di Placido Jorge (4)'>28</td>
+    <td id='cab1_2025_11_29' title='Di Placido Jorge (4)'>29</td>
+    <td id='cab1_2025_11_30' title='Di Placido Jorge (4)'>30</td>
   </tr>
 </tbody>
 </table>
@@ -614,7 +626,7 @@ function setCalendarHints(){
 </thead>
 <tbody>
   <tr>
-    <td id='cab1_2025_12_1'>1</td>
+    <td id='cab1_2025_12_1' title='Di Placido Jorge (4)'>1</td>
     <td id='cab1_2025_12_2'>2</td>
     <td id='cab1_2025_12_3'>3</td>
     <td id='cab1_2025_12_4'>4</td>
