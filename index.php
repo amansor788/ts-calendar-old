@@ -539,6 +539,36 @@ function setCalendarHints(){
 #cab8_2025_11_26 {
     background-color: #FF9999;
 }
+#cab8_2026_1_19 {
+    background-color: #FFCCFF;
+}
+#cab8_2026_1_20 {
+    background-color: #FFCCFF;
+}
+#cab8_2026_1_21 {
+    background-color: #FFCCFF;
+}
+#cab8_2026_1_22 {
+    background-color: #FFCCFF;
+}
+#cab8_2026_1_23 {
+    background-color: #FFCCFF;
+}
+#cab8_2026_1_24 {
+    background-color: #FFCCFF;
+}
+#cab8_2026_1_25 {
+    background-color: #FFCCFF;
+}
+#cab8_2026_1_26 {
+    background-color: #FFCCFF;
+}
+#cab8_2026_1_27 {
+    background-color: #FFCCFF;
+}
+#cab8_2026_1_28 {
+    background-color: #FFCCFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2567,18 +2597,18 @@ function setCalendarHints(){
     <td id='cab8_2026_1_18'>18</td>
   </tr>
   <tr>
-    <td id='cab8_2026_1_19'>19</td>
-    <td id='cab8_2026_1_20'>20</td>
-    <td id='cab8_2026_1_21'>21</td>
-    <td id='cab8_2026_1_22'>22</td>
-    <td id='cab8_2026_1_23'>23</td>
-    <td id='cab8_2026_1_24'>24</td>
-    <td id='cab8_2026_1_25'>25</td>
+    <td id='cab8_2026_1_19' title='Budino Natalia (2) (es cliente)'>19</td>
+    <td id='cab8_2026_1_20' title='Budino Natalia (2) (es cliente)'>20</td>
+    <td id='cab8_2026_1_21' title='Budino Natalia (2) (es cliente)'>21</td>
+    <td id='cab8_2026_1_22' title='Budino Natalia (2) (es cliente)'>22</td>
+    <td id='cab8_2026_1_23' title='Budino Natalia (2) (es cliente)'>23</td>
+    <td id='cab8_2026_1_24' title='Budino Natalia (2) (es cliente)'>24</td>
+    <td id='cab8_2026_1_25' title='Budino Natalia (2) (es cliente)'>25</td>
   </tr>
   <tr>
-    <td id='cab8_2026_1_26'>26</td>
-    <td id='cab8_2026_1_27'>27</td>
-    <td id='cab8_2026_1_28'>28</td>
+    <td id='cab8_2026_1_26' title='Budino Natalia (2) (es cliente)'>26</td>
+    <td id='cab8_2026_1_27' title='Budino Natalia (2) (es cliente)'>27</td>
+    <td id='cab8_2026_1_28' title='Budino Natalia (2) (es cliente)'>28</td>
     <td id='cab8_2026_1_29'>29</td>
     <td id='cab8_2026_1_30'>30</td>
     <td id='cab8_2026_1_31'>31</td>
