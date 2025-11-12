@@ -518,6 +518,30 @@ function setCalendarHints(){
 #cab7_2026_1_23 {
     background-color: #66B3FF;
 }
+#cab7_2026_2_8 {
+    background-color: #CCFFFF;
+}
+#cab7_2026_2_9 {
+    background-color: #CCFFFF;
+}
+#cab7_2026_2_10 {
+    background-color: #CCFFFF;
+}
+#cab7_2026_2_11 {
+    background-color: #CCFFFF;
+}
+#cab7_2026_2_12 {
+    background-color: #CCFFFF;
+}
+#cab7_2026_2_13 {
+    background-color: #CCFFFF;
+}
+#cab7_2026_2_14 {
+    background-color: #CCFFFF;
+}
+#cab7_2026_2_15 {
+    background-color: #CCFFFF;
+}
 #cab8_2025_11_20 {
     background-color: #FF9999;
 }
@@ -2386,16 +2410,16 @@ function setCalendarHints(){
     <td id='cab7_2026_2_5'>5</td>
     <td id='cab7_2026_2_6'>6</td>
     <td id='cab7_2026_2_7'>7</td>
-    <td id='cab7_2026_2_8'>8</td>
+    <td id='cab7_2026_2_8' title='Lafont Ayelen (2)'>8</td>
   </tr>
   <tr>
-    <td id='cab7_2026_2_9'>9</td>
-    <td id='cab7_2026_2_10'>10</td>
-    <td id='cab7_2026_2_11'>11</td>
-    <td id='cab7_2026_2_12'>12</td>
-    <td id='cab7_2026_2_13'>13</td>
-    <td id='cab7_2026_2_14'>14</td>
-    <td id='cab7_2026_2_15'>15</td>
+    <td id='cab7_2026_2_9' title='Lafont Ayelen (2)'>9</td>
+    <td id='cab7_2026_2_10' title='Lafont Ayelen (2)'>10</td>
+    <td id='cab7_2026_2_11' title='Lafont Ayelen (2)'>11</td>
+    <td id='cab7_2026_2_12' title='Lafont Ayelen (2)'>12</td>
+    <td id='cab7_2026_2_13' title='Lafont Ayelen (2)'>13</td>
+    <td id='cab7_2026_2_14' title='Lafont Ayelen (2)'>14</td>
+    <td id='cab7_2026_2_15' title='Lafont Ayelen (2)'>15</td>
   </tr>
   <tr>
     <td id='cab7_2026_2_16'>16</td>
