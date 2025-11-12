@@ -646,18 +646,18 @@ function setCalendarHints(){
     <td id='cab1_2025_11_18'>18</td>
     <td id='cab1_2025_11_19'>19</td>
     <td id='cab1_2025_11_20'>20</td>
-    <td id='cab1_2025_11_21' title='Perez Daniela'>21</td>
-    <td id='cab1_2025_11_22' title='Perez Daniela'>22</td>
-    <td id='cab1_2025_11_23' title='Perez Daniela'>23</td>
+    <td id='cab1_2025_11_21' title='Perez Daniela (4)'>21</td>
+    <td id='cab1_2025_11_22' title='Perez Daniela (4)'>22</td>
+    <td id='cab1_2025_11_23' title='Perez Daniela (4)'>23</td>
   </tr>
   <tr>
     <td id='cab1_2025_11_24'>24</td>
     <td id='cab1_2025_11_25'>25</td>
     <td id='cab1_2025_11_26'>26</td>
     <td id='cab1_2025_11_27'>27</td>
-    <td id='cab1_2025_11_28' title='Di Placido Jorge (4)'>28</td>
-    <td id='cab1_2025_11_29' title='Di Placido Jorge (4)'>29</td>
-    <td id='cab1_2025_11_30' title='Di Placido Jorge (4)'>30</td>
+    <td id='cab1_2025_11_28' title='Di Placido Jorge (4) (son dos parejas)'>28</td>
+    <td id='cab1_2025_11_29' title='Di Placido Jorge (4) (son dos parejas)'>29</td>
+    <td id='cab1_2025_11_30' title='Di Placido Jorge (4) (son dos parejas)'>30</td>
   </tr>
 </tbody>
 </table>
@@ -680,7 +680,7 @@ function setCalendarHints(){
 </thead>
 <tbody>
   <tr>
-    <td id='cab1_2025_12_1' title='Di Placido Jorge (4)'>1</td>
+    <td id='cab1_2025_12_1' title='Di Placido Jorge (4) (son dos parejas)'>1</td>
     <td id='cab1_2025_12_2'>2</td>
     <td id='cab1_2025_12_3'>3</td>
     <td id='cab1_2025_12_4'>4</td>
@@ -750,24 +750,24 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td id='cab1_2026_1_1'>1</td>
     <td id='cab1_2026_1_2'>2</td>
-    <td id='cab1_2026_1_3' title='Barale Eugenia'>3</td>
-    <td id='cab1_2026_1_4' title='Barale Eugenia'>4</td>
+    <td id='cab1_2026_1_3' title='Barale Eugenia (4)'>3</td>
+    <td id='cab1_2026_1_4' title='Barale Eugenia (4)'>4</td>
   </tr>
   <tr>
-    <td id='cab1_2026_1_5' title='Barale Eugenia'>5</td>
-    <td id='cab1_2026_1_6' title='Barale Eugenia'>6</td>
-    <td id='cab1_2026_1_7' title='Barale Eugenia'>7</td>
+    <td id='cab1_2026_1_5' title='Barale Eugenia (4)'>5</td>
+    <td id='cab1_2026_1_6' title='Barale Eugenia (4)'>6</td>
+    <td id='cab1_2026_1_7' title='Barale Eugenia (4)'>7</td>
     <td id='cab1_2026_1_8'>8</td>
     <td id='cab1_2026_1_9'>9</td>
-    <td id='cab1_2026_1_10' title='Cura Maximiliano'>10</td>
-    <td id='cab1_2026_1_11' title='Cura Maximiliano'>11</td>
+    <td id='cab1_2026_1_10' title='Cura Maximiliano (4) (Es cliente)'>10</td>
+    <td id='cab1_2026_1_11' title='Cura Maximiliano (4) (Es cliente)'>11</td>
   </tr>
   <tr>
-    <td id='cab1_2026_1_12' title='Cura Maximiliano'>12</td>
-    <td id='cab1_2026_1_13' title='Cura Maximiliano'>13</td>
-    <td id='cab1_2026_1_14' title='Cura Maximiliano'>14</td>
-    <td id='cab1_2026_1_15' title='Cura Maximiliano'>15</td>
-    <td id='cab1_2026_1_16' title='Cura Maximiliano'>16</td>
+    <td id='cab1_2026_1_12' title='Cura Maximiliano (4) (Es cliente)'>12</td>
+    <td id='cab1_2026_1_13' title='Cura Maximiliano (4) (Es cliente)'>13</td>
+    <td id='cab1_2026_1_14' title='Cura Maximiliano (4) (Es cliente)'>14</td>
+    <td id='cab1_2026_1_15' title='Cura Maximiliano (4) (Es cliente)'>15</td>
+    <td id='cab1_2026_1_16' title='Cura Maximiliano (4) (Es cliente)'>16</td>
     <td id='cab1_2026_1_17'>17</td>
     <td id='cab1_2026_1_18'>18</td>
   </tr>
@@ -912,16 +912,16 @@ function setCalendarHints(){
     <td id='cab2_2025_11_19'>19</td>
     <td id='cab2_2025_11_20'>20</td>
     <td id='cab2_2025_11_21'>21</td>
-    <td id='cab2_2025_11_22' title='Zalieckas Juan Jose'>22</td>
-    <td id='cab2_2025_11_23' title='Zalieckas Juan Jose'>23</td>
+    <td id='cab2_2025_11_22' title='Zalieckas Juan Jose (2) (pareja con mascota)'>22</td>
+    <td id='cab2_2025_11_23' title='Zalieckas Juan Jose (2) (pareja con mascota)'>23</td>
   </tr>
   <tr>
-    <td id='cab2_2025_11_24' title='Zalieckas Juan Jose'>24</td>
-    <td id='cab2_2025_11_25' title='Zalieckas Juan Jose'>25</td>
-    <td id='cab2_2025_11_26' title='Zalieckas Juan Jose'>26</td>
-    <td id='cab2_2025_11_27' title='Zalieckas Juan Jose'>27</td>
-    <td id='cab2_2025_11_28' title='Zalieckas Juan Jose'>28</td>
-    <td id='cab2_2025_11_29' title='Zalieckas Juan Jose'>29</td>
+    <td id='cab2_2025_11_24' title='Zalieckas Juan Jose (2) (pareja con mascota)'>24</td>
+    <td id='cab2_2025_11_25' title='Zalieckas Juan Jose (2) (pareja con mascota)'>25</td>
+    <td id='cab2_2025_11_26' title='Zalieckas Juan Jose (2) (pareja con mascota)'>26</td>
+    <td id='cab2_2025_11_27' title='Zalieckas Juan Jose (2) (pareja con mascota)'>27</td>
+    <td id='cab2_2025_11_28' title='Zalieckas Juan Jose (2) (pareja con mascota)'>28</td>
+    <td id='cab2_2025_11_29' title='Zalieckas Juan Jose (2) (pareja con mascota)'>29</td>
     <td id='cab2_2025_11_30'>30</td>
   </tr>
 </tbody>
@@ -981,9 +981,9 @@ function setCalendarHints(){
     <td id='cab2_2025_12_28'>28</td>
   </tr>
   <tr>
-    <td id='cab2_2025_12_29' title='Perez Daniel (Es cliente)'>29</td>
-    <td id='cab2_2025_12_30' title='Perez Daniel (Es cliente)'>30</td>
-    <td id='cab2_2025_12_31' title='Perez Daniel (Es cliente)'>31</td>
+    <td id='cab2_2025_12_29' title='Perez Daniel (4) (Es cliente)'>29</td>
+    <td id='cab2_2025_12_30' title='Perez Daniel (4) (Es cliente)'>30</td>
+    <td id='cab2_2025_12_31' title='Perez Daniel (4) (Es cliente)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -1013,44 +1013,44 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab2_2026_1_1' title='Perez Daniel (Es cliente)'>1</td>
-    <td id='cab2_2026_1_2' title='Perez Daniel (Es cliente)'>2</td>
-    <td id='cab2_2026_1_3' title='Perez Daniel (Es cliente)'>3</td>
-    <td id='cab2_2026_1_4' title='Perez Daniel (Es cliente)'>4</td>
+    <td id='cab2_2026_1_1' title='Perez Daniel (4) (Es cliente)'>1</td>
+    <td id='cab2_2026_1_2' title='Perez Daniel (4) (Es cliente)'>2</td>
+    <td id='cab2_2026_1_3' title='Perez Daniel (4) (Es cliente)'>3</td>
+    <td id='cab2_2026_1_4' title='Perez Daniel (4) (Es cliente)'>4</td>
   </tr>
   <tr>
-    <td id='cab2_2026_1_5' title='Perez Daniel (Es cliente)'>5</td>
-    <td id='cab2_2026_1_6' title='Perez Daniel (Es cliente)'>6</td>
-    <td id='cab2_2026_1_7' title='Perez Daniel (Es cliente)'>7</td>
+    <td id='cab2_2026_1_5' title='Perez Daniel (4) (Es cliente)'>5</td>
+    <td id='cab2_2026_1_6' title='Perez Daniel (4) (Es cliente)'>6</td>
+    <td id='cab2_2026_1_7' title='Perez Daniel (4) (Es cliente)'>7</td>
     <td id='cab2_2026_1_8'>8</td>
     <td id='cab2_2026_1_9'>9</td>
     <td id='cab2_2026_1_10'>10</td>
     <td id='cab2_2026_1_11'>11</td>
   </tr>
   <tr>
-    <td id='cab2_2026_1_12' title='Roza Vanina (Es cliente. Estuvo en chiquita. ahora vienen con los hijos)'>12</td>
-    <td id='cab2_2026_1_13' title='Roza Vanina (Es cliente. Estuvo en chiquita. ahora vienen con los hijos)'>13</td>
-    <td id='cab2_2026_1_14' title='Roza Vanina (Es cliente. Estuvo en chiquita. ahora vienen con los hijos)'>14</td>
-    <td id='cab2_2026_1_15' title='Roza Vanina (Es cliente. Estuvo en chiquita. ahora vienen con los hijos)'>15</td>
-    <td id='cab2_2026_1_16' title='Roza Vanina (Es cliente. Estuvo en chiquita. ahora vienen con los hijos)'>16</td>
-    <td id='cab2_2026_1_17' title='Roza Vanina (Es cliente. Estuvo en chiquita. ahora vienen con los hijos)'>17</td>
-    <td id='cab2_2026_1_18' title='Roza Vanina (Es cliente. Estuvo en chiquita. ahora vienen con los hijos)'>18</td>
+    <td id='cab2_2026_1_12' title='Roza Vanina (4) (Es cliente, Estuvo en chiquita, ahora vienen con los hijos)'>12</td>
+    <td id='cab2_2026_1_13' title='Roza Vanina (4) (Es cliente, Estuvo en chiquita, ahora vienen con los hijos)'>13</td>
+    <td id='cab2_2026_1_14' title='Roza Vanina (4) (Es cliente, Estuvo en chiquita, ahora vienen con los hijos)'>14</td>
+    <td id='cab2_2026_1_15' title='Roza Vanina (4) (Es cliente, Estuvo en chiquita, ahora vienen con los hijos)'>15</td>
+    <td id='cab2_2026_1_16' title='Roza Vanina (4) (Es cliente, Estuvo en chiquita, ahora vienen con los hijos)'>16</td>
+    <td id='cab2_2026_1_17' title='Roza Vanina (4) (Es cliente, Estuvo en chiquita, ahora vienen con los hijos)'>17</td>
+    <td id='cab2_2026_1_18' title='Roza Vanina (4) (Es cliente, Estuvo en chiquita, ahora vienen con los hijos)'>18</td>
   </tr>
   <tr>
-    <td id='cab2_2026_1_19' title='Roza Vanina (Es cliente. Estuvo en chiquita. ahora vienen con los hijos)'>19</td>
-    <td id='cab2_2026_1_20' title='Benítez Daniela'>20</td>
-    <td id='cab2_2026_1_21' title='Benítez Daniela'>21</td>
-    <td id='cab2_2026_1_22' title='Benítez Daniela'>22</td>
-    <td id='cab2_2026_1_23' title='Benítez Daniela'>23</td>
-    <td id='cab2_2026_1_24' title='Benítez Daniela'>24</td>
-    <td id='cab2_2026_1_25' title='Fassi Melisa'>25</td>
+    <td id='cab2_2026_1_19' title='Roza Vanina (4) (Es cliente, Estuvo en chiquita, ahora vienen con los hijos)'>19</td>
+    <td id='cab2_2026_1_20' title='Benítez Daniela (5)'>20</td>
+    <td id='cab2_2026_1_21' title='Benítez Daniela (5)'>21</td>
+    <td id='cab2_2026_1_22' title='Benítez Daniela (5)'>22</td>
+    <td id='cab2_2026_1_23' title='Benítez Daniela (5)'>23</td>
+    <td id='cab2_2026_1_24' title='Benítez Daniela (5)'>24</td>
+    <td id='cab2_2026_1_25' title='Fassi Melisa (2) (pareja con mascota)'>25</td>
   </tr>
   <tr>
-    <td id='cab2_2026_1_26' title='Fassi Melisa'>26</td>
-    <td id='cab2_2026_1_27' title='Fassi Melisa'>27</td>
-    <td id='cab2_2026_1_28' title='Fassi Melisa'>28</td>
-    <td id='cab2_2026_1_29' title='Fassi Melisa'>29</td>
-    <td id='cab2_2026_1_30' title='Fassi Melisa'>30</td>
+    <td id='cab2_2026_1_26' title='Fassi Melisa (2) (pareja con mascota)'>26</td>
+    <td id='cab2_2026_1_27' title='Fassi Melisa (2) (pareja con mascota)'>27</td>
+    <td id='cab2_2026_1_28' title='Fassi Melisa (2) (pareja con mascota)'>28</td>
+    <td id='cab2_2026_1_29' title='Fassi Melisa (2) (pareja con mascota)'>29</td>
+    <td id='cab2_2026_1_30' title='Fassi Melisa (2) (pareja con mascota)'>30</td>
     <td id='cab2_2026_1_31'>31</td>
     <td>&nbsp;</td>
   </tr>
@@ -1175,9 +1175,9 @@ function setCalendarHints(){
     <td id='cab3_2025_11_18'>18</td>
     <td id='cab3_2025_11_19'>19</td>
     <td id='cab3_2025_11_20'>20</td>
-    <td id='cab3_2025_11_21' title='Gimenez Valentina'>21</td>
-    <td id='cab3_2025_11_22' title='Gimenez Valentina'>22</td>
-    <td id='cab3_2025_11_23' title='Gimenez Valentina'>23</td>
+    <td id='cab3_2025_11_21' title='Gimenez Valentina (2) (una pareja)'>21</td>
+    <td id='cab3_2025_11_22' title='Gimenez Valentina (2) (una pareja)'>22</td>
+    <td id='cab3_2025_11_23' title='Gimenez Valentina (2) (una pareja)'>23</td>
   </tr>
   <tr>
     <td id='cab3_2025_11_24'>24</td>
@@ -1283,28 +1283,28 @@ function setCalendarHints(){
     <td id='cab3_2026_1_4'>4</td>
   </tr>
   <tr>
-    <td id='cab3_2026_1_5' title='Pascual Pamela'>5</td>
-    <td id='cab3_2026_1_6' title='Pascual Pamela'>6</td>
-    <td id='cab3_2026_1_7' title='Pascual Pamela'>7</td>
-    <td id='cab3_2026_1_8' title='Pascual Pamela'>8</td>
-    <td id='cab3_2026_1_9' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>9</td>
-    <td id='cab3_2026_1_10' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>10</td>
-    <td id='cab3_2026_1_11' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>11</td>
+    <td id='cab3_2026_1_5' title='Pascual Pamela (4)'>5</td>
+    <td id='cab3_2026_1_6' title='Pascual Pamela (4)'>6</td>
+    <td id='cab3_2026_1_7' title='Pascual Pamela (4)'>7</td>
+    <td id='cab3_2026_1_8' title='Pascual Pamela (4)'>8</td>
+    <td id='cab3_2026_1_9' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>9</td>
+    <td id='cab3_2026_1_10' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>10</td>
+    <td id='cab3_2026_1_11' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>11</td>
   </tr>
   <tr>
-    <td id='cab3_2026_1_12' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>12</td>
-    <td id='cab3_2026_1_13' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>13</td>
-    <td id='cab3_2026_1_14' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>14</td>
-    <td id='cab3_2026_1_15' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>15</td>
-    <td id='cab3_2026_1_16' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>16</td>
-    <td id='cab3_2026_1_17' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>17</td>
-    <td id='cab3_2026_1_18' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>18</td>
+    <td id='cab3_2026_1_12' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>12</td>
+    <td id='cab3_2026_1_13' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>13</td>
+    <td id='cab3_2026_1_14' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>14</td>
+    <td id='cab3_2026_1_15' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>15</td>
+    <td id='cab3_2026_1_16' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>16</td>
+    <td id='cab3_2026_1_17' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>17</td>
+    <td id='cab3_2026_1_18' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>18</td>
   </tr>
   <tr>
-    <td id='cab3_2026_1_19' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>19</td>
-    <td id='cab3_2026_1_20' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>20</td>
-    <td id='cab3_2026_1_21' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>21</td>
-    <td id='cab3_2026_1_22' title='Peragallo Paula (Es cliente. Cabana 3 pide siempre)'>22</td>
+    <td id='cab3_2026_1_19' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>19</td>
+    <td id='cab3_2026_1_20' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>20</td>
+    <td id='cab3_2026_1_21' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>21</td>
+    <td id='cab3_2026_1_22' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>22</td>
     <td id='cab3_2026_1_23'>23</td>
     <td id='cab3_2026_1_24'>24</td>
     <td id='cab3_2026_1_25'>25</td>
@@ -1439,9 +1439,9 @@ function setCalendarHints(){
     <td id='cab4_2025_11_18'>18</td>
     <td id='cab4_2025_11_19'>19</td>
     <td id='cab4_2025_11_20'>20</td>
-    <td id='cab4_2025_11_21' title='Damiani Edgardo (2)'>21</td>
-    <td id='cab4_2025_11_22' title='Damiani Edgardo (2)'>22</td>
-    <td id='cab4_2025_11_23' title='Damiani Edgardo (2)'>23</td>
+    <td id='cab4_2025_11_21' title='Damiani Edgardo (2) (es cliente)'>21</td>
+    <td id='cab4_2025_11_22' title='Damiani Edgardo (2) (es cliente)'>22</td>
+    <td id='cab4_2025_11_23' title='Damiani Edgardo (2) (es cliente)'>23</td>
   </tr>
   <tr>
     <td id='cab4_2025_11_24'>24</td>
@@ -1509,9 +1509,9 @@ function setCalendarHints(){
     <td id='cab4_2025_12_28'>28</td>
   </tr>
   <tr>
-    <td id='cab4_2025_12_29' title='Perez Daniel (Es cliente)'>29</td>
-    <td id='cab4_2025_12_30' title='Perez Daniel (Es cliente)'>30</td>
-    <td id='cab4_2025_12_31' title='Perez Daniel (Es cliente)'>31</td>
+    <td id='cab4_2025_12_29' title='Perez Daniel (4) (Es cliente)'>29</td>
+    <td id='cab4_2025_12_30' title='Perez Daniel (4) (Es cliente)'>30</td>
+    <td id='cab4_2025_12_31' title='Perez Daniel (4) (Es cliente)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -1541,15 +1541,15 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab4_2026_1_1' title='Perez Daniel (Es cliente)'>1</td>
-    <td id='cab4_2026_1_2' title='Perez Daniel (Es cliente)'>2</td>
-    <td id='cab4_2026_1_3' title='Perez Daniel (Es cliente)'>3</td>
-    <td id='cab4_2026_1_4' title='Perez Daniel (Es cliente)'>4</td>
+    <td id='cab4_2026_1_1' title='Perez Daniel (4) (Es cliente)'>1</td>
+    <td id='cab4_2026_1_2' title='Perez Daniel (4) (Es cliente)'>2</td>
+    <td id='cab4_2026_1_3' title='Perez Daniel (4) (Es cliente)'>3</td>
+    <td id='cab4_2026_1_4' title='Perez Daniel (4) (Es cliente)'>4</td>
   </tr>
   <tr>
-    <td id='cab4_2026_1_5' title='Perez Daniel (Es cliente)'>5</td>
-    <td id='cab4_2026_1_6' title='Perez Daniel (Es cliente)'>6</td>
-    <td id='cab4_2026_1_7' title='Perez Daniel (Es cliente)'>7</td>
+    <td id='cab4_2026_1_5' title='Perez Daniel (4) (Es cliente)'>5</td>
+    <td id='cab4_2026_1_6' title='Perez Daniel (4) (Es cliente)'>6</td>
+    <td id='cab4_2026_1_7' title='Perez Daniel (4) (Es cliente)'>7</td>
     <td id='cab4_2026_1_8'>8</td>
     <td id='cab4_2026_1_9'>9</td>
     <td id='cab4_2026_1_10'>10</td>
@@ -1568,17 +1568,17 @@ function setCalendarHints(){
     <td id='cab4_2026_1_19'>19</td>
     <td id='cab4_2026_1_20'>20</td>
     <td id='cab4_2026_1_21'>21</td>
-    <td id='cab4_2026_1_22' title='Zapata Martin (5)'>22</td>
-    <td id='cab4_2026_1_23' title='Zapata Martin (5)'>23</td>
-    <td id='cab4_2026_1_24' title='Zapata Martin (5)'>24</td>
-    <td id='cab4_2026_1_25' title='Zapata Martin (5)'>25</td>
+    <td id='cab4_2026_1_22' title='Zapata Martin (5) (matrimonio con 3 chicos)'>22</td>
+    <td id='cab4_2026_1_23' title='Zapata Martin (5) (matrimonio con 3 chicos)'>23</td>
+    <td id='cab4_2026_1_24' title='Zapata Martin (5) (matrimonio con 3 chicos)'>24</td>
+    <td id='cab4_2026_1_25' title='Zapata Martin (5) (matrimonio con 3 chicos)'>25</td>
   </tr>
   <tr>
-    <td id='cab4_2026_1_26' title='Zapata Martin (5)'>26</td>
-    <td id='cab4_2026_1_27' title='Zapata Martin (5)'>27</td>
-    <td id='cab4_2026_1_28' title='Zapata Martin (5)'>28</td>
-    <td id='cab4_2026_1_29' title='Zapata Martin (5)'>29</td>
-    <td id='cab4_2026_1_30' title='Zapata Martin (5)'>30</td>
+    <td id='cab4_2026_1_26' title='Zapata Martin (5) (matrimonio con 3 chicos)'>26</td>
+    <td id='cab4_2026_1_27' title='Zapata Martin (5) (matrimonio con 3 chicos)'>27</td>
+    <td id='cab4_2026_1_28' title='Zapata Martin (5) (matrimonio con 3 chicos)'>28</td>
+    <td id='cab4_2026_1_29' title='Zapata Martin (5) (matrimonio con 3 chicos)'>29</td>
+    <td id='cab4_2026_1_30' title='Zapata Martin (5) (matrimonio con 3 chicos)'>30</td>
     <td id='cab4_2026_1_31'>31</td>
     <td>&nbsp;</td>
   </tr>
@@ -1703,9 +1703,9 @@ function setCalendarHints(){
     <td id='cab5_2025_11_18'>18</td>
     <td id='cab5_2025_11_19'>19</td>
     <td id='cab5_2025_11_20'>20</td>
-    <td id='cab5_2025_11_21' title='Fajardo Gustavo'>21</td>
-    <td id='cab5_2025_11_22' title='Fajardo Gustavo'>22</td>
-    <td id='cab5_2025_11_23' title='Fajardo Gustavo'>23</td>
+    <td id='cab5_2025_11_21' title='Fajardo Gustavo (2)'>21</td>
+    <td id='cab5_2025_11_22' title='Fajardo Gustavo (2)'>22</td>
+    <td id='cab5_2025_11_23' title='Fajardo Gustavo (2)'>23</td>
   </tr>
   <tr>
     <td id='cab5_2025_11_24'>24</td>
@@ -1815,9 +1815,9 @@ function setCalendarHints(){
     <td id='cab5_2026_1_6'>6</td>
     <td id='cab5_2026_1_7'>7</td>
     <td id='cab5_2026_1_8'>8</td>
-    <td id='cab5_2026_1_9' title='Dascanio Adolfo'>9</td>
-    <td id='cab5_2026_1_10' title='Dascanio Adolfo'>10</td>
-    <td id='cab5_2026_1_11' title='Dascanio Adolfo'>11</td>
+    <td id='cab5_2026_1_9' title='Dascanio Adolfo (2)'>9</td>
+    <td id='cab5_2026_1_10' title='Dascanio Adolfo (2)'>10</td>
+    <td id='cab5_2026_1_11' title='Dascanio Adolfo (2)'>11</td>
   </tr>
   <tr>
     <td id='cab5_2026_1_12'>12</td>
@@ -1831,14 +1831,14 @@ function setCalendarHints(){
   <tr>
     <td id='cab5_2026_1_19' title='Chazarreta Cintia (2)'>19</td>
     <td id='cab5_2026_1_20' title='Chazarreta Cintia (2)'>20</td>
-    <td id='cab5_2026_1_21' title='Gutierrez Sonia'>21</td>
-    <td id='cab5_2026_1_22' title='Gutierrez Sonia'>22</td>
-    <td id='cab5_2026_1_23' title='Gutierrez Sonia'>23</td>
-    <td id='cab5_2026_1_24' title='Gutierrez Sonia'>24</td>
-    <td id='cab5_2026_1_25' title='Gutierrez Sonia'>25</td>
+    <td id='cab5_2026_1_21' title='Gutierrez Sonia (2)'>21</td>
+    <td id='cab5_2026_1_22' title='Gutierrez Sonia (2)'>22</td>
+    <td id='cab5_2026_1_23' title='Gutierrez Sonia (2)'>23</td>
+    <td id='cab5_2026_1_24' title='Gutierrez Sonia (2)'>24</td>
+    <td id='cab5_2026_1_25' title='Gutierrez Sonia (2)'>25</td>
   </tr>
   <tr>
-    <td id='cab5_2026_1_26' title='Gutierrez Sonia'>26</td>
+    <td id='cab5_2026_1_26' title='Gutierrez Sonia (2)'>26</td>
     <td id='cab5_2026_1_27'>27</td>
     <td id='cab5_2026_1_28'>28</td>
     <td id='cab5_2026_1_29'>29</td>
@@ -1966,15 +1966,15 @@ function setCalendarHints(){
     <td id='cab6_2025_11_17'>17</td>
     <td id='cab6_2025_11_18'>18</td>
     <td id='cab6_2025_11_19'>19</td>
-    <td id='cab6_2025_11_20' title='Saez Laura (son 3 parejas amigas. pidio 2 arriba 1 abajo)'>20</td>
-    <td id='cab6_2025_11_21' title='Saez Laura (son 3 parejas amigas. pidio 2 arriba 1 abajo)'>21</td>
-    <td id='cab6_2025_11_22' title='Saez Laura (son 3 parejas amigas. pidio 2 arriba 1 abajo)'>22</td>
-    <td id='cab6_2025_11_23' title='Saez Laura (son 3 parejas amigas. pidio 2 arriba 1 abajo)'>23</td>
+    <td id='cab6_2025_11_20' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>20</td>
+    <td id='cab6_2025_11_21' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>21</td>
+    <td id='cab6_2025_11_22' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>22</td>
+    <td id='cab6_2025_11_23' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>23</td>
   </tr>
   <tr>
-    <td id='cab6_2025_11_24' title='Saez Laura (son 3 parejas amigas. pidio 2 arriba 1 abajo)'>24</td>
-    <td id='cab6_2025_11_25' title='Saez Laura (son 3 parejas amigas. pidio 2 arriba 1 abajo)'>25</td>
-    <td id='cab6_2025_11_26' title='Saez Laura (son 3 parejas amigas. pidio 2 arriba 1 abajo)'>26</td>
+    <td id='cab6_2025_11_24' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>24</td>
+    <td id='cab6_2025_11_25' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>25</td>
+    <td id='cab6_2025_11_26' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>26</td>
     <td id='cab6_2025_11_27'>27</td>
     <td id='cab6_2025_11_28'>28</td>
     <td id='cab6_2025_11_29'>29</td>
@@ -2105,9 +2105,9 @@ function setCalendarHints(){
     <td id='cab6_2026_1_26'>26</td>
     <td id='cab6_2026_1_27'>27</td>
     <td id='cab6_2026_1_28'>28</td>
-    <td id='cab6_2026_1_29' title='De San Pio Miguel Angel (2)'>29</td>
-    <td id='cab6_2026_1_30' title='De San Pio Miguel Angel (2)'>30</td>
-    <td id='cab6_2026_1_31' title='De San Pio Miguel Angel (2)'>31</td>
+    <td id='cab6_2026_1_29' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>29</td>
+    <td id='cab6_2026_1_30' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>30</td>
+    <td id='cab6_2026_1_31' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>31</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -2137,19 +2137,19 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab6_2026_2_1' title='De San Pio Miguel Angel (2)'>1</td>
+    <td id='cab6_2026_2_1' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>1</td>
   </tr>
   <tr>
-    <td id='cab6_2026_2_2' title='De San Pio Miguel Angel (2)'>2</td>
-    <td id='cab6_2026_2_3' title='De San Pio Miguel Angel (2)'>3</td>
-    <td id='cab6_2026_2_4' title='De San Pio Miguel Angel (2)'>4</td>
-    <td id='cab6_2026_2_5' title='De San Pio Miguel Angel (2)'>5</td>
-    <td id='cab6_2026_2_6' title='De San Pio Miguel Angel (2)'>6</td>
-    <td id='cab6_2026_2_7' title='De San Pio Miguel Angel (2)'>7</td>
-    <td id='cab6_2026_2_8' title='De San Pio Miguel Angel (2)'>8</td>
+    <td id='cab6_2026_2_2' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>2</td>
+    <td id='cab6_2026_2_3' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>3</td>
+    <td id='cab6_2026_2_4' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>4</td>
+    <td id='cab6_2026_2_5' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>5</td>
+    <td id='cab6_2026_2_6' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>6</td>
+    <td id='cab6_2026_2_7' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>7</td>
+    <td id='cab6_2026_2_8' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>8</td>
   </tr>
   <tr>
-    <td id='cab6_2026_2_9' title='De San Pio Miguel Angel (2)'>9</td>
+    <td id='cab6_2026_2_9' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>9</td>
     <td id='cab6_2026_2_10'>10</td>
     <td id='cab6_2026_2_11'>11</td>
     <td id='cab6_2026_2_12'>12</td>
@@ -2230,15 +2230,15 @@ function setCalendarHints(){
     <td id='cab7_2025_11_17'>17</td>
     <td id='cab7_2025_11_18'>18</td>
     <td id='cab7_2025_11_19'>19</td>
-    <td id='cab7_2025_11_20' title='Saez Laura'>20</td>
-    <td id='cab7_2025_11_21' title='Saez Laura'>21</td>
-    <td id='cab7_2025_11_22' title='Saez Laura'>22</td>
-    <td id='cab7_2025_11_23' title='Saez Laura'>23</td>
+    <td id='cab7_2025_11_20' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>20</td>
+    <td id='cab7_2025_11_21' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>21</td>
+    <td id='cab7_2025_11_22' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>22</td>
+    <td id='cab7_2025_11_23' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>23</td>
   </tr>
   <tr>
-    <td id='cab7_2025_11_24' title='Saez Laura'>24</td>
-    <td id='cab7_2025_11_25' title='Saez Laura'>25</td>
-    <td id='cab7_2025_11_26' title='Saez Laura'>26</td>
+    <td id='cab7_2025_11_24' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>24</td>
+    <td id='cab7_2025_11_25' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>25</td>
+    <td id='cab7_2025_11_26' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>26</td>
     <td id='cab7_2025_11_27'>27</td>
     <td id='cab7_2025_11_28'>28</td>
     <td id='cab7_2025_11_29'>29</td>
@@ -2357,11 +2357,11 @@ function setCalendarHints(){
     <td id='cab7_2026_1_18'>18</td>
   </tr>
   <tr>
-    <td id='cab7_2026_1_19' title='Gomez Luciano'>19</td>
-    <td id='cab7_2026_1_20' title='Gomez Luciano'>20</td>
-    <td id='cab7_2026_1_21' title='Gomez Luciano'>21</td>
-    <td id='cab7_2026_1_22' title='Gomez Luciano'>22</td>
-    <td id='cab7_2026_1_23' title='Gomez Luciano'>23</td>
+    <td id='cab7_2026_1_19' title='Gomez Luciano (2)'>19</td>
+    <td id='cab7_2026_1_20' title='Gomez Luciano (2)'>20</td>
+    <td id='cab7_2026_1_21' title='Gomez Luciano (2)'>21</td>
+    <td id='cab7_2026_1_22' title='Gomez Luciano (2)'>22</td>
+    <td id='cab7_2026_1_23' title='Gomez Luciano (2)'>23</td>
     <td id='cab7_2026_1_24'>24</td>
     <td id='cab7_2026_1_25'>25</td>
   </tr>
@@ -2494,15 +2494,15 @@ function setCalendarHints(){
     <td id='cab8_2025_11_17'>17</td>
     <td id='cab8_2025_11_18'>18</td>
     <td id='cab8_2025_11_19'>19</td>
-    <td id='cab8_2025_11_20' title='Saez Laura'>20</td>
-    <td id='cab8_2025_11_21' title='Saez Laura'>21</td>
-    <td id='cab8_2025_11_22' title='Saez Laura'>22</td>
-    <td id='cab8_2025_11_23' title='Saez Laura'>23</td>
+    <td id='cab8_2025_11_20' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>20</td>
+    <td id='cab8_2025_11_21' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>21</td>
+    <td id='cab8_2025_11_22' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>22</td>
+    <td id='cab8_2025_11_23' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>23</td>
   </tr>
   <tr>
-    <td id='cab8_2025_11_24' title='Saez Laura'>24</td>
-    <td id='cab8_2025_11_25' title='Saez Laura'>25</td>
-    <td id='cab8_2025_11_26' title='Saez Laura'>26</td>
+    <td id='cab8_2025_11_24' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>24</td>
+    <td id='cab8_2025_11_25' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>25</td>
+    <td id='cab8_2025_11_26' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>26</td>
     <td id='cab8_2025_11_27'>27</td>
     <td id='cab8_2025_11_28'>28</td>
     <td id='cab8_2025_11_29'>29</td>
