@@ -419,6 +419,12 @@ function setCalendarHints(){
 #cab6_2025_11_26 {
     background-color: #66B3FF;
 }
+#cab6_2025_11_28 {
+    background-color: #99CCFF;
+}
+#cab6_2025_11_29 {
+    background-color: #99CCFF;
+}
 #cab6_2026_1_18 {
     background-color: #FFB366;
 }
@@ -1976,8 +1982,8 @@ function setCalendarHints(){
     <td id='cab6_2025_11_25' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>25</td>
     <td id='cab6_2025_11_26' title='Saez Laura (2) (son 3 parejas amigas, pidio 2 arriba 1 abajo)'>26</td>
     <td id='cab6_2025_11_27'>27</td>
-    <td id='cab6_2025_11_28'>28</td>
-    <td id='cab6_2025_11_29'>29</td>
+    <td id='cab6_2025_11_28' title='Pino Claudio (2)'>28</td>
+    <td id='cab6_2025_11_29' title='Pino Claudio (2)'>29</td>
     <td id='cab6_2025_11_30'>30</td>
   </tr>
 </tbody>
