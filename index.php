@@ -305,6 +305,12 @@ function setCalendarHints(){
 #cab3_2025_11_23 {
     background-color: #FF99CC;
 }
+#cab3_2025_11_28 {
+    background-color: #99CCCC;
+}
+#cab3_2025_11_29 {
+    background-color: #99CCCC;
+}
 #cab3_2026_1_5 {
     background-color: #99FFCC;
 }
@@ -1205,8 +1211,8 @@ function setCalendarHints(){
     <td id='cab3_2025_11_25'>25</td>
     <td id='cab3_2025_11_26'>26</td>
     <td id='cab3_2025_11_27'>27</td>
-    <td id='cab3_2025_11_28'>28</td>
-    <td id='cab3_2025_11_29'>29</td>
+    <td id='cab3_2025_11_28' title='Bertone Martin (3)'>28</td>
+    <td id='cab3_2025_11_29' title='Bertone Martin (3)'>29</td>
     <td id='cab3_2025_11_30'>30</td>
   </tr>
 </tbody>
