@@ -257,6 +257,21 @@ function setCalendarHints(){
 #cab3_2026_1_22 {
     background-color: #66B3FF;
 }
+#cab3_2026_1_23 {
+    background-color: #CC99FF;
+}
+#cab3_2026_1_24 {
+    background-color: #CC99FF;
+}
+#cab3_2026_1_25 {
+    background-color: #CC99FF;
+}
+#cab3_2026_1_26 {
+    background-color: #CC99FF;
+}
+#cab3_2026_1_27 {
+    background-color: #CC99FF;
+}
 #cab4_2026_1_3 {
     background-color: #FF9999;
 }
@@ -1311,13 +1326,13 @@ function setCalendarHints(){
     <td id='cab3_2026_1_20' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>20</td>
     <td id='cab3_2026_1_21' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>21</td>
     <td id='cab3_2026_1_22' title='Peragallo Paula (4) (Es cliente, Cabana 3 pide siempre)'>22</td>
-    <td id='cab3_2026_1_23'>23</td>
-    <td id='cab3_2026_1_24'>24</td>
-    <td id='cab3_2026_1_25'>25</td>
+    <td id='cab3_2026_1_23' title='Maria Angeles Almiron (3)'>23</td>
+    <td id='cab3_2026_1_24' title='Maria Angeles Almiron (3)'>24</td>
+    <td id='cab3_2026_1_25' title='Maria Angeles Almiron (3)'>25</td>
   </tr>
   <tr>
-    <td id='cab3_2026_1_26'>26</td>
-    <td id='cab3_2026_1_27'>27</td>
+    <td id='cab3_2026_1_26' title='Maria Angeles Almiron (3)'>26</td>
+    <td id='cab3_2026_1_27' title='Maria Angeles Almiron (3)'>27</td>
     <td id='cab3_2026_1_28'>28</td>
     <td id='cab3_2026_1_29'>29</td>
     <td id='cab3_2026_1_30'>30</td>
