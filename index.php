@@ -296,6 +296,12 @@ function setCalendarHints(){
 #cab4_2025_11_23 {
     background-color: #CCCCFF;
 }
+#cab4_2025_12_6 {
+    background-color: #FFB366;
+}
+#cab4_2025_12_7 {
+    background-color: #FFB366;
+}
 #cab3_2025_11_21 {
     background-color: #FF99CC;
 }
@@ -1505,8 +1511,8 @@ function setCalendarHints(){
     <td id='cab4_2025_12_3'>3</td>
     <td id='cab4_2025_12_4'>4</td>
     <td id='cab4_2025_12_5'>5</td>
-    <td id='cab4_2025_12_6'>6</td>
-    <td id='cab4_2025_12_7'>7</td>
+    <td id='cab4_2025_12_6' title='Barranco Nestor (5)'>6</td>
+    <td id='cab4_2025_12_7' title='Barranco Nestor (5)'>7</td>
   </tr>
   <tr>
     <td id='cab4_2025_12_8'>8</td>
