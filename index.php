@@ -308,6 +308,27 @@ function setCalendarHints(){
 #cab4_2026_1_7 {
     background-color: #FF9999;
 }
+#cab4_2026_1_8 {
+    background-color: #FFAA66;
+}
+#cab4_2026_1_9 {
+    background-color: #FFAA66;
+}
+#cab4_2026_1_10 {
+    background-color: #FFAA66;
+}
+#cab4_2026_1_11 {
+    background-color: #FFAA66;
+}
+#cab4_2026_1_12 {
+    background-color: #FFAA66;
+}
+#cab4_2026_1_13 {
+    background-color: #FFAA66;
+}
+#cab4_2026_1_14 {
+    background-color: #FFAA66;
+}
 #cab4_2025_11_21 {
     background-color: #CCCCFF;
 }
@@ -1604,15 +1625,15 @@ function setCalendarHints(){
     <td id='cab4_2026_1_5' title='Perez Daniel (4) (Es cliente)'>5</td>
     <td id='cab4_2026_1_6' title='Perez Daniel (4) (Es cliente)'>6</td>
     <td id='cab4_2026_1_7' title='Perez Daniel (4) (Es cliente)'>7</td>
-    <td id='cab4_2026_1_8'>8</td>
-    <td id='cab4_2026_1_9'>9</td>
-    <td id='cab4_2026_1_10'>10</td>
-    <td id='cab4_2026_1_11'>11</td>
+    <td id='cab4_2026_1_8' title='Lujan Daniela (4) (es cliente.)'>8</td>
+    <td id='cab4_2026_1_9' title='Lujan Daniela (4) (es cliente.)'>9</td>
+    <td id='cab4_2026_1_10' title='Lujan Daniela (4) (es cliente.)'>10</td>
+    <td id='cab4_2026_1_11' title='Lujan Daniela (4) (es cliente.)'>11</td>
   </tr>
   <tr>
-    <td id='cab4_2026_1_12'>12</td>
-    <td id='cab4_2026_1_13'>13</td>
-    <td id='cab4_2026_1_14'>14</td>
+    <td id='cab4_2026_1_12' title='Lujan Daniela (4) (es cliente.)'>12</td>
+    <td id='cab4_2026_1_13' title='Lujan Daniela (4) (es cliente.)'>13</td>
+    <td id='cab4_2026_1_14' title='Lujan Daniela (4) (es cliente.)'>14</td>
     <td id='cab4_2026_1_15'>15</td>
     <td id='cab4_2026_1_16'>16</td>
     <td id='cab4_2026_1_17'>17</td>
