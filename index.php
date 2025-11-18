@@ -89,6 +89,27 @@ function setCalendarHints(){
 #cab1_2026_1_23 {
     background-color: #FFCC66;
 }
+#cab1_2026_2_21 {
+    background-color: #99CCAA;
+}
+#cab1_2026_2_22 {
+    background-color: #99CCAA;
+}
+#cab1_2026_2_23 {
+    background-color: #99CCAA;
+}
+#cab1_2026_2_24 {
+    background-color: #99CCAA;
+}
+#cab1_2026_2_25 {
+    background-color: #99CCAA;
+}
+#cab1_2026_2_26 {
+    background-color: #99CCAA;
+}
+#cab1_2026_2_27 {
+    background-color: #99CCAA;
+}
 #cab2_2026_1_2 {
     background-color: #99FF99;
 }
@@ -875,15 +896,15 @@ function setCalendarHints(){
     <td id='cab1_2026_2_18'>18</td>
     <td id='cab1_2026_2_19'>19</td>
     <td id='cab1_2026_2_20'>20</td>
-    <td id='cab1_2026_2_21'>21</td>
-    <td id='cab1_2026_2_22'>22</td>
+    <td id='cab1_2026_2_21' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>21</td>
+    <td id='cab1_2026_2_22' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>22</td>
   </tr>
   <tr>
-    <td id='cab1_2026_2_23'>23</td>
-    <td id='cab1_2026_2_24'>24</td>
-    <td id='cab1_2026_2_25'>25</td>
-    <td id='cab1_2026_2_26'>26</td>
-    <td id='cab1_2026_2_27'>27</td>
+    <td id='cab1_2026_2_23' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>23</td>
+    <td id='cab1_2026_2_24' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>24</td>
+    <td id='cab1_2026_2_25' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>25</td>
+    <td id='cab1_2026_2_26' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>26</td>
+    <td id='cab1_2026_2_27' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>27</td>
     <td id='cab1_2026_2_28'>28</td>
     <td>&nbsp;</td>
   </tr>
