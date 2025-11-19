@@ -345,13 +345,13 @@ function setCalendarHints(){
     background-color: #FFB366;
 }
 #cab3_2025_11_21 {
-    background-color: #FF99CC;
+    background-color: #AADDFF;
 }
 #cab3_2025_11_22 {
-    background-color: #FF99CC;
+    background-color: #AADDFF;
 }
 #cab3_2025_11_23 {
-    background-color: #FF99CC;
+    background-color: #AADDFF;
 }
 #cab3_2025_11_28 {
     background-color: #99CCCC;
@@ -1298,9 +1298,9 @@ function setCalendarHints(){
     <td id='cab3_2025_11_18'>18</td>
     <td id='cab3_2025_11_19'>19</td>
     <td id='cab3_2025_11_20'>20</td>
-    <td id='cab3_2025_11_21' title='Gimenez Valentina (2) (una pareja)'>21</td>
-    <td id='cab3_2025_11_22' title='Gimenez Valentina (2) (una pareja)'>22</td>
-    <td id='cab3_2025_11_23' title='Gimenez Valentina (2) (una pareja)'>23</td>
+    <td id='cab3_2025_11_21' title='Doria Luis (3)'>21</td>
+    <td id='cab3_2025_11_22' title='Doria Luis (3)'>22</td>
+    <td id='cab3_2025_11_23' title='Doria Luis (3)'>23</td>
   </tr>
   <tr>
     <td id='cab3_2025_11_24'>24</td>
