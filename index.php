@@ -89,6 +89,42 @@ function setCalendarHints(){
 #cab1_2026_1_23 {
     background-color: #FFCC66;
 }
+#cab1_2026_2_9 {
+    background-color: #FF88AA;
+}
+#cab1_2026_2_10 {
+    background-color: #FF88AA;
+}
+#cab1_2026_2_11 {
+    background-color: #FF88AA;
+}
+#cab1_2026_2_12 {
+    background-color: #FF88AA;
+}
+#cab1_2026_2_13 {
+    background-color: #FF88AA;
+}
+#cab1_2026_2_14 {
+    background-color: #FF88AA;
+}
+#cab1_2026_2_15 {
+    background-color: #FF88AA;
+}
+#cab1_2026_2_16 {
+    background-color: #FF88AA;
+}
+#cab1_2026_2_17 {
+    background-color: #FF88AA;
+}
+#cab1_2026_2_18 {
+    background-color: #FF88AA;
+}
+#cab1_2026_2_19 {
+    background-color: #FF88AA;
+}
+#cab1_2026_2_20 {
+    background-color: #FF88AA;
+}
 #cab1_2026_2_21 {
     background-color: #99CCAA;
 }
@@ -409,6 +445,36 @@ function setCalendarHints(){
 }
 #cab4_2026_1_30 {
     background-color: #99FF66;
+}
+#cab4_2026_2_2 {
+    background-color: #BBDDFF;
+}
+#cab4_2026_2_3 {
+    background-color: #BBDDFF;
+}
+#cab4_2026_2_4 {
+    background-color: #BBDDFF;
+}
+#cab4_2026_2_5 {
+    background-color: #BBDDFF;
+}
+#cab4_2026_2_6 {
+    background-color: #BBDDFF;
+}
+#cab4_2026_2_7 {
+    background-color: #BBDDFF;
+}
+#cab4_2026_2_8 {
+    background-color: #BBDDFF;
+}
+#cab4_2026_2_9 {
+    background-color: #BBDDFF;
+}
+#cab4_2026_2_10 {
+    background-color: #BBDDFF;
+}
+#cab4_2026_2_11 {
+    background-color: #BBDDFF;
 }
 #cab5_2025_11_1 {
     background-color: #FF9999;
@@ -951,20 +1017,20 @@ function setCalendarHints(){
     <td id='cab1_2026_2_8'>8</td>
   </tr>
   <tr>
-    <td id='cab1_2026_2_9'>9</td>
-    <td id='cab1_2026_2_10'>10</td>
-    <td id='cab1_2026_2_11'>11</td>
-    <td id='cab1_2026_2_12'>12</td>
-    <td id='cab1_2026_2_13'>13</td>
-    <td id='cab1_2026_2_14'>14</td>
-    <td id='cab1_2026_2_15'>15</td>
+    <td id='cab1_2026_2_9' title='Pinero Chyntia (4) (recomendada por un cliente)'>9</td>
+    <td id='cab1_2026_2_10' title='Pinero Chyntia (4) (recomendada por un cliente)'>10</td>
+    <td id='cab1_2026_2_11' title='Pinero Chyntia (4) (recomendada por un cliente)'>11</td>
+    <td id='cab1_2026_2_12' title='Pinero Chyntia (4) (recomendada por un cliente)'>12</td>
+    <td id='cab1_2026_2_13' title='Pinero Chyntia (4) (recomendada por un cliente)'>13</td>
+    <td id='cab1_2026_2_14' title='Pinero Chyntia (4) (recomendada por un cliente)'>14</td>
+    <td id='cab1_2026_2_15' title='Pinero Chyntia (4) (recomendada por un cliente)'>15</td>
   </tr>
   <tr>
-    <td id='cab1_2026_2_16'>16</td>
-    <td id='cab1_2026_2_17'>17</td>
-    <td id='cab1_2026_2_18'>18</td>
-    <td id='cab1_2026_2_19'>19</td>
-    <td id='cab1_2026_2_20'>20</td>
+    <td id='cab1_2026_2_16' title='Pinero Chyntia (4) (recomendada por un cliente)'>16</td>
+    <td id='cab1_2026_2_17' title='Pinero Chyntia (4) (recomendada por un cliente)'>17</td>
+    <td id='cab1_2026_2_18' title='Pinero Chyntia (4) (recomendada por un cliente)'>18</td>
+    <td id='cab1_2026_2_19' title='Pinero Chyntia (4) (recomendada por un cliente)'>19</td>
+    <td id='cab1_2026_2_20' title='Pinero Chyntia (4) (recomendada por un cliente)'>20</td>
     <td id='cab1_2026_2_21' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>21</td>
     <td id='cab1_2026_2_22' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>22</td>
   </tr>
@@ -1735,18 +1801,18 @@ function setCalendarHints(){
     <td id='cab4_2026_2_1'>1</td>
   </tr>
   <tr>
-    <td id='cab4_2026_2_2'>2</td>
-    <td id='cab4_2026_2_3'>3</td>
-    <td id='cab4_2026_2_4'>4</td>
-    <td id='cab4_2026_2_5'>5</td>
-    <td id='cab4_2026_2_6'>6</td>
-    <td id='cab4_2026_2_7'>7</td>
-    <td id='cab4_2026_2_8'>8</td>
+    <td id='cab4_2026_2_2' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>2</td>
+    <td id='cab4_2026_2_3' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>3</td>
+    <td id='cab4_2026_2_4' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>4</td>
+    <td id='cab4_2026_2_5' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>5</td>
+    <td id='cab4_2026_2_6' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>6</td>
+    <td id='cab4_2026_2_7' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>7</td>
+    <td id='cab4_2026_2_8' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>8</td>
   </tr>
   <tr>
-    <td id='cab4_2026_2_9'>9</td>
-    <td id='cab4_2026_2_10'>10</td>
-    <td id='cab4_2026_2_11'>11</td>
+    <td id='cab4_2026_2_9' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>9</td>
+    <td id='cab4_2026_2_10' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>10</td>
+    <td id='cab4_2026_2_11' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>11</td>
     <td id='cab4_2026_2_12'>12</td>
     <td id='cab4_2026_2_13'>13</td>
     <td id='cab4_2026_2_14'>14</td>
