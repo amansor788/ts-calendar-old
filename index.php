@@ -608,6 +608,15 @@ function setCalendarHints(){
 #cab7_2025_11_26 {
     background-color: #FF9999;
 }
+#cab7_2026_1_8 {
+    background-color: #FFDD99;
+}
+#cab7_2026_1_9 {
+    background-color: #FFDD99;
+}
+#cab7_2026_1_10 {
+    background-color: #FFDD99;
+}
 #cab7_2026_1_19 {
     background-color: #66B3FF;
 }
@@ -667,6 +676,15 @@ function setCalendarHints(){
 }
 #cab8_2025_11_26 {
     background-color: #FF9999;
+}
+#cab8_2026_1_8 {
+    background-color: #FFDD99;
+}
+#cab8_2026_1_9 {
+    background-color: #FFDD99;
+}
+#cab8_2026_1_10 {
+    background-color: #FFDD99;
 }
 #cab8_2026_1_19 {
     background-color: #FFCCFF;
@@ -2447,9 +2465,9 @@ function setCalendarHints(){
     <td id='cab7_2026_1_5'>5</td>
     <td id='cab7_2026_1_6'>6</td>
     <td id='cab7_2026_1_7'>7</td>
-    <td id='cab7_2026_1_8'>8</td>
-    <td id='cab7_2026_1_9'>9</td>
-    <td id='cab7_2026_1_10'>10</td>
+    <td id='cab7_2026_1_8' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>8</td>
+    <td id='cab7_2026_1_9' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>9</td>
+    <td id='cab7_2026_1_10' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>10</td>
     <td id='cab7_2026_1_11'>11</td>
   </tr>
   <tr>
@@ -2711,9 +2729,9 @@ function setCalendarHints(){
     <td id='cab8_2026_1_5'>5</td>
     <td id='cab8_2026_1_6'>6</td>
     <td id='cab8_2026_1_7'>7</td>
-    <td id='cab8_2026_1_8'>8</td>
-    <td id='cab8_2026_1_9'>9</td>
-    <td id='cab8_2026_1_10'>10</td>
+    <td id='cab8_2026_1_8' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>8</td>
+    <td id='cab8_2026_1_9' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>9</td>
+    <td id='cab8_2026_1_10' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>10</td>
     <td id='cab8_2026_1_11'>11</td>
   </tr>
   <tr>
