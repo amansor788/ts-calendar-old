@@ -491,6 +491,21 @@ function setCalendarHints(){
 #cab5_2025_11_23 {
     background-color: #99CCFF;
 }
+#cab5_2026_1_4 {
+    background-color: #AAFFCC;
+}
+#cab5_2026_1_5 {
+    background-color: #AAFFCC;
+}
+#cab5_2026_1_6 {
+    background-color: #AAFFCC;
+}
+#cab5_2026_1_7 {
+    background-color: #AAFFCC;
+}
+#cab5_2026_1_8 {
+    background-color: #AAFFCC;
+}
 #cab5_2026_1_9 {
     background-color: #FFCC99;
 }
@@ -1997,13 +2012,13 @@ function setCalendarHints(){
     <td id='cab5_2026_1_1'>1</td>
     <td id='cab5_2026_1_2'>2</td>
     <td id='cab5_2026_1_3'>3</td>
-    <td id='cab5_2026_1_4'>4</td>
+    <td id='cab5_2026_1_4' title='Fontana Mirta (2)'>4</td>
   </tr>
   <tr>
-    <td id='cab5_2026_1_5'>5</td>
-    <td id='cab5_2026_1_6'>6</td>
-    <td id='cab5_2026_1_7'>7</td>
-    <td id='cab5_2026_1_8'>8</td>
+    <td id='cab5_2026_1_5' title='Fontana Mirta (2)'>5</td>
+    <td id='cab5_2026_1_6' title='Fontana Mirta (2)'>6</td>
+    <td id='cab5_2026_1_7' title='Fontana Mirta (2)'>7</td>
+    <td id='cab5_2026_1_8' title='Fontana Mirta (2)'>8</td>
     <td id='cab5_2026_1_9' title='Dascanio Adolfo (2)'>9</td>
     <td id='cab5_2026_1_10' title='Dascanio Adolfo (2)'>10</td>
     <td id='cab5_2026_1_11' title='Dascanio Adolfo (2)'>11</td>
