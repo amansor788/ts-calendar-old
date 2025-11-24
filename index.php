@@ -545,6 +545,18 @@ function setCalendarHints(){
 #cab5_2026_1_26 {
     background-color: #66B3FF;
 }
+#cab5_2026_1_31 {
+    background-color: #FFDDAA;
+}
+#cab5_2026_2_1 {
+    background-color: #FFDDAA;
+}
+#cab5_2026_2_2 {
+    background-color: #FFDDAA;
+}
+#cab5_2026_2_3 {
+    background-color: #FFDDAA;
+}
 #cab6_2025_11_1 {
     background-color: #FF9999;
 }
@@ -2047,7 +2059,7 @@ function setCalendarHints(){
     <td id='cab5_2026_1_28'>28</td>
     <td id='cab5_2026_1_29'>29</td>
     <td id='cab5_2026_1_30'>30</td>
-    <td id='cab5_2026_1_31'>31</td>
+    <td id='cab5_2026_1_31' title='Heredia Victoria (2) (es cliente)'>31</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -2077,11 +2089,11 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab5_2026_2_1'>1</td>
+    <td id='cab5_2026_2_1' title='Heredia Victoria (2) (es cliente)'>1</td>
   </tr>
   <tr>
-    <td id='cab5_2026_2_2'>2</td>
-    <td id='cab5_2026_2_3'>3</td>
+    <td id='cab5_2026_2_2' title='Heredia Victoria (2) (es cliente)'>2</td>
+    <td id='cab5_2026_2_3' title='Heredia Victoria (2) (es cliente)'>3</td>
     <td id='cab5_2026_2_4'>4</td>
     <td id='cab5_2026_2_5'>5</td>
     <td id='cab5_2026_2_6'>6</td>
