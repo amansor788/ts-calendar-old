@@ -164,6 +164,18 @@ function setCalendarHints(){
 #cab2_2026_1_7 {
     background-color: #99FF99;
 }
+#cab2_2026_1_8 {
+    background-color: #CCDDEE;
+}
+#cab2_2026_1_9 {
+    background-color: #CCDDEE;
+}
+#cab2_2026_1_10 {
+    background-color: #CCDDEE;
+}
+#cab2_2026_1_11 {
+    background-color: #CCDDEE;
+}
 #cab2_2025_11_22 {
     background-color: #FF9999;
 }
@@ -1238,10 +1250,10 @@ function setCalendarHints(){
     <td id='cab2_2026_1_5' title='Perez Daniel (4) (Es cliente)'>5</td>
     <td id='cab2_2026_1_6' title='Perez Daniel (4) (Es cliente)'>6</td>
     <td id='cab2_2026_1_7' title='Perez Daniel (4) (Es cliente)'>7</td>
-    <td id='cab2_2026_1_8'>8</td>
-    <td id='cab2_2026_1_9'>9</td>
-    <td id='cab2_2026_1_10'>10</td>
-    <td id='cab2_2026_1_11'>11</td>
+    <td id='cab2_2026_1_8' title='Lazarte Luis (4)'>8</td>
+    <td id='cab2_2026_1_9' title='Lazarte Luis (4)'>9</td>
+    <td id='cab2_2026_1_10' title='Lazarte Luis (4)'>10</td>
+    <td id='cab2_2026_1_11' title='Lazarte Luis (4)'>11</td>
   </tr>
   <tr>
     <td id='cab2_2026_1_12' title='Roza Vanina (4) (Es cliente, Estuvo en chiquita, ahora vienen con los hijos)'>12</td>
