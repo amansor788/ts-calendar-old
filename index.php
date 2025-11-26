@@ -503,6 +503,12 @@ function setCalendarHints(){
 #cab5_2025_11_23 {
     background-color: #99CCFF;
 }
+#cab5_2025_11_28 {
+    background-color: #FFEE99;
+}
+#cab5_2025_11_29 {
+    background-color: #FFEE99;
+}
 #cab5_2026_1_4 {
     background-color: #AAFFCC;
 }
@@ -1940,8 +1946,8 @@ function setCalendarHints(){
     <td id='cab5_2025_11_25'>25</td>
     <td id='cab5_2025_11_26'>26</td>
     <td id='cab5_2025_11_27'>27</td>
-    <td id='cab5_2025_11_28'>28</td>
-    <td id='cab5_2025_11_29'>29</td>
+    <td id='cab5_2025_11_28' title='Beltramino Fabian (2)'>28</td>
+    <td id='cab5_2025_11_29' title='Beltramino Fabian (2)'>29</td>
     <td id='cab5_2025_11_30'>30</td>
   </tr>
 </tbody>
