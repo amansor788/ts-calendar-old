@@ -719,6 +719,21 @@ function setCalendarHints(){
 #cab7_2025_11_26 {
     background-color: #FF9999;
 }
+#cab7_2025_12_30 {
+    background-color: #DDAAFF;
+}
+#cab7_2025_12_31 {
+    background-color: #DDAAFF;
+}
+#cab7_2026_1_1 {
+    background-color: #DDAAFF;
+}
+#cab7_2026_1_2 {
+    background-color: #DDAAFF;
+}
+#cab7_2026_1_3 {
+    background-color: #DDAAFF;
+}
 #cab7_2026_1_8 {
     background-color: #FFDD99;
 }
@@ -2536,8 +2551,8 @@ function setCalendarHints(){
   </tr>
   <tr>
     <td id='cab7_2025_12_29'>29</td>
-    <td id='cab7_2025_12_30'>30</td>
-    <td id='cab7_2025_12_31'>31</td>
+    <td id='cab7_2025_12_30' title='Colabella Carlos (2) (es cliente. pidio cabana 7)'>30</td>
+    <td id='cab7_2025_12_31' title='Colabella Carlos (2) (es cliente. pidio cabana 7)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -2567,9 +2582,9 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab7_2026_1_1'>1</td>
-    <td id='cab7_2026_1_2'>2</td>
-    <td id='cab7_2026_1_3'>3</td>
+    <td id='cab7_2026_1_1' title='Colabella Carlos (2) (es cliente. pidio cabana 7)'>1</td>
+    <td id='cab7_2026_1_2' title='Colabella Carlos (2) (es cliente. pidio cabana 7)'>2</td>
+    <td id='cab7_2026_1_3' title='Colabella Carlos (2) (es cliente. pidio cabana 7)'>3</td>
     <td id='cab7_2026_1_4'>4</td>
   </tr>
   <tr>
