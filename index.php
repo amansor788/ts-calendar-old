@@ -662,6 +662,36 @@ function setCalendarHints(){
 #cab6_2026_1_3 {
     background-color: #99FFAA;
 }
+#cab6_2026_1_11 {
+    background-color: #CCAAFF;
+}
+#cab6_2026_1_12 {
+    background-color: #CCAAFF;
+}
+#cab6_2026_1_13 {
+    background-color: #CCAAFF;
+}
+#cab6_2026_1_14 {
+    background-color: #CCAAFF;
+}
+#cab6_2026_1_15 {
+    background-color: #CCAAFF;
+}
+#cab6_2026_1_16 {
+    background-color: #CCAAFF;
+}
+#cab6_2026_1_17 {
+    background-color: #CCAAFF;
+}
+#cab6_2026_1_8 {
+    background-color: #FFDD99;
+}
+#cab6_2026_1_9 {
+    background-color: #FFDD99;
+}
+#cab6_2026_1_10 {
+    background-color: #FFDD99;
+}
 #cab6_2026_1_29 {
     background-color: #99CCFF;
 }
@@ -802,15 +832,6 @@ function setCalendarHints(){
 }
 #cab8_2025_11_26 {
     background-color: #FF9999;
-}
-#cab8_2026_1_8 {
-    background-color: #FFDD99;
-}
-#cab8_2026_1_9 {
-    background-color: #FFDD99;
-}
-#cab8_2026_1_10 {
-    background-color: #FFDD99;
 }
 #cab8_2026_1_19 {
     background-color: #FFCCFF;
@@ -2327,18 +2348,18 @@ function setCalendarHints(){
     <td id='cab6_2026_1_5'>5</td>
     <td id='cab6_2026_1_6'>6</td>
     <td id='cab6_2026_1_7'>7</td>
-    <td id='cab6_2026_1_8'>8</td>
-    <td id='cab6_2026_1_9'>9</td>
-    <td id='cab6_2026_1_10'>10</td>
-    <td id='cab6_2026_1_11'>11</td>
+    <td id='cab6_2026_1_8' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>8</td>
+    <td id='cab6_2026_1_9' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>9</td>
+    <td id='cab6_2026_1_10' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>10</td>
+    <td id='cab6_2026_1_11' title='David Yamila (2)'>11</td>
   </tr>
   <tr>
-    <td id='cab6_2026_1_12'>12</td>
-    <td id='cab6_2026_1_13'>13</td>
-    <td id='cab6_2026_1_14'>14</td>
-    <td id='cab6_2026_1_15'>15</td>
-    <td id='cab6_2026_1_16'>16</td>
-    <td id='cab6_2026_1_17'>17</td>
+    <td id='cab6_2026_1_12' title='David Yamila (2)'>12</td>
+    <td id='cab6_2026_1_13' title='David Yamila (2)'>13</td>
+    <td id='cab6_2026_1_14' title='David Yamila (2)'>14</td>
+    <td id='cab6_2026_1_15' title='David Yamila (2)'>15</td>
+    <td id='cab6_2026_1_16' title='David Yamila (2)'>16</td>
+    <td id='cab6_2026_1_17' title='David Yamila (2)'>17</td>
     <td id='cab6_2026_1_18' title='Noriega Fabian (2)'>18</td>
   </tr>
   <tr>
@@ -2855,9 +2876,9 @@ function setCalendarHints(){
     <td id='cab8_2026_1_5'>5</td>
     <td id='cab8_2026_1_6'>6</td>
     <td id='cab8_2026_1_7'>7</td>
-    <td id='cab8_2026_1_8' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>8</td>
-    <td id='cab8_2026_1_9' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>9</td>
-    <td id='cab8_2026_1_10' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>10</td>
+    <td id='cab8_2026_1_8'>8</td>
+    <td id='cab8_2026_1_9'>9</td>
+    <td id='cab8_2026_1_10'>10</td>
     <td id='cab8_2026_1_11'>11</td>
   </tr>
   <tr>
