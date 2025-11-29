@@ -629,6 +629,18 @@ function setCalendarHints(){
 #cab6_2026_1_24 {
     background-color: #FFB366;
 }
+#cab6_2026_1_25 {
+    background-color: #BBFFEE;
+}
+#cab6_2026_1_26 {
+    background-color: #BBFFEE;
+}
+#cab6_2026_1_27 {
+    background-color: #BBFFEE;
+}
+#cab6_2026_1_28 {
+    background-color: #BBFFEE;
+}
 #cab6_2025_12_6 {
     background-color: #FFCCCC;
 }
@@ -2372,12 +2384,12 @@ function setCalendarHints(){
     <td id='cab6_2026_1_22' title='Noriega Fabian (2)'>22</td>
     <td id='cab6_2026_1_23' title='Noriega Fabian (2)'>23</td>
     <td id='cab6_2026_1_24' title='Noriega Fabian (2)'>24</td>
-    <td id='cab6_2026_1_25'>25</td>
+    <td id='cab6_2026_1_25' title='Massa Marianela (2) (completa reserva $90m el 5/12)'>25</td>
   </tr>
   <tr>
-    <td id='cab6_2026_1_26'>26</td>
-    <td id='cab6_2026_1_27'>27</td>
-    <td id='cab6_2026_1_28'>28</td>
+    <td id='cab6_2026_1_26' title='Massa Marianela (2) (completa reserva $90m el 5/12)'>26</td>
+    <td id='cab6_2026_1_27' title='Massa Marianela (2) (completa reserva $90m el 5/12)'>27</td>
+    <td id='cab6_2026_1_28' title='Massa Marianela (2) (completa reserva $90m el 5/12)'>28</td>
     <td id='cab6_2026_1_29' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>29</td>
     <td id='cab6_2026_1_30' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>30</td>
     <td id='cab6_2026_1_31' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>31</td>
