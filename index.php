@@ -605,6 +605,9 @@ function setCalendarHints(){
 #cab6_2025_11_29 {
     background-color: #99CCFF;
 }
+#cab6_2025_11_30 {
+    background-color: #AAFFDD;
+}
 #cab6_2026_1_18 {
     background-color: #FFB366;
 }
@@ -2248,7 +2251,7 @@ function setCalendarHints(){
     <td id='cab6_2025_11_27'>27</td>
     <td id='cab6_2025_11_28' title='Pino Claudio (2)'>28</td>
     <td id='cab6_2025_11_29' title='Pino Claudio (2)'>29</td>
-    <td id='cab6_2025_11_30'>30</td>
+    <td id='cab6_2025_11_30' title='Palacio Nicolas (2)'>30</td>
   </tr>
 </tbody>
 </table>
