@@ -272,6 +272,12 @@ function setCalendarHints(){
 #cab1_2026_1_7 {
     background-color: #66B3FF;
 }
+#cab1_2026_1_8 {
+    background-color: #DDFF99;
+}
+#cab1_2026_1_9 {
+    background-color: #DDFF99;
+}
 #cab4_2025_12_29 {
     background-color: #FF9999;
 }
@@ -1042,8 +1048,8 @@ function setCalendarHints(){
     <td id='cab1_2026_1_5' title='Barale Eugenia (4)'>5</td>
     <td id='cab1_2026_1_6' title='Barale Eugenia (4)'>6</td>
     <td id='cab1_2026_1_7' title='Barale Eugenia (4)'>7</td>
-    <td id='cab1_2026_1_8'>8</td>
-    <td id='cab1_2026_1_9'>9</td>
+    <td id='cab1_2026_1_8' title='Sanchez Miriam (4)'>8</td>
+    <td id='cab1_2026_1_9' title='Sanchez Miriam (4)'>9</td>
     <td id='cab1_2026_1_10' title='Cura Maximiliano (4) (Es cliente)'>10</td>
     <td id='cab1_2026_1_11' title='Cura Maximiliano (4) (Es cliente)'>11</td>
   </tr>
