@@ -347,6 +347,21 @@ function setCalendarHints(){
 #cab3_2026_1_27 {
     background-color: #CC99FF;
 }
+#cab3_2026_2_25 {
+    background-color: #CCFF99;
+}
+#cab3_2026_2_26 {
+    background-color: #CCFF99;
+}
+#cab3_2026_2_27 {
+    background-color: #CCFF99;
+}
+#cab3_2026_2_28 {
+    background-color: #CCFF99;
+}
+#cab3_2026_3_1 {
+    background-color: #CCFF99;
+}
 #cab4_2026_1_3 {
     background-color: #FF9999;
 }
@@ -1683,10 +1698,10 @@ function setCalendarHints(){
   <tr>
     <td id='cab3_2026_2_23'>23</td>
     <td id='cab3_2026_2_24'>24</td>
-    <td id='cab3_2026_2_25'>25</td>
-    <td id='cab3_2026_2_26'>26</td>
-    <td id='cab3_2026_2_27'>27</td>
-    <td id='cab3_2026_2_28'>28</td>
+    <td id='cab3_2026_2_25' title='Lupi Fernando (4)'>25</td>
+    <td id='cab3_2026_2_26' title='Lupi Fernando (4)'>26</td>
+    <td id='cab3_2026_2_27' title='Lupi Fernando (4)'>27</td>
+    <td id='cab3_2026_2_28' title='Lupi Fernando (4)'>28</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
