@@ -278,6 +278,15 @@ function setCalendarHints(){
 #cab1_2026_1_9 {
     background-color: #DDFF99;
 }
+#cab4_2025_12_23 {
+    background-color: #DDCCFF;
+}
+#cab4_2025_12_24 {
+    background-color: #DDCCFF;
+}
+#cab4_2025_12_25 {
+    background-color: #DDCCFF;
+}
 #cab4_2025_12_29 {
     background-color: #FF9999;
 }
@@ -2014,9 +2023,9 @@ function setCalendarHints(){
   </tr>
   <tr>
     <td id='cab4_2025_12_22'>22</td>
-    <td id='cab4_2025_12_23'>23</td>
-    <td id='cab4_2025_12_24'>24</td>
-    <td id='cab4_2025_12_25'>25</td>
+    <td id='cab4_2025_12_23' title='Turrini Marcos (4) (mascota)'>23</td>
+    <td id='cab4_2025_12_24' title='Turrini Marcos (4) (mascota)'>24</td>
+    <td id='cab4_2025_12_25' title='Turrini Marcos (4) (mascota)'>25</td>
     <td id='cab4_2025_12_26'>26</td>
     <td id='cab4_2025_12_27'>27</td>
     <td id='cab4_2025_12_28'>28</td>
