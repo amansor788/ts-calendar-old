@@ -809,6 +809,24 @@ function setCalendarHints(){
 #cab7_2025_11_26 {
     background-color: #FF9999;
 }
+#cab7_2025_12_17 {
+    background-color: #FFEEAA;
+}
+#cab7_2025_12_18 {
+    background-color: #FFEEAA;
+}
+#cab7_2025_12_19 {
+    background-color: #FFEEAA;
+}
+#cab7_2025_12_20 {
+    background-color: #FFEEAA;
+}
+#cab7_2025_12_21 {
+    background-color: #FFEEAA;
+}
+#cab7_2025_12_22 {
+    background-color: #FFEEAA;
+}
 #cab7_2025_12_30 {
     background-color: #DDAAFF;
 }
@@ -3029,14 +3047,14 @@ function setCalendarHints(){
   <tr>
     <td id='cab7_2025_12_15'>15</td>
     <td id='cab7_2025_12_16'>16</td>
-    <td id='cab7_2025_12_17'>17</td>
-    <td id='cab7_2025_12_18'>18</td>
-    <td id='cab7_2025_12_19'>19</td>
-    <td id='cab7_2025_12_20'>20</td>
-    <td id='cab7_2025_12_21'>21</td>
+    <td id='cab7_2025_12_17' title='Greco Nancy (2) (reserva el martes 9/12)'>17</td>
+    <td id='cab7_2025_12_18' title='Greco Nancy (2) (reserva el martes 9/12)'>18</td>
+    <td id='cab7_2025_12_19' title='Greco Nancy (2) (reserva el martes 9/12)'>19</td>
+    <td id='cab7_2025_12_20' title='Greco Nancy (2) (reserva el martes 9/12)'>20</td>
+    <td id='cab7_2025_12_21' title='Greco Nancy (2) (reserva el martes 9/12)'>21</td>
   </tr>
   <tr>
-    <td id='cab7_2025_12_22'>22</td>
+    <td id='cab7_2025_12_22' title='Greco Nancy (2) (reserva el martes 9/12)'>22</td>
     <td id='cab7_2025_12_23'>23</td>
     <td id='cab7_2025_12_24'>24</td>
     <td id='cab7_2025_12_25'>25</td>
