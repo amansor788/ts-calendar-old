@@ -41,6 +41,15 @@ function setCalendarHints(){
 #cab1_2025_12_1 {
     background-color: #CCFFCC;
 }
+#cab1_2025_12_25 {
+    background-color: #FFCCDD;
+}
+#cab1_2025_12_26 {
+    background-color: #FFCCDD;
+}
+#cab1_2025_12_27 {
+    background-color: #FFCCDD;
+}
 #cab2_2025_12_29 {
     background-color: #99FF99;
 }
@@ -833,28 +842,28 @@ function setCalendarHints(){
 #cab7_2026_1_23 {
     background-color: #66B3FF;
 }
-#cab7_2026_2_8 {
+#cab8_2026_2_8 {
     background-color: #CCFFFF;
 }
-#cab7_2026_2_9 {
+#cab8_2026_2_9 {
     background-color: #CCFFFF;
 }
-#cab7_2026_2_10 {
+#cab8_2026_2_10 {
     background-color: #CCFFFF;
 }
-#cab7_2026_2_11 {
+#cab8_2026_2_11 {
     background-color: #CCFFFF;
 }
-#cab7_2026_2_12 {
+#cab8_2026_2_12 {
     background-color: #CCFFFF;
 }
-#cab7_2026_2_13 {
+#cab8_2026_2_13 {
     background-color: #CCFFFF;
 }
-#cab7_2026_2_14 {
+#cab8_2026_2_14 {
     background-color: #CCFFFF;
 }
-#cab7_2026_2_15 {
+#cab8_2026_2_15 {
     background-color: #CCFFFF;
 }
 #cab8_2025_11_20 {
@@ -908,19 +917,34 @@ function setCalendarHints(){
 #cab8_2026_1_28 {
     background-color: #FFCCFF;
 }
+#cab8_2026_1_29 {
+    background-color: #99DDFF;
+}
+#cab8_2026_1_30 {
+    background-color: #99DDFF;
+}
+#cab8_2026_1_31 {
+    background-color: #99DDFF;
+}
+#cab8_2026_2_1 {
+    background-color: #99DDFF;
+}
 #cab8_2026_2_2 {
+    background-color: #99DDFF;
+}
+#cab7_2026_2_2 {
     background-color: #FFEEDD;
 }
-#cab8_2026_2_3 {
+#cab7_2026_2_3 {
     background-color: #FFEEDD;
 }
-#cab8_2026_2_4 {
+#cab7_2026_2_4 {
     background-color: #FFEEDD;
 }
-#cab8_2026_2_5 {
+#cab7_2026_2_5 {
     background-color: #FFEEDD;
 }
-#cab8_2026_2_6 {
+#cab7_2026_2_6 {
     background-color: #FFEEDD;
 }
 </style>
@@ -1040,9 +1064,9 @@ function setCalendarHints(){
     <td id='cab1_2025_12_22'>22</td>
     <td id='cab1_2025_12_23'>23</td>
     <td id='cab1_2025_12_24'>24</td>
-    <td id='cab1_2025_12_25'>25</td>
-    <td id='cab1_2025_12_26'>26</td>
-    <td id='cab1_2025_12_27'>27</td>
+    <td id='cab1_2025_12_25' title='Palomeque Alejandra (3)'>25</td>
+    <td id='cab1_2025_12_26' title='Palomeque Alejandra (3)'>26</td>
+    <td id='cab1_2025_12_27' title='Palomeque Alejandra (3)'>27</td>
     <td id='cab1_2025_12_28'>28</td>
   </tr>
   <tr>
@@ -3118,22 +3142,22 @@ function setCalendarHints(){
     <td id='cab7_2026_2_1'>1</td>
   </tr>
   <tr>
-    <td id='cab7_2026_2_2'>2</td>
-    <td id='cab7_2026_2_3'>3</td>
-    <td id='cab7_2026_2_4'>4</td>
-    <td id='cab7_2026_2_5'>5</td>
-    <td id='cab7_2026_2_6'>6</td>
+    <td id='cab7_2026_2_2' title='Zarrielo Antonella (2) (es cliente)'>2</td>
+    <td id='cab7_2026_2_3' title='Zarrielo Antonella (2) (es cliente)'>3</td>
+    <td id='cab7_2026_2_4' title='Zarrielo Antonella (2) (es cliente)'>4</td>
+    <td id='cab7_2026_2_5' title='Zarrielo Antonella (2) (es cliente)'>5</td>
+    <td id='cab7_2026_2_6' title='Zarrielo Antonella (2) (es cliente)'>6</td>
     <td id='cab7_2026_2_7'>7</td>
-    <td id='cab7_2026_2_8' title='Lafont Ayelen (2)'>8</td>
+    <td id='cab7_2026_2_8'>8</td>
   </tr>
   <tr>
-    <td id='cab7_2026_2_9' title='Lafont Ayelen (2)'>9</td>
-    <td id='cab7_2026_2_10' title='Lafont Ayelen (2)'>10</td>
-    <td id='cab7_2026_2_11' title='Lafont Ayelen (2)'>11</td>
-    <td id='cab7_2026_2_12' title='Lafont Ayelen (2)'>12</td>
-    <td id='cab7_2026_2_13' title='Lafont Ayelen (2)'>13</td>
-    <td id='cab7_2026_2_14' title='Lafont Ayelen (2)'>14</td>
-    <td id='cab7_2026_2_15' title='Lafont Ayelen (2)'>15</td>
+    <td id='cab7_2026_2_9'>9</td>
+    <td id='cab7_2026_2_10'>10</td>
+    <td id='cab7_2026_2_11'>11</td>
+    <td id='cab7_2026_2_12'>12</td>
+    <td id='cab7_2026_2_13'>13</td>
+    <td id='cab7_2026_2_14'>14</td>
+    <td id='cab7_2026_2_15'>15</td>
   </tr>
   <tr>
     <td id='cab7_2026_2_16'>16</td>
@@ -3411,9 +3435,9 @@ function setCalendarHints(){
     <td id='cab8_2026_1_26' title='Budino Natalia (2) (es cliente)'>26</td>
     <td id='cab8_2026_1_27' title='Budino Natalia (2) (es cliente)'>27</td>
     <td id='cab8_2026_1_28' title='Budino Natalia (2) (es cliente)'>28</td>
-    <td id='cab8_2026_1_29'>29</td>
-    <td id='cab8_2026_1_30'>30</td>
-    <td id='cab8_2026_1_31'>31</td>
+    <td id='cab8_2026_1_29' title='Rossini Nicolas (2)'>29</td>
+    <td id='cab8_2026_1_30' title='Rossini Nicolas (2)'>30</td>
+    <td id='cab8_2026_1_31' title='Rossini Nicolas (2)'>31</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -3443,25 +3467,25 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab8_2026_2_1'>1</td>
+    <td id='cab8_2026_2_1' title='Rossini Nicolas (2)'>1</td>
   </tr>
   <tr>
-    <td id='cab8_2026_2_2' title='Zarrielo Antonella (2) (es cliente)'>2</td>
-    <td id='cab8_2026_2_3' title='Zarrielo Antonella (2) (es cliente)'>3</td>
-    <td id='cab8_2026_2_4' title='Zarrielo Antonella (2) (es cliente)'>4</td>
-    <td id='cab8_2026_2_5' title='Zarrielo Antonella (2) (es cliente)'>5</td>
-    <td id='cab8_2026_2_6' title='Zarrielo Antonella (2) (es cliente)'>6</td>
+    <td id='cab8_2026_2_2' title='Rossini Nicolas (2)'>2</td>
+    <td id='cab8_2026_2_3'>3</td>
+    <td id='cab8_2026_2_4'>4</td>
+    <td id='cab8_2026_2_5'>5</td>
+    <td id='cab8_2026_2_6'>6</td>
     <td id='cab8_2026_2_7'>7</td>
-    <td id='cab8_2026_2_8'>8</td>
+    <td id='cab8_2026_2_8' title='Lafont Ayelen (2)'>8</td>
   </tr>
   <tr>
-    <td id='cab8_2026_2_9'>9</td>
-    <td id='cab8_2026_2_10'>10</td>
-    <td id='cab8_2026_2_11'>11</td>
-    <td id='cab8_2026_2_12'>12</td>
-    <td id='cab8_2026_2_13'>13</td>
-    <td id='cab8_2026_2_14'>14</td>
-    <td id='cab8_2026_2_15'>15</td>
+    <td id='cab8_2026_2_9' title='Lafont Ayelen (2)'>9</td>
+    <td id='cab8_2026_2_10' title='Lafont Ayelen (2)'>10</td>
+    <td id='cab8_2026_2_11' title='Lafont Ayelen (2)'>11</td>
+    <td id='cab8_2026_2_12' title='Lafont Ayelen (2)'>12</td>
+    <td id='cab8_2026_2_13' title='Lafont Ayelen (2)'>13</td>
+    <td id='cab8_2026_2_14' title='Lafont Ayelen (2)'>14</td>
+    <td id='cab8_2026_2_15' title='Lafont Ayelen (2)'>15</td>
   </tr>
   <tr>
     <td id='cab8_2026_2_16'>16</td>
