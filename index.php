@@ -686,6 +686,12 @@ function setCalendarHints(){
 #cab6_2025_12_7 {
     background-color: #FFCCCC;
 }
+#cab6_2025_12_19 {
+    background-color: #CCDDFF;
+}
+#cab6_2025_12_20 {
+    background-color: #CCDDFF;
+}
 #cab6_2025_12_25 {
     background-color: #99FFAA;
 }
@@ -2697,8 +2703,8 @@ function setCalendarHints(){
     <td id='cab6_2025_12_16'>16</td>
     <td id='cab6_2025_12_17'>17</td>
     <td id='cab6_2025_12_18'>18</td>
-    <td id='cab6_2025_12_19'>19</td>
-    <td id='cab6_2025_12_20'>20</td>
+    <td id='cab6_2025_12_19' title='Camano Ana Laura (2) (es cliente)'>19</td>
+    <td id='cab6_2025_12_20' title='Camano Ana Laura (2) (es cliente)'>20</td>
     <td id='cab6_2025_12_21'>21</td>
   </tr>
   <tr>
