@@ -41,13 +41,13 @@ function setCalendarHints(){
 #cab1_2025_12_1 {
     background-color: #CCFFCC;
 }
-#cab1_2025_12_25 {
+#cab3_2025_12_25 {
     background-color: #FFCCDD;
 }
-#cab1_2025_12_26 {
+#cab3_2025_12_26 {
     background-color: #FFCCDD;
 }
-#cab1_2025_12_27 {
+#cab3_2025_12_27 {
     background-color: #FFCCDD;
 }
 #cab2_2025_12_29 {
@@ -1088,9 +1088,9 @@ function setCalendarHints(){
     <td id='cab1_2025_12_22'>22</td>
     <td id='cab1_2025_12_23'>23</td>
     <td id='cab1_2025_12_24'>24</td>
-    <td id='cab1_2025_12_25' title='Palomeque Alejandra (3)'>25</td>
-    <td id='cab1_2025_12_26' title='Palomeque Alejandra (3)'>26</td>
-    <td id='cab1_2025_12_27' title='Palomeque Alejandra (3)'>27</td>
+    <td id='cab1_2025_12_25'>25</td>
+    <td id='cab1_2025_12_26'>26</td>
+    <td id='cab1_2025_12_27'>27</td>
     <td id='cab1_2025_12_28'>28</td>
   </tr>
   <tr>
@@ -1745,9 +1745,9 @@ function setCalendarHints(){
     <td id='cab3_2025_12_22'>22</td>
     <td id='cab3_2025_12_23'>23</td>
     <td id='cab3_2025_12_24'>24</td>
-    <td id='cab3_2025_12_25'>25</td>
-    <td id='cab3_2025_12_26'>26</td>
-    <td id='cab3_2025_12_27'>27</td>
+    <td id='cab3_2025_12_25' title='Palomeque Alejandra (3)'>25</td>
+    <td id='cab3_2025_12_26' title='Palomeque Alejandra (3)'>26</td>
+    <td id='cab3_2025_12_27' title='Palomeque Alejandra (3)'>27</td>
     <td id='cab3_2025_12_28'>28</td>
   </tr>
   <tr>
