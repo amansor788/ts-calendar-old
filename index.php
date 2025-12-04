@@ -50,6 +50,27 @@ function setCalendarHints(){
 #cab3_2025_12_27 {
     background-color: #FFCCDD;
 }
+#cab1_2025_12_27 {
+    background-color: #DDBBFF;
+}
+#cab1_2025_12_28 {
+    background-color: #DDBBFF;
+}
+#cab1_2025_12_29 {
+    background-color: #DDBBFF;
+}
+#cab1_2025_12_30 {
+    background-color: #DDBBFF;
+}
+#cab1_2025_12_31 {
+    background-color: #DDBBFF;
+}
+#cab1_2026_1_1 {
+    background-color: #DDBBFF;
+}
+#cab1_2026_1_2 {
+    background-color: #DDBBFF;
+}
 #cab2_2025_12_29 {
     background-color: #99FF99;
 }
@@ -1090,13 +1111,13 @@ function setCalendarHints(){
     <td id='cab1_2025_12_24'>24</td>
     <td id='cab1_2025_12_25'>25</td>
     <td id='cab1_2025_12_26'>26</td>
-    <td id='cab1_2025_12_27'>27</td>
-    <td id='cab1_2025_12_28'>28</td>
+    <td id='cab1_2025_12_27' title='Toma Leandro (4)'>27</td>
+    <td id='cab1_2025_12_28' title='Toma Leandro (4)'>28</td>
   </tr>
   <tr>
-    <td id='cab1_2025_12_29'>29</td>
-    <td id='cab1_2025_12_30'>30</td>
-    <td id='cab1_2025_12_31'>31</td>
+    <td id='cab1_2025_12_29' title='Toma Leandro (4)'>29</td>
+    <td id='cab1_2025_12_30' title='Toma Leandro (4)'>30</td>
+    <td id='cab1_2025_12_31' title='Toma Leandro (4)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -1126,8 +1147,8 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab1_2026_1_1'>1</td>
-    <td id='cab1_2026_1_2'>2</td>
+    <td id='cab1_2026_1_1' title='Toma Leandro (4)'>1</td>
+    <td id='cab1_2026_1_2' title='Toma Leandro (4)'>2</td>
     <td id='cab1_2026_1_3' title='Barale Eugenia (4)'>3</td>
     <td id='cab1_2026_1_4' title='Barale Eugenia (4)'>4</td>
   </tr>
