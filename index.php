@@ -41,14 +41,29 @@ function setCalendarHints(){
 #cab1_2025_12_1 {
     background-color: #CCFFCC;
 }
-#cab3_2025_12_25 {
+#cab2_2025_12_25 {
     background-color: #FFCCDD;
+}
+#cab2_2025_12_26 {
+    background-color: #FFCCDD;
+}
+#cab2_2025_12_27 {
+    background-color: #FFCCDD;
+}
+#cab3_2025_12_25 {
+    background-color: #99DDBB;
 }
 #cab3_2025_12_26 {
-    background-color: #FFCCDD;
+    background-color: #99DDBB;
 }
 #cab3_2025_12_27 {
-    background-color: #FFCCDD;
+    background-color: #99DDBB;
+}
+#cab3_2025_12_28 {
+    background-color: #99DDBB;
+}
+#cab3_2025_12_29 {
+    background-color: #99DDBB;
 }
 #cab1_2025_12_27 {
     background-color: #DDBBFF;
@@ -1438,9 +1453,9 @@ function setCalendarHints(){
     <td id='cab2_2025_12_22'>22</td>
     <td id='cab2_2025_12_23'>23</td>
     <td id='cab2_2025_12_24'>24</td>
-    <td id='cab2_2025_12_25'>25</td>
-    <td id='cab2_2025_12_26'>26</td>
-    <td id='cab2_2025_12_27'>27</td>
+    <td id='cab2_2025_12_25' title='Palomeque Alejandra (3)'>25</td>
+    <td id='cab2_2025_12_26' title='Palomeque Alejandra (3)'>26</td>
+    <td id='cab2_2025_12_27' title='Palomeque Alejandra (3)'>27</td>
     <td id='cab2_2025_12_28'>28</td>
   </tr>
   <tr>
@@ -1766,13 +1781,13 @@ function setCalendarHints(){
     <td id='cab3_2025_12_22'>22</td>
     <td id='cab3_2025_12_23'>23</td>
     <td id='cab3_2025_12_24'>24</td>
-    <td id='cab3_2025_12_25' title='Palomeque Alejandra (3)'>25</td>
-    <td id='cab3_2025_12_26' title='Palomeque Alejandra (3)'>26</td>
-    <td id='cab3_2025_12_27' title='Palomeque Alejandra (3)'>27</td>
-    <td id='cab3_2025_12_28'>28</td>
+    <td id='cab3_2025_12_25' title='Maidana Juan Alberto (4)'>25</td>
+    <td id='cab3_2025_12_26' title='Maidana Juan Alberto (4)'>26</td>
+    <td id='cab3_2025_12_27' title='Maidana Juan Alberto (4)'>27</td>
+    <td id='cab3_2025_12_28' title='Maidana Juan Alberto (4)'>28</td>
   </tr>
   <tr>
-    <td id='cab3_2025_12_29'>29</td>
+    <td id='cab3_2025_12_29' title='Maidana Juan Alberto (4)'>29</td>
     <td id='cab3_2025_12_30'>30</td>
     <td id='cab3_2025_12_31'>31</td>
     <td>&nbsp;</td>
