@@ -1013,6 +1013,18 @@ function setCalendarHints(){
 #cab5_2025_12_8 {
     background-color: #AADDFF;
 }
+#cab3_2026_1_1 {
+    background-color: #FFCC99;
+}
+#cab3_2026_1_2 {
+    background-color: #FFCC99;
+}
+#cab3_2026_1_3 {
+    background-color: #FFCC99;
+}
+#cab3_2026_1_4 {
+    background-color: #FFCC99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -1825,10 +1837,10 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab3_2026_1_1'>1</td>
-    <td id='cab3_2026_1_2'>2</td>
-    <td id='cab3_2026_1_3'>3</td>
-    <td id='cab3_2026_1_4'>4</td>
+    <td id='cab3_2026_1_1' title='Soplan Daiana (4)'>1</td>
+    <td id='cab3_2026_1_2' title='Soplan Daiana (4)'>2</td>
+    <td id='cab3_2026_1_3' title='Soplan Daiana (4)'>3</td>
+    <td id='cab3_2026_1_4' title='Soplan Daiana (4)'>4</td>
   </tr>
   <tr>
     <td id='cab3_2026_1_5' title='Pascual Pamela (4)'>5</td>
