@@ -1007,6 +1007,12 @@ function setCalendarHints(){
 #cab7_2026_2_6 {
     background-color: #FFEEDD;
 }
+#cab5_2025_12_7 {
+    background-color: #AADDFF;
+}
+#cab5_2025_12_8 {
+    background-color: #AADDFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2413,10 +2419,10 @@ function setCalendarHints(){
     <td id='cab5_2025_12_4'>4</td>
     <td id='cab5_2025_12_5'>5</td>
     <td id='cab5_2025_12_6'>6</td>
-    <td id='cab5_2025_12_7'>7</td>
+    <td id='cab5_2025_12_7' title='Barey Patricia (2)'>7</td>
   </tr>
   <tr>
-    <td id='cab5_2025_12_8'>8</td>
+    <td id='cab5_2025_12_8' title='Barey Patricia (2)'>8</td>
     <td id='cab5_2025_12_9'>9</td>
     <td id='cab5_2025_12_10'>10</td>
     <td id='cab5_2025_12_11'>11</td>
