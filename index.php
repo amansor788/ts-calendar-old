@@ -323,13 +323,13 @@ function setCalendarHints(){
 #cab1_2026_1_9 {
     background-color: #DDFF99;
 }
-#cab4_2025_12_23 {
+#cab1_2025_12_23 {
     background-color: #DDCCFF;
 }
-#cab4_2025_12_24 {
+#cab1_2025_12_24 {
     background-color: #DDCCFF;
 }
-#cab4_2025_12_25 {
+#cab1_2025_12_25 {
     background-color: #DDCCFF;
 }
 #cab4_2025_12_29 {
@@ -1025,6 +1025,18 @@ function setCalendarHints(){
 #cab3_2026_1_4 {
     background-color: #FFCC99;
 }
+#cab4_2025_12_24 {
+    background-color: #99DDBB;
+}
+#cab4_2025_12_25 {
+    background-color: #99DDBB;
+}
+#cab4_2025_12_26 {
+    background-color: #99DDBB;
+}
+#cab4_2025_12_27 {
+    background-color: #99DDBB;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -1140,9 +1152,9 @@ function setCalendarHints(){
   </tr>
   <tr>
     <td id='cab1_2025_12_22'>22</td>
-    <td id='cab1_2025_12_23'>23</td>
-    <td id='cab1_2025_12_24'>24</td>
-    <td id='cab1_2025_12_25'>25</td>
+    <td id='cab1_2025_12_23' title='Turrini Marcos (4) (mascota)'>23</td>
+    <td id='cab1_2025_12_24' title='Turrini Marcos (4) (mascota)'>24</td>
+    <td id='cab1_2025_12_25' title='Turrini Marcos (4) (mascota)'>25</td>
     <td id='cab1_2025_12_26'>26</td>
     <td id='cab1_2025_12_27' title='Toma Leandro (4)'>27</td>
     <td id='cab1_2025_12_28' title='Toma Leandro (4)'>28</td>
@@ -2125,11 +2137,11 @@ function setCalendarHints(){
   </tr>
   <tr>
     <td id='cab4_2025_12_22'>22</td>
-    <td id='cab4_2025_12_23' title='Turrini Marcos (4) (mascota)'>23</td>
-    <td id='cab4_2025_12_24' title='Turrini Marcos (4) (mascota)'>24</td>
-    <td id='cab4_2025_12_25' title='Turrini Marcos (4) (mascota)'>25</td>
-    <td id='cab4_2025_12_26'>26</td>
-    <td id='cab4_2025_12_27'>27</td>
+    <td id='cab4_2025_12_23'>23</td>
+    <td id='cab4_2025_12_24' title='Alegre Gustavo (4)'>24</td>
+    <td id='cab4_2025_12_25' title='Alegre Gustavo (4)'>25</td>
+    <td id='cab4_2025_12_26' title='Alegre Gustavo (4)'>26</td>
+    <td id='cab4_2025_12_27' title='Alegre Gustavo (4)'>27</td>
     <td id='cab4_2025_12_28'>28</td>
   </tr>
   <tr>
