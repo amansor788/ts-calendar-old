@@ -1037,6 +1037,21 @@ function setCalendarHints(){
 #cab4_2025_12_27 {
     background-color: #99DDBB;
 }
+#cab2_2026_1_31 {
+    background-color: #FFAA99;
+}
+#cab2_2026_2_1 {
+    background-color: #FFAA99;
+}
+#cab2_2026_2_2 {
+    background-color: #FFAA99;
+}
+#cab2_2026_2_3 {
+    background-color: #FFAA99;
+}
+#cab2_2026_2_4 {
+    background-color: #FFAA99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -1559,7 +1574,7 @@ function setCalendarHints(){
     <td id='cab2_2026_1_28' title='Fassi Melisa (2) (pareja con mascota)'>28</td>
     <td id='cab2_2026_1_29' title='Fassi Melisa (2) (pareja con mascota)'>29</td>
     <td id='cab2_2026_1_30' title='Fassi Melisa (2) (pareja con mascota)'>30</td>
-    <td id='cab2_2026_1_31'>31</td>
+    <td id='cab2_2026_1_31' title='Aguiar Nicolas (5) (cuna)'>31</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -1589,12 +1604,12 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab2_2026_2_1'>1</td>
+    <td id='cab2_2026_2_1' title='Aguiar Nicolas (5) (cuna)'>1</td>
   </tr>
   <tr>
-    <td id='cab2_2026_2_2'>2</td>
-    <td id='cab2_2026_2_3'>3</td>
-    <td id='cab2_2026_2_4'>4</td>
+    <td id='cab2_2026_2_2' title='Aguiar Nicolas (5) (cuna)'>2</td>
+    <td id='cab2_2026_2_3' title='Aguiar Nicolas (5) (cuna)'>3</td>
+    <td id='cab2_2026_2_4' title='Aguiar Nicolas (5) (cuna)'>4</td>
     <td id='cab2_2026_2_5'>5</td>
     <td id='cab2_2026_2_6'>6</td>
     <td id='cab2_2026_2_7'>7</td>
