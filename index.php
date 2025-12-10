@@ -1052,6 +1052,27 @@ function setCalendarHints(){
 #cab2_2026_2_4 {
     background-color: #FFAA99;
 }
+#cab3_2026_2_7 {
+    background-color: #AACCFF;
+}
+#cab3_2026_2_8 {
+    background-color: #AACCFF;
+}
+#cab3_2026_2_9 {
+    background-color: #AACCFF;
+}
+#cab3_2026_2_10 {
+    background-color: #AACCFF;
+}
+#cab3_2026_2_11 {
+    background-color: #AACCFF;
+}
+#cab3_2026_2_12 {
+    background-color: #AACCFF;
+}
+#cab3_2026_2_13 {
+    background-color: #AACCFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -1940,15 +1961,15 @@ function setCalendarHints(){
     <td id='cab3_2026_2_4'>4</td>
     <td id='cab3_2026_2_5'>5</td>
     <td id='cab3_2026_2_6'>6</td>
-    <td id='cab3_2026_2_7'>7</td>
-    <td id='cab3_2026_2_8'>8</td>
+    <td id='cab3_2026_2_7' title='Villalba Gisella (4)'>7</td>
+    <td id='cab3_2026_2_8' title='Villalba Gisella (4)'>8</td>
   </tr>
   <tr>
-    <td id='cab3_2026_2_9'>9</td>
-    <td id='cab3_2026_2_10'>10</td>
-    <td id='cab3_2026_2_11'>11</td>
-    <td id='cab3_2026_2_12'>12</td>
-    <td id='cab3_2026_2_13'>13</td>
+    <td id='cab3_2026_2_9' title='Villalba Gisella (4)'>9</td>
+    <td id='cab3_2026_2_10' title='Villalba Gisella (4)'>10</td>
+    <td id='cab3_2026_2_11' title='Villalba Gisella (4)'>11</td>
+    <td id='cab3_2026_2_12' title='Villalba Gisella (4)'>12</td>
+    <td id='cab3_2026_2_13' title='Villalba Gisella (4)'>13</td>
     <td id='cab3_2026_2_14'>14</td>
     <td id='cab3_2026_2_15'>15</td>
   </tr>
