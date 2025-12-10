@@ -1073,6 +1073,27 @@ function setCalendarHints(){
 #cab3_2026_2_13 {
     background-color: #AACCFF;
 }
+#cab4_2026_1_15 {
+    background-color: #DDBBFF;
+}
+#cab4_2026_1_16 {
+    background-color: #DDBBFF;
+}
+#cab4_2026_1_17 {
+    background-color: #DDBBFF;
+}
+#cab4_2026_1_18 {
+    background-color: #DDBBFF;
+}
+#cab4_2026_1_19 {
+    background-color: #DDBBFF;
+}
+#cab4_2026_1_20 {
+    background-color: #DDBBFF;
+}
+#cab4_2026_1_21 {
+    background-color: #DDBBFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2231,15 +2252,15 @@ function setCalendarHints(){
     <td id='cab4_2026_1_12' title='Lujan Daniela (4) (es cliente.)'>12</td>
     <td id='cab4_2026_1_13' title='Lujan Daniela (4) (es cliente.)'>13</td>
     <td id='cab4_2026_1_14' title='Lujan Daniela (4) (es cliente.)'>14</td>
-    <td id='cab4_2026_1_15'>15</td>
-    <td id='cab4_2026_1_16'>16</td>
-    <td id='cab4_2026_1_17'>17</td>
-    <td id='cab4_2026_1_18'>18</td>
+    <td id='cab4_2026_1_15' title='Moreno Carolina (4)'>15</td>
+    <td id='cab4_2026_1_16' title='Moreno Carolina (4)'>16</td>
+    <td id='cab4_2026_1_17' title='Moreno Carolina (4)'>17</td>
+    <td id='cab4_2026_1_18' title='Moreno Carolina (4)'>18</td>
   </tr>
   <tr>
-    <td id='cab4_2026_1_19'>19</td>
-    <td id='cab4_2026_1_20'>20</td>
-    <td id='cab4_2026_1_21'>21</td>
+    <td id='cab4_2026_1_19' title='Moreno Carolina (4)'>19</td>
+    <td id='cab4_2026_1_20' title='Moreno Carolina (4)'>20</td>
+    <td id='cab4_2026_1_21' title='Moreno Carolina (4)'>21</td>
     <td id='cab4_2026_1_22' title='Zapata Martin (5) (matrimonio con 3 chicos)'>22</td>
     <td id='cab4_2026_1_23' title='Zapata Martin (5) (matrimonio con 3 chicos)'>23</td>
     <td id='cab4_2026_1_24' title='Zapata Martin (5) (matrimonio con 3 chicos)'>24</td>
