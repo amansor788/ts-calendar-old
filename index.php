@@ -1094,6 +1094,24 @@ function setCalendarHints(){
 #cab4_2026_1_21 {
     background-color: #DDBBFF;
 }
+#cab8_2026_1_6 {
+    background-color: #99FFCC;
+}
+#cab8_2026_1_7 {
+    background-color: #99FFCC;
+}
+#cab8_2026_1_8 {
+    background-color: #99FFCC;
+}
+#cab8_2026_1_9 {
+    background-color: #99FFCC;
+}
+#cab8_2026_1_10 {
+    background-color: #99FFCC;
+}
+#cab8_2026_1_11 {
+    background-color: #99FFCC;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3553,12 +3571,12 @@ function setCalendarHints(){
   </tr>
   <tr>
     <td id='cab8_2026_1_5'>5</td>
-    <td id='cab8_2026_1_6'>6</td>
-    <td id='cab8_2026_1_7'>7</td>
-    <td id='cab8_2026_1_8'>8</td>
-    <td id='cab8_2026_1_9'>9</td>
-    <td id='cab8_2026_1_10'>10</td>
-    <td id='cab8_2026_1_11'>11</td>
+    <td id='cab8_2026_1_6' title='Bordon Pabla (2)'>6</td>
+    <td id='cab8_2026_1_7' title='Bordon Pabla (2)'>7</td>
+    <td id='cab8_2026_1_8' title='Bordon Pabla (2)'>8</td>
+    <td id='cab8_2026_1_9' title='Bordon Pabla (2)'>9</td>
+    <td id='cab8_2026_1_10' title='Bordon Pabla (2)'>10</td>
+    <td id='cab8_2026_1_11' title='Bordon Pabla (2)'>11</td>
   </tr>
   <tr>
     <td id='cab8_2026_1_12'>12</td>
