@@ -1112,6 +1112,18 @@ function setCalendarHints(){
 #cab8_2026_1_11 {
     background-color: #99FFCC;
 }
+#cab2_2026_2_5 {
+    background-color: #FFDD99;
+}
+#cab2_2026_2_6 {
+    background-color: #FFDD99;
+}
+#cab2_2026_2_7 {
+    background-color: #FFDD99;
+}
+#cab2_2026_2_8 {
+    background-color: #FFDD99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -1670,10 +1682,10 @@ function setCalendarHints(){
     <td id='cab2_2026_2_2' title='Aguiar Nicolas (5) (cuna)'>2</td>
     <td id='cab2_2026_2_3' title='Aguiar Nicolas (5) (cuna)'>3</td>
     <td id='cab2_2026_2_4' title='Aguiar Nicolas (5) (cuna)'>4</td>
-    <td id='cab2_2026_2_5'>5</td>
-    <td id='cab2_2026_2_6'>6</td>
-    <td id='cab2_2026_2_7'>7</td>
-    <td id='cab2_2026_2_8'>8</td>
+    <td id='cab2_2026_2_5' title='Pistolesi Daiana (3)'>5</td>
+    <td id='cab2_2026_2_6' title='Pistolesi Daiana (3)'>6</td>
+    <td id='cab2_2026_2_7' title='Pistolesi Daiana (3)'>7</td>
+    <td id='cab2_2026_2_8' title='Pistolesi Daiana (3)'>8</td>
   </tr>
   <tr>
     <td id='cab2_2026_2_9'>9</td>
