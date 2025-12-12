@@ -1124,6 +1124,12 @@ function setCalendarHints(){
 #cab2_2026_2_8 {
     background-color: #FFDD99;
 }
+#cab1_2026_1_17 {
+    background-color: #99DDFF;
+}
+#cab1_2026_1_18 {
+    background-color: #99DDFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -1299,8 +1305,8 @@ function setCalendarHints(){
     <td id='cab1_2026_1_14' title='Cura Maximiliano (4) (Es cliente)'>14</td>
     <td id='cab1_2026_1_15' title='Cura Maximiliano (4) (Es cliente)'>15</td>
     <td id='cab1_2026_1_16' title='Cura Maximiliano (4) (Es cliente)'>16</td>
-    <td id='cab1_2026_1_17'>17</td>
-    <td id='cab1_2026_1_18'>18</td>
+    <td id='cab1_2026_1_17' title='Irazoque Alexis (3) (sin cuna)'>17</td>
+    <td id='cab1_2026_1_18' title='Irazoque Alexis (3) (sin cuna)'>18</td>
   </tr>
   <tr>
     <td id='cab1_2026_1_19' title='Aguirre Belen (3)'>19</td>
