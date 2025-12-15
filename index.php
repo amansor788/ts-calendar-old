@@ -638,17 +638,20 @@ function setCalendarHints(){
 #cab5_2026_1_26 {
     background-color: #66B3FF;
 }
-#cab5_2026_1_31 {
-    background-color: #FFDDAA;
-}
-#cab5_2026_2_1 {
-    background-color: #FFDDAA;
-}
 #cab5_2026_2_2 {
-    background-color: #FFDDAA;
+    background-color: #FFEEDD;
 }
 #cab5_2026_2_3 {
-    background-color: #FFDDAA;
+    background-color: #FFEEDD;
+}
+#cab5_2026_2_4 {
+    background-color: #FFEEDD;
+}
+#cab5_2026_2_5 {
+    background-color: #FFEEDD;
+}
+#cab5_2026_2_6 {
+    background-color: #FFEEDD;
 }
 #cab6_2025_11_1 {
     background-color: #FF9999;
@@ -992,20 +995,17 @@ function setCalendarHints(){
 #cab8_2026_2_2 {
     background-color: #99DDFF;
 }
+#cab7_2026_1_31 {
+    background-color: #FFDDAA;
+}
+#cab7_2026_2_1 {
+    background-color: #FFDDAA;
+}
 #cab7_2026_2_2 {
-    background-color: #FFEEDD;
+    background-color: #FFDDAA;
 }
 #cab7_2026_2_3 {
-    background-color: #FFEEDD;
-}
-#cab7_2026_2_4 {
-    background-color: #FFEEDD;
-}
-#cab7_2026_2_5 {
-    background-color: #FFEEDD;
-}
-#cab7_2026_2_6 {
-    background-color: #FFEEDD;
+    background-color: #FFDDAA;
 }
 #cab5_2025_12_7 {
     background-color: #AADDFF;
@@ -1129,6 +1129,24 @@ function setCalendarHints(){
 }
 #cab1_2026_1_18 {
     background-color: #99DDFF;
+}
+#cab5_2026_1_27 {
+    background-color: #CCAAFF;
+}
+#cab5_2026_1_28 {
+    background-color: #CCAAFF;
+}
+#cab5_2026_1_29 {
+    background-color: #CCAAFF;
+}
+#cab5_2026_1_30 {
+    background-color: #CCAAFF;
+}
+#cab5_2026_1_31 {
+    background-color: #CCAAFF;
+}
+#cab5_2026_2_1 {
+    background-color: #CCAAFF;
 }
 </style>
 </head>
@@ -2632,11 +2650,11 @@ function setCalendarHints(){
   </tr>
   <tr>
     <td id='cab5_2026_1_26' title='Gutierrez Sonia (2)'>26</td>
-    <td id='cab5_2026_1_27'>27</td>
-    <td id='cab5_2026_1_28'>28</td>
-    <td id='cab5_2026_1_29'>29</td>
-    <td id='cab5_2026_1_30'>30</td>
-    <td id='cab5_2026_1_31' title='Heredia Victoria (2) (es cliente)'>31</td>
+    <td id='cab5_2026_1_27' title='Arguello Eliana (2)'>27</td>
+    <td id='cab5_2026_1_28' title='Arguello Eliana (2)'>28</td>
+    <td id='cab5_2026_1_29' title='Arguello Eliana (2)'>29</td>
+    <td id='cab5_2026_1_30' title='Arguello Eliana (2)'>30</td>
+    <td id='cab5_2026_1_31' title='Arguello Eliana (2)'>31</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -2666,14 +2684,14 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab5_2026_2_1' title='Heredia Victoria (2) (es cliente)'>1</td>
+    <td id='cab5_2026_2_1' title='Arguello Eliana (2)'>1</td>
   </tr>
   <tr>
-    <td id='cab5_2026_2_2' title='Heredia Victoria (2) (es cliente)'>2</td>
-    <td id='cab5_2026_2_3' title='Heredia Victoria (2) (es cliente)'>3</td>
-    <td id='cab5_2026_2_4'>4</td>
-    <td id='cab5_2026_2_5'>5</td>
-    <td id='cab5_2026_2_6'>6</td>
+    <td id='cab5_2026_2_2' title='Zarrielo Antonella (2) (es cliente)'>2</td>
+    <td id='cab5_2026_2_3' title='Zarrielo Antonella (2) (es cliente)'>3</td>
+    <td id='cab5_2026_2_4' title='Zarrielo Antonella (2) (es cliente)'>4</td>
+    <td id='cab5_2026_2_5' title='Zarrielo Antonella (2) (es cliente)'>5</td>
+    <td id='cab5_2026_2_6' title='Zarrielo Antonella (2) (es cliente)'>6</td>
     <td id='cab5_2026_2_7'>7</td>
     <td id='cab5_2026_2_8'>8</td>
   </tr>
@@ -3292,7 +3310,7 @@ function setCalendarHints(){
     <td id='cab7_2026_1_28'>28</td>
     <td id='cab7_2026_1_29'>29</td>
     <td id='cab7_2026_1_30'>30</td>
-    <td id='cab7_2026_1_31'>31</td>
+    <td id='cab7_2026_1_31' title='Heredia Victoria (2) (es cliente)'>31</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -3322,14 +3340,14 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab7_2026_2_1'>1</td>
+    <td id='cab7_2026_2_1' title='Heredia Victoria (2) (es cliente)'>1</td>
   </tr>
   <tr>
-    <td id='cab7_2026_2_2' title='Zarrielo Antonella (2) (es cliente)'>2</td>
-    <td id='cab7_2026_2_3' title='Zarrielo Antonella (2) (es cliente)'>3</td>
-    <td id='cab7_2026_2_4' title='Zarrielo Antonella (2) (es cliente)'>4</td>
-    <td id='cab7_2026_2_5' title='Zarrielo Antonella (2) (es cliente)'>5</td>
-    <td id='cab7_2026_2_6' title='Zarrielo Antonella (2) (es cliente)'>6</td>
+    <td id='cab7_2026_2_2' title='Heredia Victoria (2) (es cliente)'>2</td>
+    <td id='cab7_2026_2_3' title='Heredia Victoria (2) (es cliente)'>3</td>
+    <td id='cab7_2026_2_4'>4</td>
+    <td id='cab7_2026_2_5'>5</td>
+    <td id='cab7_2026_2_6'>6</td>
     <td id='cab7_2026_2_7'>7</td>
     <td id='cab7_2026_2_8'>8</td>
   </tr>
