@@ -1148,6 +1148,18 @@ function setCalendarHints(){
 #cab5_2026_2_1 {
     background-color: #CCAAFF;
 }
+#cab8_2025_12_28 {
+    background-color: #FFBB99;
+}
+#cab8_2025_12_29 {
+    background-color: #FFBB99;
+}
+#cab8_2025_12_30 {
+    background-color: #FFBB99;
+}
+#cab8_2025_12_31 {
+    background-color: #FFBB99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3565,12 +3577,12 @@ function setCalendarHints(){
     <td id='cab8_2025_12_25'>25</td>
     <td id='cab8_2025_12_26'>26</td>
     <td id='cab8_2025_12_27'>27</td>
-    <td id='cab8_2025_12_28'>28</td>
+    <td id='cab8_2025_12_28' title='Longarini Facundo (2)'>28</td>
   </tr>
   <tr>
-    <td id='cab8_2025_12_29'>29</td>
-    <td id='cab8_2025_12_30'>30</td>
-    <td id='cab8_2025_12_31'>31</td>
+    <td id='cab8_2025_12_29' title='Longarini Facundo (2)'>29</td>
+    <td id='cab8_2025_12_30' title='Longarini Facundo (2)'>30</td>
+    <td id='cab8_2025_12_31' title='Longarini Facundo (2)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
