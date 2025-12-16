@@ -761,6 +761,24 @@ function setCalendarHints(){
 #cab5_2026_1_3 {
     background-color: #77DDDD;
 }
+#cab6_2025_12_30 {
+    background-color: #FFCC99;
+}
+#cab6_2025_12_31 {
+    background-color: #FFCC99;
+}
+#cab6_2026_1_1 {
+    background-color: #FFCC99;
+}
+#cab6_2026_1_2 {
+    background-color: #FFCC99;
+}
+#cab6_2026_1_3 {
+    background-color: #FFCC99;
+}
+#cab6_2026_1_4 {
+    background-color: #FFCC99;
+}
 #cab6_2026_1_11 {
     background-color: #CCAAFF;
 }
@@ -2925,8 +2943,8 @@ function setCalendarHints(){
   </tr>
   <tr>
     <td id='cab6_2025_12_29'>29</td>
-    <td id='cab6_2025_12_30'>30</td>
-    <td id='cab6_2025_12_31'>31</td>
+    <td id='cab6_2025_12_30' title='Figueroa Milena (2) deposita 140 saldo reserva el 17/12'>30</td>
+    <td id='cab6_2025_12_31' title='Figueroa Milena (2) deposita 140 saldo reserva el 17/12'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -2956,10 +2974,10 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab6_2026_1_1'>1</td>
-    <td id='cab6_2026_1_2'>2</td>
-    <td id='cab6_2026_1_3'>3</td>
-    <td id='cab6_2026_1_4'>4</td>
+    <td id='cab6_2026_1_1' title='Figueroa Milena (2) deposita 140 saldo reserva el 17/12'>1</td>
+    <td id='cab6_2026_1_2' title='Figueroa Milena (2) deposita 140 saldo reserva el 17/12'>2</td>
+    <td id='cab6_2026_1_3' title='Figueroa Milena (2) deposita 140 saldo reserva el 17/12'>3</td>
+    <td id='cab6_2026_1_4' title='Figueroa Milena (2) deposita 140 saldo reserva el 17/12'>4</td>
   </tr>
   <tr>
     <td id='cab6_2026_1_5'>5</td>
