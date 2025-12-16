@@ -731,35 +731,35 @@ function setCalendarHints(){
 #cab6_2025_12_20 {
     background-color: #CCDDFF;
 }
-#cab6_2025_12_25 {
-    background-color: #99FFAA;
+#cab5_2025_12_25 {
+    background-color: #77DDDD;
 }
-#cab6_2025_12_26 {
-    background-color: #99FFAA;
+#cab5_2025_12_26 {
+    background-color: #77DDDD;
 }
-#cab6_2025_12_27 {
-    background-color: #99FFAA;
+#cab5_2025_12_27 {
+    background-color: #77DDDD;
 }
-#cab6_2025_12_28 {
-    background-color: #99FFAA;
+#cab5_2025_12_28 {
+    background-color: #77DDDD;
 }
-#cab6_2025_12_29 {
-    background-color: #99FFAA;
+#cab5_2025_12_29 {
+    background-color: #77DDDD;
 }
-#cab6_2025_12_30 {
-    background-color: #99FFAA;
+#cab5_2025_12_30 {
+    background-color: #77DDDD;
 }
-#cab6_2025_12_31 {
-    background-color: #99FFAA;
+#cab5_2025_12_31 {
+    background-color: #77DDDD;
 }
-#cab6_2026_1_1 {
-    background-color: #99FFAA;
+#cab5_2026_1_1 {
+    background-color: #77DDDD;
 }
-#cab6_2026_1_2 {
-    background-color: #99FFAA;
+#cab5_2026_1_2 {
+    background-color: #77DDDD;
 }
-#cab6_2026_1_3 {
-    background-color: #99FFAA;
+#cab5_2026_1_3 {
+    background-color: #77DDDD;
 }
 #cab6_2026_1_11 {
     background-color: #CCAAFF;
@@ -2590,15 +2590,15 @@ function setCalendarHints(){
     <td id='cab5_2025_12_22'>22</td>
     <td id='cab5_2025_12_23'>23</td>
     <td id='cab5_2025_12_24'>24</td>
-    <td id='cab5_2025_12_25'>25</td>
-    <td id='cab5_2025_12_26'>26</td>
-    <td id='cab5_2025_12_27'>27</td>
-    <td id='cab5_2025_12_28'>28</td>
+    <td id='cab5_2025_12_25' title='Romay Mauro (2)'>25</td>
+    <td id='cab5_2025_12_26' title='Romay Mauro (2)'>26</td>
+    <td id='cab5_2025_12_27' title='Romay Mauro (2)'>27</td>
+    <td id='cab5_2025_12_28' title='Romay Mauro (2)'>28</td>
   </tr>
   <tr>
-    <td id='cab5_2025_12_29'>29</td>
-    <td id='cab5_2025_12_30'>30</td>
-    <td id='cab5_2025_12_31'>31</td>
+    <td id='cab5_2025_12_29' title='Romay Mauro (2)'>29</td>
+    <td id='cab5_2025_12_30' title='Romay Mauro (2)'>30</td>
+    <td id='cab5_2025_12_31' title='Romay Mauro (2)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -2628,9 +2628,9 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab5_2026_1_1'>1</td>
-    <td id='cab5_2026_1_2'>2</td>
-    <td id='cab5_2026_1_3'>3</td>
+    <td id='cab5_2026_1_1' title='Romay Mauro (2)'>1</td>
+    <td id='cab5_2026_1_2' title='Romay Mauro (2)'>2</td>
+    <td id='cab5_2026_1_3' title='Romay Mauro (2)'>3</td>
     <td id='cab5_2026_1_4' title='Fontana Mirta (2)'>4</td>
   </tr>
   <tr>
@@ -2918,15 +2918,15 @@ function setCalendarHints(){
     <td id='cab6_2025_12_22'>22</td>
     <td id='cab6_2025_12_23'>23</td>
     <td id='cab6_2025_12_24'>24</td>
-    <td id='cab6_2025_12_25' title='Romay Mauro (2)'>25</td>
-    <td id='cab6_2025_12_26' title='Romay Mauro (2)'>26</td>
-    <td id='cab6_2025_12_27' title='Romay Mauro (2)'>27</td>
-    <td id='cab6_2025_12_28' title='Romay Mauro (2)'>28</td>
+    <td id='cab6_2025_12_25'>25</td>
+    <td id='cab6_2025_12_26'>26</td>
+    <td id='cab6_2025_12_27'>27</td>
+    <td id='cab6_2025_12_28'>28</td>
   </tr>
   <tr>
-    <td id='cab6_2025_12_29' title='Romay Mauro (2)'>29</td>
-    <td id='cab6_2025_12_30' title='Romay Mauro (2)'>30</td>
-    <td id='cab6_2025_12_31' title='Romay Mauro (2)'>31</td>
+    <td id='cab6_2025_12_29'>29</td>
+    <td id='cab6_2025_12_30'>30</td>
+    <td id='cab6_2025_12_31'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -2956,9 +2956,9 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab6_2026_1_1' title='Romay Mauro (2)'>1</td>
-    <td id='cab6_2026_1_2' title='Romay Mauro (2)'>2</td>
-    <td id='cab6_2026_1_3' title='Romay Mauro (2)'>3</td>
+    <td id='cab6_2026_1_1'>1</td>
+    <td id='cab6_2026_1_2'>2</td>
+    <td id='cab6_2026_1_3'>3</td>
     <td id='cab6_2026_1_4'>4</td>
   </tr>
   <tr>
