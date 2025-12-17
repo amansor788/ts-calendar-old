@@ -926,6 +926,45 @@ function setCalendarHints(){
 #cab7_2026_1_23 {
     background-color: #66B3FF;
 }
+#cab7_2026_2_1 {
+    background-color: #FFBB99;
+}
+#cab7_2026_2_2 {
+    background-color: #FFBB99;
+}
+#cab7_2026_2_3 {
+    background-color: #FFBB99;
+}
+#cab7_2026_2_4 {
+    background-color: #FFBB99;
+}
+#cab7_2026_2_5 {
+    background-color: #FFBB99;
+}
+#cab7_2026_2_6 {
+    background-color: #FFBB99;
+}
+#cab7_2026_2_7 {
+    background-color: #FFBB99;
+}
+#cab7_2026_2_8 {
+    background-color: #FFBB99;
+}
+#cab7_2026_2_9 {
+    background-color: #FFBB99;
+}
+#cab7_2026_2_10 {
+    background-color: #FFBB99;
+}
+#cab7_2026_2_11 {
+    background-color: #FFBB99;
+}
+#cab7_2026_2_12 {
+    background-color: #FFBB99;
+}
+#cab7_2026_2_13 {
+    background-color: #FFBB99;
+}
 #cab8_2026_2_8 {
     background-color: #CCFFFF;
 }
@@ -1016,17 +1055,17 @@ function setCalendarHints(){
 #cab8_2026_2_2 {
     background-color: #99DDFF;
 }
-#cab7_2026_1_31 {
-    background-color: #FFDDAA;
+#cab1_2026_1_31 {
+    background-color: #AADDFF;
 }
-#cab7_2026_2_1 {
-    background-color: #FFDDAA;
+#cab1_2026_2_1 {
+    background-color: #AADDFF;
 }
-#cab7_2026_2_2 {
-    background-color: #FFDDAA;
+#cab1_2026_2_2 {
+    background-color: #AADDFF;
 }
-#cab7_2026_2_3 {
-    background-color: #FFDDAA;
+#cab1_2026_2_3 {
+    background-color: #AADDFF;
 }
 #cab5_2025_12_7 {
     background-color: #AADDFF;
@@ -1374,7 +1413,7 @@ function setCalendarHints(){
     <td id='cab1_2026_1_28'>28</td>
     <td id='cab1_2026_1_29'>29</td>
     <td id='cab1_2026_1_30'>30</td>
-    <td id='cab1_2026_1_31'>31</td>
+    <td id='cab1_2026_1_31' title='Heredia Victoria (2) (es cliente. Movida a Cab grande por overbooking)'>31</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -1404,11 +1443,11 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab1_2026_2_1'>1</td>
+    <td id='cab1_2026_2_1' title='Heredia Victoria (2) (es cliente. Movida a Cab grande por overbooking)'>1</td>
   </tr>
   <tr>
-    <td id='cab1_2026_2_2'>2</td>
-    <td id='cab1_2026_2_3'>3</td>
+    <td id='cab1_2026_2_2' title='Heredia Victoria (2) (es cliente. Movida a Cab grande por overbooking)'>2</td>
+    <td id='cab1_2026_2_3' title='Heredia Victoria (2) (es cliente. Movida a Cab grande por overbooking)'>3</td>
     <td id='cab1_2026_2_4'>4</td>
     <td id='cab1_2026_2_5'>5</td>
     <td id='cab1_2026_2_6'>6</td>
@@ -3343,7 +3382,7 @@ function setCalendarHints(){
     <td id='cab7_2026_1_28'>28</td>
     <td id='cab7_2026_1_29'>29</td>
     <td id='cab7_2026_1_30'>30</td>
-    <td id='cab7_2026_1_31' title='Heredia Victoria (2) (es cliente)'>31</td>
+    <td id='cab7_2026_1_31'>31</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -3373,23 +3412,23 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab7_2026_2_1' title='Heredia Victoria (2) (es cliente)'>1</td>
+    <td id='cab7_2026_2_1' title='Del Moral Gonzalo (2) (es cliente)'>1</td>
   </tr>
   <tr>
-    <td id='cab7_2026_2_2' title='Heredia Victoria (2) (es cliente)'>2</td>
-    <td id='cab7_2026_2_3' title='Heredia Victoria (2) (es cliente)'>3</td>
-    <td id='cab7_2026_2_4'>4</td>
-    <td id='cab7_2026_2_5'>5</td>
-    <td id='cab7_2026_2_6'>6</td>
-    <td id='cab7_2026_2_7'>7</td>
-    <td id='cab7_2026_2_8'>8</td>
+    <td id='cab7_2026_2_2' title='Del Moral Gonzalo (2) (es cliente)'>2</td>
+    <td id='cab7_2026_2_3' title='Del Moral Gonzalo (2) (es cliente)'>3</td>
+    <td id='cab7_2026_2_4' title='Del Moral Gonzalo (2) (es cliente)'>4</td>
+    <td id='cab7_2026_2_5' title='Del Moral Gonzalo (2) (es cliente)'>5</td>
+    <td id='cab7_2026_2_6' title='Del Moral Gonzalo (2) (es cliente)'>6</td>
+    <td id='cab7_2026_2_7' title='Del Moral Gonzalo (2) (es cliente)'>7</td>
+    <td id='cab7_2026_2_8' title='Del Moral Gonzalo (2) (es cliente)'>8</td>
   </tr>
   <tr>
-    <td id='cab7_2026_2_9'>9</td>
-    <td id='cab7_2026_2_10'>10</td>
-    <td id='cab7_2026_2_11'>11</td>
-    <td id='cab7_2026_2_12'>12</td>
-    <td id='cab7_2026_2_13'>13</td>
+    <td id='cab7_2026_2_9' title='Del Moral Gonzalo (2) (es cliente)'>9</td>
+    <td id='cab7_2026_2_10' title='Del Moral Gonzalo (2) (es cliente)'>10</td>
+    <td id='cab7_2026_2_11' title='Del Moral Gonzalo (2) (es cliente)'>11</td>
+    <td id='cab7_2026_2_12' title='Del Moral Gonzalo (2) (es cliente)'>12</td>
+    <td id='cab7_2026_2_13' title='Del Moral Gonzalo (2) (es cliente)'>13</td>
     <td id='cab7_2026_2_14'>14</td>
     <td id='cab7_2026_2_15'>15</td>
   </tr>
