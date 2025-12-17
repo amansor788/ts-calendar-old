@@ -401,6 +401,9 @@ function setCalendarHints(){
 #cab3_2026_1_27 {
     background-color: #CC99FF;
 }
+#cab3_2026_2_24 {
+    background-color: #CCFF99;
+}
 #cab3_2026_2_25 {
     background-color: #CCFF99;
 }
@@ -2089,7 +2092,7 @@ function setCalendarHints(){
   </tr>
   <tr>
     <td id='cab3_2026_2_23'>23</td>
-    <td id='cab3_2026_2_24'>24</td>
+    <td id='cab3_2026_2_24' title='Lupi Fernando (4)'>24</td>
     <td id='cab3_2026_2_25' title='Lupi Fernando (4)'>25</td>
     <td id='cab3_2026_2_26' title='Lupi Fernando (4)'>26</td>
     <td id='cab3_2026_2_27' title='Lupi Fernando (4)'>27</td>
