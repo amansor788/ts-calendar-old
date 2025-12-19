@@ -656,6 +656,9 @@ function setCalendarHints(){
 #cab5_2026_2_6 {
     background-color: #FFEEDD;
 }
+#cab5_2026_2_7 {
+    background-color: #FFEEDD;
+}
 #cab6_2025_11_1 {
     background-color: #FF9999;
 }
@@ -2764,7 +2767,7 @@ function setCalendarHints(){
     <td id='cab5_2026_2_4' title='Zarrielo Antonella (2) (es cliente)'>4</td>
     <td id='cab5_2026_2_5' title='Zarrielo Antonella (2) (es cliente)'>5</td>
     <td id='cab5_2026_2_6' title='Zarrielo Antonella (2) (es cliente)'>6</td>
-    <td id='cab5_2026_2_7'>7</td>
+    <td id='cab5_2026_2_7' title='Zarrielo Antonella (2) (es cliente)'>7</td>
     <td id='cab5_2026_2_8'>8</td>
   </tr>
   <tr>
