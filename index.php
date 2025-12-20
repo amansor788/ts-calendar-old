@@ -890,6 +890,12 @@ function setCalendarHints(){
 #cab7_2025_12_22 {
     background-color: #FFEEAA;
 }
+#cab7_2025_12_27 {
+    background-color: #99DDCC;
+}
+#cab7_2025_12_28 {
+    background-color: #99DDCC;
+}
 #cab7_2025_12_30 {
     background-color: #DDAAFF;
 }
@@ -3311,8 +3317,8 @@ function setCalendarHints(){
     <td id='cab7_2025_12_24'>24</td>
     <td id='cab7_2025_12_25'>25</td>
     <td id='cab7_2025_12_26'>26</td>
-    <td id='cab7_2025_12_27'>27</td>
-    <td id='cab7_2025_12_28'>28</td>
+    <td id='cab7_2025_12_27' title='Criado Nadia (2)'>27</td>
+    <td id='cab7_2025_12_28' title='Criado Nadia (2)'>28</td>
   </tr>
   <tr>
     <td id='cab7_2025_12_29'>29</td>
