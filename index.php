@@ -920,6 +920,15 @@ function setCalendarHints(){
 #cab7_2026_1_10 {
     background-color: #FFDD99;
 }
+#cab7_2026_1_16 {
+    background-color: #AADDBB;
+}
+#cab7_2026_1_17 {
+    background-color: #AADDBB;
+}
+#cab7_2026_1_18 {
+    background-color: #AADDBB;
+}
 #cab7_2026_1_19 {
     background-color: #66B3FF;
 }
@@ -3372,9 +3381,9 @@ function setCalendarHints(){
     <td id='cab7_2026_1_13'>13</td>
     <td id='cab7_2026_1_14'>14</td>
     <td id='cab7_2026_1_15'>15</td>
-    <td id='cab7_2026_1_16'>16</td>
-    <td id='cab7_2026_1_17'>17</td>
-    <td id='cab7_2026_1_18'>18</td>
+    <td id='cab7_2026_1_16' title='Monzon Gerardo (2) (es cliente)'>16</td>
+    <td id='cab7_2026_1_17' title='Monzon Gerardo (2) (es cliente)'>17</td>
+    <td id='cab7_2026_1_18' title='Monzon Gerardo (2) (es cliente)'>18</td>
   </tr>
   <tr>
     <td id='cab7_2026_1_19' title='Gomez Luciano (2)'>19</td>
