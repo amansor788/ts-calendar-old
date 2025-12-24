@@ -920,15 +920,6 @@ function setCalendarHints(){
 #cab7_2026_1_10 {
     background-color: #FFDD99;
 }
-#cab7_2026_1_16 {
-    background-color: #AADDBB;
-}
-#cab7_2026_1_17 {
-    background-color: #AADDBB;
-}
-#cab7_2026_1_18 {
-    background-color: #AADDBB;
-}
 #cab7_2026_1_19 {
     background-color: #66B3FF;
 }
@@ -1189,6 +1180,27 @@ function setCalendarHints(){
 }
 #cab8_2026_1_11 {
     background-color: #99FFCC;
+}
+#cab8_2026_1_12 {
+    background-color: #FFBB99;
+}
+#cab8_2026_1_13 {
+    background-color: #FFBB99;
+}
+#cab8_2026_1_14 {
+    background-color: #FFBB99;
+}
+#cab8_2026_1_15 {
+    background-color: #FFBB99;
+}
+#cab8_2026_1_16 {
+    background-color: #AADDBB;
+}
+#cab8_2026_1_17 {
+    background-color: #AADDBB;
+}
+#cab8_2026_1_18 {
+    background-color: #AADDBB;
 }
 #cab2_2026_2_5 {
     background-color: #FFDD99;
@@ -3381,9 +3393,9 @@ function setCalendarHints(){
     <td id='cab7_2026_1_13'>13</td>
     <td id='cab7_2026_1_14'>14</td>
     <td id='cab7_2026_1_15'>15</td>
-    <td id='cab7_2026_1_16' title='Monzon Gerardo (2) (es cliente)'>16</td>
-    <td id='cab7_2026_1_17' title='Monzon Gerardo (2) (es cliente)'>17</td>
-    <td id='cab7_2026_1_18' title='Monzon Gerardo (2) (es cliente)'>18</td>
+    <td id='cab7_2026_1_16'>16</td>
+    <td id='cab7_2026_1_17'>17</td>
+    <td id='cab7_2026_1_18'>18</td>
   </tr>
   <tr>
     <td id='cab7_2026_1_19' title='Gomez Luciano (2)'>19</td>
@@ -3705,13 +3717,13 @@ function setCalendarHints(){
     <td id='cab8_2026_1_11' title='Bordon Pabla (2)'>11</td>
   </tr>
   <tr>
-    <td id='cab8_2026_1_12'>12</td>
-    <td id='cab8_2026_1_13'>13</td>
-    <td id='cab8_2026_1_14'>14</td>
-    <td id='cab8_2026_1_15'>15</td>
-    <td id='cab8_2026_1_16'>16</td>
-    <td id='cab8_2026_1_17'>17</td>
-    <td id='cab8_2026_1_18'>18</td>
+    <td id='cab8_2026_1_12' title='Cordoba Jose Maria (2)'>12</td>
+    <td id='cab8_2026_1_13' title='Cordoba Jose Maria (2)'>13</td>
+    <td id='cab8_2026_1_14' title='Cordoba Jose Maria (2)'>14</td>
+    <td id='cab8_2026_1_15' title='Cordoba Jose Maria (2)'>15</td>
+    <td id='cab8_2026_1_16' title='Monzon Gerardo (2) (es cliente)'>16</td>
+    <td id='cab8_2026_1_17' title='Monzon Gerardo (2) (es cliente)'>17</td>
+    <td id='cab8_2026_1_18' title='Monzon Gerardo (2) (es cliente)'>18</td>
   </tr>
   <tr>
     <td id='cab8_2026_1_19' title='Budino Natalia (2) (es cliente)'>19</td>
