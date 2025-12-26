@@ -680,6 +680,21 @@ function setCalendarHints(){
 #cab5_2026_2_7 {
     background-color: #FFEEDD;
 }
+#cab5_2026_2_17 {
+    background-color: #99DDBB;
+}
+#cab5_2026_2_18 {
+    background-color: #99DDBB;
+}
+#cab5_2026_2_19 {
+    background-color: #99DDBB;
+}
+#cab5_2026_2_20 {
+    background-color: #99DDBB;
+}
+#cab5_2026_2_21 {
+    background-color: #99DDBB;
+}
 #cab6_2025_11_1 {
     background-color: #FF9999;
 }
@@ -2829,11 +2844,11 @@ function setCalendarHints(){
   </tr>
   <tr>
     <td id='cab5_2026_2_16'>16</td>
-    <td id='cab5_2026_2_17'>17</td>
-    <td id='cab5_2026_2_18'>18</td>
-    <td id='cab5_2026_2_19'>19</td>
-    <td id='cab5_2026_2_20'>20</td>
-    <td id='cab5_2026_2_21'>21</td>
+    <td id='cab5_2026_2_17' title='Cenci Liliana (2) (pidio abajo)'>17</td>
+    <td id='cab5_2026_2_18' title='Cenci Liliana (2) (pidio abajo)'>18</td>
+    <td id='cab5_2026_2_19' title='Cenci Liliana (2) (pidio abajo)'>19</td>
+    <td id='cab5_2026_2_20' title='Cenci Liliana (2) (pidio abajo)'>20</td>
+    <td id='cab5_2026_2_21' title='Cenci Liliana (2) (pidio abajo)'>21</td>
     <td id='cab5_2026_2_22'>22</td>
   </tr>
   <tr>
