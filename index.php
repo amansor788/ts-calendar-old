@@ -50,6 +50,9 @@ function setCalendarHints(){
 #cab2_2025_12_27 {
     background-color: #FFCCDD;
 }
+#cab2_2025_12_28 {
+    background-color: #AADDFF;
+}
 #cab3_2025_12_25 {
     background-color: #99DDBB;
 }
@@ -1280,9 +1283,6 @@ function setCalendarHints(){
 #cab5_2026_2_1 {
     background-color: #CCAAFF;
 }
-#cab8_2025_12_28 {
-    background-color: #FFBB99;
-}
 #cab8_2025_12_29 {
     background-color: #FFBB99;
 }
@@ -1741,7 +1741,7 @@ function setCalendarHints(){
     <td id='cab2_2025_12_25' title='Palomeque Alejandra (3)'>25</td>
     <td id='cab2_2025_12_26' title='Palomeque Alejandra (3)'>26</td>
     <td id='cab2_2025_12_27' title='Palomeque Alejandra (3)'>27</td>
-    <td id='cab2_2025_12_28'>28</td>
+    <td id='cab2_2025_12_28' title='Hidalgo Jorge (3)'>28</td>
   </tr>
   <tr>
     <td id='cab2_2025_12_29' title='Perez Daniel (4) (Es cliente)'>29</td>
@@ -3709,7 +3709,7 @@ function setCalendarHints(){
     <td id='cab8_2025_12_25'>25</td>
     <td id='cab8_2025_12_26'>26</td>
     <td id='cab8_2025_12_27'>27</td>
-    <td id='cab8_2025_12_28' title='Longarini Facundo (2)'>28</td>
+    <td id='cab8_2025_12_28'>28</td>
   </tr>
   <tr>
     <td id='cab8_2025_12_29' title='Longarini Facundo (2)'>29</td>
