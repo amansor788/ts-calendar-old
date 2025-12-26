@@ -134,6 +134,27 @@ function setCalendarHints(){
 #cab1_2026_1_23 {
     background-color: #FFCC66;
 }
+#cab1_2026_1_24 {
+    background-color: #CC99FF;
+}
+#cab1_2026_1_25 {
+    background-color: #CC99FF;
+}
+#cab1_2026_1_26 {
+    background-color: #CC99FF;
+}
+#cab1_2026_1_27 {
+    background-color: #CC99FF;
+}
+#cab1_2026_1_28 {
+    background-color: #CC99FF;
+}
+#cab1_2026_1_29 {
+    background-color: #CC99FF;
+}
+#cab1_2026_1_30 {
+    background-color: #CC99FF;
+}
 #cab1_2026_2_9 {
     background-color: #FF88AA;
 }
@@ -1434,15 +1455,15 @@ function setCalendarHints(){
     <td id='cab1_2026_1_21' title='Aguirre Belen (3)'>21</td>
     <td id='cab1_2026_1_22' title='Aguirre Belen (3)'>22</td>
     <td id='cab1_2026_1_23' title='Aguirre Belen (3)'>23</td>
-    <td id='cab1_2026_1_24'>24</td>
-    <td id='cab1_2026_1_25'>25</td>
+    <td id='cab1_2026_1_24' title='Marconetto Claudio (4)'>24</td>
+    <td id='cab1_2026_1_25' title='Marconetto Claudio (4)'>25</td>
   </tr>
   <tr>
-    <td id='cab1_2026_1_26'>26</td>
-    <td id='cab1_2026_1_27'>27</td>
-    <td id='cab1_2026_1_28'>28</td>
-    <td id='cab1_2026_1_29'>29</td>
-    <td id='cab1_2026_1_30'>30</td>
+    <td id='cab1_2026_1_26' title='Marconetto Claudio (4)'>26</td>
+    <td id='cab1_2026_1_27' title='Marconetto Claudio (4)'>27</td>
+    <td id='cab1_2026_1_28' title='Marconetto Claudio (4)'>28</td>
+    <td id='cab1_2026_1_29' title='Marconetto Claudio (4)'>29</td>
+    <td id='cab1_2026_1_30' title='Marconetto Claudio (4)'>30</td>
     <td id='cab1_2026_1_31' title='Heredia Victoria (2) (es cliente. Movida a Cab grande por overbooking)'>31</td>
     <td>&nbsp;</td>
   </tr>
