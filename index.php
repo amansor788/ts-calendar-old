@@ -983,6 +983,21 @@ function setCalendarHints(){
 #cab7_2026_1_23 {
     background-color: #66B3FF;
 }
+#cab7_2026_1_27 {
+    background-color: #AAFFCC;
+}
+#cab7_2026_1_28 {
+    background-color: #AAFFCC;
+}
+#cab7_2026_1_29 {
+    background-color: #AAFFCC;
+}
+#cab7_2026_1_30 {
+    background-color: #AAFFCC;
+}
+#cab7_2026_1_31 {
+    background-color: #AAFFCC;
+}
 #cab7_2026_2_1 {
     background-color: #FFBB99;
 }
@@ -3459,11 +3474,11 @@ function setCalendarHints(){
   </tr>
   <tr>
     <td id='cab7_2026_1_26'>26</td>
-    <td id='cab7_2026_1_27'>27</td>
-    <td id='cab7_2026_1_28'>28</td>
-    <td id='cab7_2026_1_29'>29</td>
-    <td id='cab7_2026_1_30'>30</td>
-    <td id='cab7_2026_1_31'>31</td>
+    <td id='cab7_2026_1_27' title='Marconetto Oscar (2) (es el padre de Claudio Marconetto)'>27</td>
+    <td id='cab7_2026_1_28' title='Marconetto Oscar (2) (es el padre de Claudio Marconetto)'>28</td>
+    <td id='cab7_2026_1_29' title='Marconetto Oscar (2) (es el padre de Claudio Marconetto)'>29</td>
+    <td id='cab7_2026_1_30' title='Marconetto Oscar (2) (es el padre de Claudio Marconetto)'>30</td>
+    <td id='cab7_2026_1_31' title='Marconetto Oscar (2) (es el padre de Claudio Marconetto)'>31</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
