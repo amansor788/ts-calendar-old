@@ -629,6 +629,21 @@ function setCalendarHints(){
 #cab5_2026_1_11 {
     background-color: #99FFCC;
 }
+#cab5_2026_1_12 {
+    background-color: #99BBFF;
+}
+#cab5_2026_1_13 {
+    background-color: #99BBFF;
+}
+#cab5_2026_1_14 {
+    background-color: #99BBFF;
+}
+#cab5_2026_1_15 {
+    background-color: #99BBFF;
+}
+#cab5_2026_1_16 {
+    background-color: #99BBFF;
+}
 #cab5_2026_1_17 {
     background-color: #FF99FF;
 }
@@ -2814,11 +2829,11 @@ function setCalendarHints(){
     <td id='cab5_2026_1_11' title='Bordon Pabla (2)'>11</td>
   </tr>
   <tr>
-    <td id='cab5_2026_1_12'>12</td>
-    <td id='cab5_2026_1_13'>13</td>
-    <td id='cab5_2026_1_14'>14</td>
-    <td id='cab5_2026_1_15'>15</td>
-    <td id='cab5_2026_1_16'>16</td>
+    <td id='cab5_2026_1_12' title='Miriam Righi (2)'>12</td>
+    <td id='cab5_2026_1_13' title='Miriam Righi (2)'>13</td>
+    <td id='cab5_2026_1_14' title='Miriam Righi (2)'>14</td>
+    <td id='cab5_2026_1_15' title='Miriam Righi (2)'>15</td>
+    <td id='cab5_2026_1_16' title='Miriam Righi (2)'>16</td>
     <td id='cab5_2026_1_17' title='Chazarreta Cintia (2)'>17</td>
     <td id='cab5_2026_1_18' title='Chazarreta Cintia (2)'>18</td>
   </tr>
