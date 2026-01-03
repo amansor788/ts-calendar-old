@@ -968,6 +968,21 @@ function setCalendarHints(){
 #cab7_2026_1_10 {
     background-color: #FFDD99;
 }
+#cab7_2026_1_11 {
+    background-color: #DDAAFF;
+}
+#cab7_2026_1_12 {
+    background-color: #DDAAFF;
+}
+#cab7_2026_1_13 {
+    background-color: #DDAAFF;
+}
+#cab7_2026_1_14 {
+    background-color: #DDAAFF;
+}
+#cab7_2026_1_15 {
+    background-color: #DDAAFF;
+}
 #cab7_2026_1_19 {
     background-color: #66B3FF;
 }
@@ -3452,13 +3467,13 @@ function setCalendarHints(){
     <td id='cab7_2026_1_8' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>8</td>
     <td id='cab7_2026_1_9' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>9</td>
     <td id='cab7_2026_1_10' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>10</td>
-    <td id='cab7_2026_1_11'>11</td>
+    <td id='cab7_2026_1_11' title='Coy Constanza (2) (es cliente)'>11</td>
   </tr>
   <tr>
-    <td id='cab7_2026_1_12'>12</td>
-    <td id='cab7_2026_1_13'>13</td>
-    <td id='cab7_2026_1_14'>14</td>
-    <td id='cab7_2026_1_15'>15</td>
+    <td id='cab7_2026_1_12' title='Coy Constanza (2) (es cliente)'>12</td>
+    <td id='cab7_2026_1_13' title='Coy Constanza (2) (es cliente)'>13</td>
+    <td id='cab7_2026_1_14' title='Coy Constanza (2) (es cliente)'>14</td>
+    <td id='cab7_2026_1_15' title='Coy Constanza (2) (es cliente)'>15</td>
     <td id='cab7_2026_1_16'>16</td>
     <td id='cab7_2026_1_17'>17</td>
     <td id='cab7_2026_1_18'>18</td>
