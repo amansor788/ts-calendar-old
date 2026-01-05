@@ -840,13 +840,7 @@ function setCalendarHints(){
     background-color: #FFCC99;
 }
 #cab6_2026_1_5 {
-    background-color: #99DDBB;
-}
-#cab6_2026_1_6 {
-    background-color: #99DDBB;
-}
-#cab6_2026_1_7 {
-    background-color: #99DDBB;
+    background-color: #FFCC99;
 }
 #cab6_2026_1_11 {
     background-color: #CCAAFF;
@@ -973,6 +967,15 @@ function setCalendarHints(){
 }
 #cab7_2026_1_3 {
     background-color: #DDAAFF;
+}
+#cab7_2026_1_5 {
+    background-color: #99DDBB;
+}
+#cab7_2026_1_6 {
+    background-color: #99DDBB;
+}
+#cab7_2026_1_7 {
+    background-color: #99DDBB;
 }
 #cab7_2026_1_8 {
     background-color: #FFDD99;
@@ -3157,9 +3160,9 @@ function setCalendarHints(){
     <td id='cab6_2026_1_4' title='Figueroa Milena (2) deposita 140 saldo reserva el 17/12'>4</td>
   </tr>
   <tr>
-    <td id='cab6_2026_1_5' title='Miguez Veronica (2)'>5</td>
-    <td id='cab6_2026_1_6' title='Miguez Veronica (2)'>6</td>
-    <td id='cab6_2026_1_7' title='Miguez Veronica (2)'>7</td>
+    <td id='cab6_2026_1_5' title='Figueroa Milena (2) deposita 140 saldo reserva el 17/12'>5</td>
+    <td id='cab6_2026_1_6'>6</td>
+    <td id='cab6_2026_1_7'>7</td>
     <td id='cab6_2026_1_8' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>8</td>
     <td id='cab6_2026_1_9' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>9</td>
     <td id='cab6_2026_1_10' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>10</td>
@@ -3485,9 +3488,9 @@ function setCalendarHints(){
     <td id='cab7_2026_1_4'>4</td>
   </tr>
   <tr>
-    <td id='cab7_2026_1_5'>5</td>
-    <td id='cab7_2026_1_6'>6</td>
-    <td id='cab7_2026_1_7'>7</td>
+    <td id='cab7_2026_1_5' title='Miguez Veronica (2)'>5</td>
+    <td id='cab7_2026_1_6' title='Miguez Veronica (2)'>6</td>
+    <td id='cab7_2026_1_7' title='Miguez Veronica (2)'>7</td>
     <td id='cab7_2026_1_8' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>8</td>
     <td id='cab7_2026_1_9' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>9</td>
     <td id='cab7_2026_1_10' title='Arce Lautaro (2) (tiene dos cabanas. son dos parejas)'>10</td>
