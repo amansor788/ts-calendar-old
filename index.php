@@ -1079,6 +1079,21 @@ function setCalendarHints(){
 #cab7_2026_2_13 {
     background-color: #FFBB99;
 }
+#cab7_2026_2_17 {
+    background-color: #AADDFF;
+}
+#cab7_2026_2_18 {
+    background-color: #AADDFF;
+}
+#cab7_2026_2_19 {
+    background-color: #AADDFF;
+}
+#cab7_2026_2_20 {
+    background-color: #AADDFF;
+}
+#cab7_2026_2_21 {
+    background-color: #AADDFF;
+}
 #cab8_2026_2_8 {
     background-color: #CCFFFF;
 }
@@ -3560,11 +3575,11 @@ function setCalendarHints(){
   </tr>
   <tr>
     <td id='cab7_2026_2_16'>16</td>
-    <td id='cab7_2026_2_17'>17</td>
-    <td id='cab7_2026_2_18'>18</td>
-    <td id='cab7_2026_2_19'>19</td>
-    <td id='cab7_2026_2_20'>20</td>
-    <td id='cab7_2026_2_21'>21</td>
+    <td id='cab7_2026_2_17' title='Gini Leonela (2)'>17</td>
+    <td id='cab7_2026_2_18' title='Gini Leonela (2)'>18</td>
+    <td id='cab7_2026_2_19' title='Gini Leonela (2)'>19</td>
+    <td id='cab7_2026_2_20' title='Gini Leonela (2)'>20</td>
+    <td id='cab7_2026_2_21' title='Gini Leonela (2)'>21</td>
     <td id='cab7_2026_2_22'>22</td>
   </tr>
   <tr>
