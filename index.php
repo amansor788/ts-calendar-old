@@ -1001,6 +1001,15 @@ function setCalendarHints(){
 #cab7_2026_1_15 {
     background-color: #DDAAFF;
 }
+#cab7_2026_1_16 {
+    background-color: #FFCC99;
+}
+#cab7_2026_1_17 {
+    background-color: #FFCC99;
+}
+#cab7_2026_1_18 {
+    background-color: #FFCC99;
+}
 #cab7_2026_1_19 {
     background-color: #66B3FF;
 }
@@ -3504,9 +3513,9 @@ function setCalendarHints(){
     <td id='cab7_2026_1_13' title='Coy Constanza (2) (es cliente)'>13</td>
     <td id='cab7_2026_1_14' title='Coy Constanza (2) (es cliente)'>14</td>
     <td id='cab7_2026_1_15' title='Coy Constanza (2) (es cliente)'>15</td>
-    <td id='cab7_2026_1_16'>16</td>
-    <td id='cab7_2026_1_17'>17</td>
-    <td id='cab7_2026_1_18'>18</td>
+    <td id='cab7_2026_1_16' title='Santander Ariel (2)'>16</td>
+    <td id='cab7_2026_1_17' title='Santander Ariel (2)'>17</td>
+    <td id='cab7_2026_1_18' title='Santander Ariel (2)'>18</td>
   </tr>
   <tr>
     <td id='cab7_2026_1_19' title='Gomez Luciano (2)'>19</td>
