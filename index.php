@@ -935,6 +935,24 @@ function setCalendarHints(){
 #cab6_2026_2_9 {
     background-color: #99CCFF;
 }
+#cab6_2026_2_14 {
+    background-color: #DDBB99;
+}
+#cab6_2026_2_15 {
+    background-color: #DDBB99;
+}
+#cab6_2026_2_16 {
+    background-color: #DDBB99;
+}
+#cab6_2026_2_17 {
+    background-color: #DDBB99;
+}
+#cab6_2026_2_18 {
+    background-color: #DDBB99;
+}
+#cab6_2026_2_19 {
+    background-color: #DDBB99;
+}
 #cab7_2025_11_20 {
     background-color: #FF9999;
 }
@@ -3287,14 +3305,14 @@ function setCalendarHints(){
     <td id='cab6_2026_2_11'>11</td>
     <td id='cab6_2026_2_12'>12</td>
     <td id='cab6_2026_2_13'>13</td>
-    <td id='cab6_2026_2_14'>14</td>
-    <td id='cab6_2026_2_15'>15</td>
+    <td id='cab6_2026_2_14' title='Gallo Maria (Pochy) (2) (es cliente. pidio abajo)'>14</td>
+    <td id='cab6_2026_2_15' title='Gallo Maria (Pochy) (2) (es cliente. pidio abajo)'>15</td>
   </tr>
   <tr>
-    <td id='cab6_2026_2_16'>16</td>
-    <td id='cab6_2026_2_17'>17</td>
-    <td id='cab6_2026_2_18'>18</td>
-    <td id='cab6_2026_2_19'>19</td>
+    <td id='cab6_2026_2_16' title='Gallo Maria (Pochy) (2) (es cliente. pidio abajo)'>16</td>
+    <td id='cab6_2026_2_17' title='Gallo Maria (Pochy) (2) (es cliente. pidio abajo)'>17</td>
+    <td id='cab6_2026_2_18' title='Gallo Maria (Pochy) (2) (es cliente. pidio abajo)'>18</td>
+    <td id='cab6_2026_2_19' title='Gallo Maria (Pochy) (2) (es cliente. pidio abajo)'>19</td>
     <td id='cab6_2026_2_20'>20</td>
     <td id='cab6_2026_2_21'>21</td>
     <td id='cab6_2026_2_22'>22</td>
