@@ -173,6 +173,18 @@ function setCalendarHints(){
 #cab1_2026_2_4 {
     background-color: #99DDFF;
 }
+#cab1_2026_2_5 {
+    background-color: #AAFFBB;
+}
+#cab1_2026_2_6 {
+    background-color: #AAFFBB;
+}
+#cab1_2026_2_7 {
+    background-color: #AAFFBB;
+}
+#cab1_2026_2_8 {
+    background-color: #AAFFBB;
+}
 #cab1_2026_2_9 {
     background-color: #FF88AA;
 }
@@ -1653,10 +1665,10 @@ function setCalendarHints(){
     <td id='cab1_2026_2_2' title='Santillan Debora (4)'>2</td>
     <td id='cab1_2026_2_3' title='Santillan Debora (4)'>3</td>
     <td id='cab1_2026_2_4' title='Santillan Debora (4)'>4</td>
-    <td id='cab1_2026_2_5'>5</td>
-    <td id='cab1_2026_2_6'>6</td>
-    <td id='cab1_2026_2_7'>7</td>
-    <td id='cab1_2026_2_8'>8</td>
+    <td id='cab1_2026_2_5' title='Bracamonte Ingrid (4) (sin cuna)'>5</td>
+    <td id='cab1_2026_2_6' title='Bracamonte Ingrid (4) (sin cuna)'>6</td>
+    <td id='cab1_2026_2_7' title='Bracamonte Ingrid (4) (sin cuna)'>7</td>
+    <td id='cab1_2026_2_8' title='Bracamonte Ingrid (4) (sin cuna)'>8</td>
   </tr>
   <tr>
     <td id='cab1_2026_2_9' title='Pinero Chyntia (4) (recomendada por un cliente)'>9</td>
