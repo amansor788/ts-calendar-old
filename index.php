@@ -1436,6 +1436,18 @@ function setCalendarHints(){
 #cab8_2025_12_31 {
     background-color: #FFBB99;
 }
+#cab6_2026_2_23 {
+    background-color: #AAFFCC;
+}
+#cab6_2026_2_24 {
+    background-color: #AAFFCC;
+}
+#cab6_2026_2_25 {
+    background-color: #AAFFCC;
+}
+#cab6_2026_2_26 {
+    background-color: #AAFFCC;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3330,10 +3342,10 @@ function setCalendarHints(){
     <td id='cab6_2026_2_22'>22</td>
   </tr>
   <tr>
-    <td id='cab6_2026_2_23'>23</td>
-    <td id='cab6_2026_2_24'>24</td>
-    <td id='cab6_2026_2_25'>25</td>
-    <td id='cab6_2026_2_26'>26</td>
+    <td id='cab6_2026_2_23' title='Speroni Marta (2)'>23</td>
+    <td id='cab6_2026_2_24' title='Speroni Marta (2)'>24</td>
+    <td id='cab6_2026_2_25' title='Speroni Marta (2)'>25</td>
+    <td id='cab6_2026_2_26' title='Speroni Marta (2)'>26</td>
     <td id='cab6_2026_2_27'>27</td>
     <td id='cab6_2026_2_28'>28</td>
     <td>&nbsp;</td>
