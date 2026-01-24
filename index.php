@@ -911,18 +911,6 @@ function setCalendarHints(){
 #cab6_2026_1_10 {
     background-color: #FFDD99;
 }
-#cab6_2026_1_29 {
-    background-color: #99CCFF;
-}
-#cab6_2026_1_30 {
-    background-color: #99CCFF;
-}
-#cab6_2026_1_31 {
-    background-color: #99CCFF;
-}
-#cab6_2026_2_1 {
-    background-color: #99CCFF;
-}
 #cab6_2026_2_2 {
     background-color: #99CCFF;
 }
@@ -945,6 +933,18 @@ function setCalendarHints(){
     background-color: #99CCFF;
 }
 #cab6_2026_2_9 {
+    background-color: #99CCFF;
+}
+#cab6_2026_2_10 {
+    background-color: #99CCFF;
+}
+#cab6_2026_2_11 {
+    background-color: #99CCFF;
+}
+#cab6_2026_2_12 {
+    background-color: #99CCFF;
+}
+#cab6_2026_2_13 {
     background-color: #99CCFF;
 }
 #cab6_2026_2_14 {
@@ -3295,9 +3295,9 @@ function setCalendarHints(){
     <td id='cab6_2026_1_26' title='Massa Marianela (2) (completa reserva $90m el 5/12)'>26</td>
     <td id='cab6_2026_1_27' title='Massa Marianela (2) (completa reserva $90m el 5/12)'>27</td>
     <td id='cab6_2026_1_28' title='Massa Marianela (2) (completa reserva $90m el 5/12)'>28</td>
-    <td id='cab6_2026_1_29' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>29</td>
-    <td id='cab6_2026_1_30' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>30</td>
-    <td id='cab6_2026_1_31' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>31</td>
+    <td id='cab6_2026_1_29'>29</td>
+    <td id='cab6_2026_1_30'>30</td>
+    <td id='cab6_2026_1_31'>31</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -3327,7 +3327,7 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab6_2026_2_1' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>1</td>
+    <td id='cab6_2026_2_1'>1</td>
   </tr>
   <tr>
     <td id='cab6_2026_2_2' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>2</td>
@@ -3340,10 +3340,10 @@ function setCalendarHints(){
   </tr>
   <tr>
     <td id='cab6_2026_2_9' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>9</td>
-    <td id='cab6_2026_2_10'>10</td>
-    <td id='cab6_2026_2_11'>11</td>
-    <td id='cab6_2026_2_12'>12</td>
-    <td id='cab6_2026_2_13'>13</td>
+    <td id='cab6_2026_2_10' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>10</td>
+    <td id='cab6_2026_2_11' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>11</td>
+    <td id='cab6_2026_2_12' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>12</td>
+    <td id='cab6_2026_2_13' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>13</td>
     <td id='cab6_2026_2_14' title='Gallo Maria (Pochy) (2) (es cliente. pidio abajo)'>14</td>
     <td id='cab6_2026_2_15' title='Gallo Maria (Pochy) (2) (es cliente. pidio abajo)'>15</td>
   </tr>
