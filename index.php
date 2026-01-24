@@ -1448,6 +1448,21 @@ function setCalendarHints(){
 #cab6_2026_2_26 {
     background-color: #AAFFCC;
 }
+#cab8_2026_2_3 {
+    background-color: #FFB3D9;
+}
+#cab8_2026_2_4 {
+    background-color: #FFB3D9;
+}
+#cab8_2026_2_5 {
+    background-color: #FFB3D9;
+}
+#cab8_2026_2_6 {
+    background-color: #FFB3D9;
+}
+#cab8_2026_2_7 {
+    background-color: #FFB3D9;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3972,11 +3987,11 @@ function setCalendarHints(){
   </tr>
   <tr>
     <td id='cab8_2026_2_2' title='Rossini Nicolas (2)'>2</td>
-    <td id='cab8_2026_2_3'>3</td>
-    <td id='cab8_2026_2_4'>4</td>
-    <td id='cab8_2026_2_5'>5</td>
-    <td id='cab8_2026_2_6'>6</td>
-    <td id='cab8_2026_2_7'>7</td>
+    <td id='cab8_2026_2_3' title='Cantanelli Monica (2)'>3</td>
+    <td id='cab8_2026_2_4' title='Cantanelli Monica (2)'>4</td>
+    <td id='cab8_2026_2_5' title='Cantanelli Monica (2)'>5</td>
+    <td id='cab8_2026_2_6' title='Cantanelli Monica (2)'>6</td>
+    <td id='cab8_2026_2_7' title='Cantanelli Monica (2)'>7</td>
     <td id='cab8_2026_2_8' title='Lafont Ayelen (2)'>8</td>
   </tr>
   <tr>
