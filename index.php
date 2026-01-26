@@ -1490,6 +1490,15 @@ function setCalendarHints(){
 #cab6_2026_2_1 {
     background-color: #FFCC99;
 }
+#cab2_2026_2_14 {
+    background-color: #D9B3FF;
+}
+#cab2_2026_2_15 {
+    background-color: #D9B3FF;
+}
+#cab2_2026_2_16 {
+    background-color: #D9B3FF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2059,11 +2068,11 @@ function setCalendarHints(){
     <td id='cab2_2026_2_11' title='Del Pino Adriana (4)'>11</td>
     <td id='cab2_2026_2_12' title='Del Pino Adriana (4)'>12</td>
     <td id='cab2_2026_2_13' title='Del Pino Adriana (4)'>13</td>
-    <td id='cab2_2026_2_14'>14</td>
-    <td id='cab2_2026_2_15'>15</td>
+    <td id='cab2_2026_2_14' title='Cattaneo Giuliano (4)'>14</td>
+    <td id='cab2_2026_2_15' title='Cattaneo Giuliano (4)'>15</td>
   </tr>
   <tr>
-    <td id='cab2_2026_2_16'>16</td>
+    <td id='cab2_2026_2_16' title='Cattaneo Giuliano (4)'>16</td>
     <td id='cab2_2026_2_17'>17</td>
     <td id='cab2_2026_2_18'>18</td>
     <td id='cab2_2026_2_19'>19</td>
