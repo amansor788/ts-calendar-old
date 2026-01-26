@@ -1499,6 +1499,21 @@ function setCalendarHints(){
 #cab2_2026_2_16 {
     background-color: #D9B3FF;
 }
+#cab5_2026_2_8 {
+    background-color: #99EEBB;
+}
+#cab5_2026_2_9 {
+    background-color: #99EEBB;
+}
+#cab5_2026_2_10 {
+    background-color: #99EEBB;
+}
+#cab5_2026_2_11 {
+    background-color: #99EEBB;
+}
+#cab5_2026_2_12 {
+    background-color: #99EEBB;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3044,13 +3059,13 @@ function setCalendarHints(){
     <td id='cab5_2026_2_5' title='Zarrielo Antonella (2) (es cliente)'>5</td>
     <td id='cab5_2026_2_6' title='Zarrielo Antonella (2) (es cliente)'>6</td>
     <td id='cab5_2026_2_7' title='Zarrielo Antonella (2) (es cliente)'>7</td>
-    <td id='cab5_2026_2_8'>8</td>
+    <td id='cab5_2026_2_8' title='Micucci Rogelio (2)'>8</td>
   </tr>
   <tr>
-    <td id='cab5_2026_2_9'>9</td>
-    <td id='cab5_2026_2_10'>10</td>
-    <td id='cab5_2026_2_11'>11</td>
-    <td id='cab5_2026_2_12'>12</td>
+    <td id='cab5_2026_2_9' title='Micucci Rogelio (2)'>9</td>
+    <td id='cab5_2026_2_10' title='Micucci Rogelio (2)'>10</td>
+    <td id='cab5_2026_2_11' title='Micucci Rogelio (2)'>11</td>
+    <td id='cab5_2026_2_12' title='Micucci Rogelio (2)'>12</td>
     <td id='cab5_2026_2_13'>13</td>
     <td id='cab5_2026_2_14'>14</td>
     <td id='cab5_2026_2_15'>15</td>
