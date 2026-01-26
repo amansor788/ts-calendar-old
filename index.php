@@ -1478,6 +1478,18 @@ function setCalendarHints(){
 #cab2_2026_2_13 {
     background-color: #BBDDFF;
 }
+#cab6_2026_1_29 {
+    background-color: #FFCC99;
+}
+#cab6_2026_1_30 {
+    background-color: #FFCC99;
+}
+#cab6_2026_1_31 {
+    background-color: #FFCC99;
+}
+#cab6_2026_2_1 {
+    background-color: #FFCC99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3310,9 +3322,9 @@ function setCalendarHints(){
     <td id='cab6_2026_1_26' title='Massa Marianela (2) (completa reserva $90m el 5/12)'>26</td>
     <td id='cab6_2026_1_27' title='Massa Marianela (2) (completa reserva $90m el 5/12)'>27</td>
     <td id='cab6_2026_1_28' title='Massa Marianela (2) (completa reserva $90m el 5/12)'>28</td>
-    <td id='cab6_2026_1_29'>29</td>
-    <td id='cab6_2026_1_30'>30</td>
-    <td id='cab6_2026_1_31'>31</td>
+    <td id='cab6_2026_1_29' title='Diaz Fernando (2)'>29</td>
+    <td id='cab6_2026_1_30' title='Diaz Fernando (2)'>30</td>
+    <td id='cab6_2026_1_31' title='Diaz Fernando (2)'>31</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -3342,7 +3354,7 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab6_2026_2_1'>1</td>
+    <td id='cab6_2026_2_1' title='Diaz Fernando (2)'>1</td>
   </tr>
   <tr>
     <td id='cab6_2026_2_2' title='De San Pio Miguel Angel (2) (es cliente, pidio cabana 6)'>2</td>
