@@ -1514,6 +1514,15 @@ function setCalendarHints(){
 #cab5_2026_2_12 {
     background-color: #99EEBB;
 }
+#cab7_2026_2_14 {
+    background-color: #D9B3FF;
+}
+#cab7_2026_2_15 {
+    background-color: #D9B3FF;
+}
+#cab7_2026_2_16 {
+    background-color: #D9B3FF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3723,11 +3732,11 @@ function setCalendarHints(){
     <td id='cab7_2026_2_11' title='Del Moral Gonzalo (2) (es cliente)'>11</td>
     <td id='cab7_2026_2_12' title='Del Moral Gonzalo (2) (es cliente)'>12</td>
     <td id='cab7_2026_2_13' title='Del Moral Gonzalo (2) (es cliente)'>13</td>
-    <td id='cab7_2026_2_14'>14</td>
-    <td id='cab7_2026_2_15'>15</td>
+    <td id='cab7_2026_2_14' title='Minetti Fabricio (2)'>14</td>
+    <td id='cab7_2026_2_15' title='Minetti Fabricio (2)'>15</td>
   </tr>
   <tr>
-    <td id='cab7_2026_2_16'>16</td>
+    <td id='cab7_2026_2_16' title='Minetti Fabricio (2)'>16</td>
     <td id='cab7_2026_2_17' title='Gini Leonela (2)'>17</td>
     <td id='cab7_2026_2_18' title='Gini Leonela (2)'>18</td>
     <td id='cab7_2026_2_19' title='Gini Leonela (2)'>19</td>
