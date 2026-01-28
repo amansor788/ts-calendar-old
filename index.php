@@ -1523,6 +1523,12 @@ function setCalendarHints(){
 #cab7_2026_2_16 {
     background-color: #D9B3FF;
 }
+#cab3_2026_2_12 {
+    background-color: #FFDD99;
+}
+#cab3_2026_2_13 {
+    background-color: #FFDD99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2418,8 +2424,8 @@ function setCalendarHints(){
     <td id='cab3_2026_2_9' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>9</td>
     <td id='cab3_2026_2_10' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>10</td>
     <td id='cab3_2026_2_11' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>11</td>
-    <td id='cab3_2026_2_12'>12</td>
-    <td id='cab3_2026_2_13'>13</td>
+    <td id='cab3_2026_2_12' title='Pantanetti Antonella (4)'>12</td>
+    <td id='cab3_2026_2_13' title='Pantanetti Antonella (4)'>13</td>
     <td id='cab3_2026_2_14'>14</td>
     <td id='cab3_2026_2_15'>15</td>
   </tr>
