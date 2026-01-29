@@ -1529,6 +1529,24 @@ function setCalendarHints(){
 #cab3_2026_2_13 {
     background-color: #FFDD99;
 }
+#cab3_2026_2_14 {
+    background-color: #99DDCC;
+}
+#cab3_2026_2_15 {
+    background-color: #99DDCC;
+}
+#cab3_2026_2_16 {
+    background-color: #99DDCC;
+}
+#cab3_2026_2_17 {
+    background-color: #99DDCC;
+}
+#cab3_2026_2_18 {
+    background-color: #99DDCC;
+}
+#cab3_2026_2_19 {
+    background-color: #99DDCC;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2426,14 +2444,14 @@ function setCalendarHints(){
     <td id='cab3_2026_2_11' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>11</td>
     <td id='cab3_2026_2_12' title='Pantanetti Antonella (4)'>12</td>
     <td id='cab3_2026_2_13' title='Pantanetti Antonella (4)'>13</td>
-    <td id='cab3_2026_2_14'>14</td>
-    <td id='cab3_2026_2_15'>15</td>
+    <td id='cab3_2026_2_14' title='Acosta Graciela (3)'>14</td>
+    <td id='cab3_2026_2_15' title='Acosta Graciela (3)'>15</td>
   </tr>
   <tr>
-    <td id='cab3_2026_2_16'>16</td>
-    <td id='cab3_2026_2_17'>17</td>
-    <td id='cab3_2026_2_18'>18</td>
-    <td id='cab3_2026_2_19'>19</td>
+    <td id='cab3_2026_2_16' title='Acosta Graciela (3)'>16</td>
+    <td id='cab3_2026_2_17' title='Acosta Graciela (3)'>17</td>
+    <td id='cab3_2026_2_18' title='Acosta Graciela (3)'>18</td>
+    <td id='cab3_2026_2_19' title='Acosta Graciela (3)'>19</td>
     <td id='cab3_2026_2_20'>20</td>
     <td id='cab3_2026_2_21'>21</td>
     <td id='cab3_2026_2_22'>22</td>
