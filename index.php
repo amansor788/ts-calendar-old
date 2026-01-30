@@ -1547,6 +1547,24 @@ function setCalendarHints(){
 #cab2_2026_2_8 {
     background-color: #99DD99;
 }
+#cab8_2026_2_19 {
+    background-color: #CCAAFF;
+}
+#cab8_2026_2_20 {
+    background-color: #CCAAFF;
+}
+#cab8_2026_2_21 {
+    background-color: #CCAAFF;
+}
+#cab8_2026_2_22 {
+    background-color: #CCAAFF;
+}
+#cab8_2026_2_23 {
+    background-color: #CCAAFF;
+}
+#cab8_2026_2_24 {
+    background-color: #CCAAFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -4091,14 +4109,14 @@ function setCalendarHints(){
     <td id='cab8_2026_2_16'>16</td>
     <td id='cab8_2026_2_17'>17</td>
     <td id='cab8_2026_2_18'>18</td>
-    <td id='cab8_2026_2_19'>19</td>
-    <td id='cab8_2026_2_20'>20</td>
-    <td id='cab8_2026_2_21'>21</td>
-    <td id='cab8_2026_2_22'>22</td>
+    <td id='cab8_2026_2_19' title='Heredia Leonardo (2)'>19</td>
+    <td id='cab8_2026_2_20' title='Heredia Leonardo (2)'>20</td>
+    <td id='cab8_2026_2_21' title='Heredia Leonardo (2)'>21</td>
+    <td id='cab8_2026_2_22' title='Heredia Leonardo (2)'>22</td>
   </tr>
   <tr>
-    <td id='cab8_2026_2_23'>23</td>
-    <td id='cab8_2026_2_24'>24</td>
+    <td id='cab8_2026_2_23' title='Heredia Leonardo (2)'>23</td>
+    <td id='cab8_2026_2_24' title='Heredia Leonardo (2)'>24</td>
     <td id='cab8_2026_2_25'>25</td>
     <td id='cab8_2026_2_26'>26</td>
     <td id='cab8_2026_2_27'>27</td>
