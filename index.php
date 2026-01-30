@@ -1535,6 +1535,18 @@ function setCalendarHints(){
 #cab3_2026_2_19 {
     background-color: #99DDCC;
 }
+#cab2_2026_2_5 {
+    background-color: #99DD99;
+}
+#cab2_2026_2_6 {
+    background-color: #99DD99;
+}
+#cab2_2026_2_7 {
+    background-color: #99DD99;
+}
+#cab2_2026_2_8 {
+    background-color: #99DD99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2093,10 +2105,10 @@ function setCalendarHints(){
     <td id='cab2_2026_2_2' title='Aguiar Nicolas (5) (cuna)'>2</td>
     <td id='cab2_2026_2_3' title='Aguiar Nicolas (5) (cuna)'>3</td>
     <td id='cab2_2026_2_4' title='Aguiar Nicolas (5) (cuna)'>4</td>
-    <td id='cab2_2026_2_5'>5</td>
-    <td id='cab2_2026_2_6'>6</td>
-    <td id='cab2_2026_2_7'>7</td>
-    <td id='cab2_2026_2_8'>8</td>
+    <td id='cab2_2026_2_5' title='Amaya Sandra (5)'>5</td>
+    <td id='cab2_2026_2_6' title='Amaya Sandra (5)'>6</td>
+    <td id='cab2_2026_2_7' title='Amaya Sandra (5)'>7</td>
+    <td id='cab2_2026_2_8' title='Amaya Sandra (5)'>8</td>
   </tr>
   <tr>
     <td id='cab2_2026_2_9' title='Del Pino Adriana (4)'>9</td>
