@@ -1559,6 +1559,15 @@ function setCalendarHints(){
 #cab5_2026_2_16 {
     background-color: #AADDFF;
 }
+#cab4_2026_2_18 {
+    background-color: #99DD99;
+}
+#cab4_2026_2_19 {
+    background-color: #99DD99;
+}
+#cab4_2026_2_20 {
+    background-color: #99DD99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2790,9 +2799,9 @@ function setCalendarHints(){
   <tr>
     <td id='cab4_2026_2_16' title='Villan Jorge (4)'>16</td>
     <td id='cab4_2026_2_17' title='Villan Jorge (4)'>17</td>
-    <td id='cab4_2026_2_18'>18</td>
-    <td id='cab4_2026_2_19'>19</td>
-    <td id='cab4_2026_2_20'>20</td>
+    <td id='cab4_2026_2_18' title='Comanducci Laura (4)'>18</td>
+    <td id='cab4_2026_2_19' title='Comanducci Laura (4)'>19</td>
+    <td id='cab4_2026_2_20' title='Comanducci Laura (4)'>20</td>
     <td id='cab4_2026_2_21'>21</td>
     <td id='cab4_2026_2_22'>22</td>
   </tr>
