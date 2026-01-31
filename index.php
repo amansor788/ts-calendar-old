@@ -1577,6 +1577,18 @@ function setCalendarHints(){
 #cab4_2026_2_17 {
     background-color: #FFCC99;
 }
+#cab5_2026_2_13 {
+    background-color: #AADDFF;
+}
+#cab5_2026_2_14 {
+    background-color: #AADDFF;
+}
+#cab5_2026_2_15 {
+    background-color: #AADDFF;
+}
+#cab5_2026_2_16 {
+    background-color: #AADDFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3129,12 +3141,12 @@ function setCalendarHints(){
     <td id='cab5_2026_2_10' title='Micucci Rogelio (2)'>10</td>
     <td id='cab5_2026_2_11' title='Micucci Rogelio (2)'>11</td>
     <td id='cab5_2026_2_12' title='Micucci Rogelio (2)'>12</td>
-    <td id='cab5_2026_2_13'>13</td>
-    <td id='cab5_2026_2_14'>14</td>
-    <td id='cab5_2026_2_15'>15</td>
+    <td id='cab5_2026_2_13' title='Parraga Estela (2)'>13</td>
+    <td id='cab5_2026_2_14' title='Parraga Estela (2)'>14</td>
+    <td id='cab5_2026_2_15' title='Parraga Estela (2)'>15</td>
   </tr>
   <tr>
-    <td id='cab5_2026_2_16'>16</td>
+    <td id='cab5_2026_2_16' title='Parraga Estela (2)'>16</td>
     <td id='cab5_2026_2_17' title='Cenci Liliana (2) (pidio abajo)'>17</td>
     <td id='cab5_2026_2_18' title='Cenci Liliana (2) (pidio abajo)'>18</td>
     <td id='cab5_2026_2_19' title='Cenci Liliana (2) (pidio abajo)'>19</td>
