@@ -1295,36 +1295,6 @@ function setCalendarHints(){
 #cab2_2026_2_4 {
     background-color: #FFAA99;
 }
-#cab3_2026_2_2 {
-    background-color: #BBDDFF;
-}
-#cab3_2026_2_3 {
-    background-color: #BBDDFF;
-}
-#cab3_2026_2_4 {
-    background-color: #BBDDFF;
-}
-#cab3_2026_2_5 {
-    background-color: #BBDDFF;
-}
-#cab3_2026_2_6 {
-    background-color: #BBDDFF;
-}
-#cab3_2026_2_7 {
-    background-color: #BBDDFF;
-}
-#cab3_2026_2_8 {
-    background-color: #BBDDFF;
-}
-#cab3_2026_2_9 {
-    background-color: #BBDDFF;
-}
-#cab3_2026_2_10 {
-    background-color: #BBDDFF;
-}
-#cab3_2026_2_11 {
-    background-color: #BBDDFF;
-}
 #cab4_2026_1_15 {
     background-color: #DDBBFF;
 }
@@ -2472,18 +2442,18 @@ function setCalendarHints(){
     <td id='cab3_2026_2_1'>1</td>
   </tr>
   <tr>
-    <td id='cab3_2026_2_2' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>2</td>
-    <td id='cab3_2026_2_3' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>3</td>
-    <td id='cab3_2026_2_4' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>4</td>
-    <td id='cab3_2026_2_5' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>5</td>
-    <td id='cab3_2026_2_6' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>6</td>
-    <td id='cab3_2026_2_7' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>7</td>
-    <td id='cab3_2026_2_8' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>8</td>
+    <td id='cab3_2026_2_2'>2</td>
+    <td id='cab3_2026_2_3'>3</td>
+    <td id='cab3_2026_2_4'>4</td>
+    <td id='cab3_2026_2_5'>5</td>
+    <td id='cab3_2026_2_6'>6</td>
+    <td id='cab3_2026_2_7'>7</td>
+    <td id='cab3_2026_2_8'>8</td>
   </tr>
   <tr>
-    <td id='cab3_2026_2_9' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>9</td>
-    <td id='cab3_2026_2_10' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>10</td>
-    <td id='cab3_2026_2_11' title='Braier Daniel (2) (cliente. tercera vez. 2 perritos. completa reserva el 4/12)'>11</td>
+    <td id='cab3_2026_2_9'>9</td>
+    <td id='cab3_2026_2_10'>10</td>
+    <td id='cab3_2026_2_11'>11</td>
     <td id='cab3_2026_2_12' title='Pantanetti Antonella (4)'>12</td>
     <td id='cab3_2026_2_13' title='Pantanetti Antonella (4)'>13</td>
     <td id='cab3_2026_2_14' title='Acosta Graciela (3)'>14</td>
