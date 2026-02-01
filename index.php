@@ -1568,6 +1568,21 @@ function setCalendarHints(){
 #cab4_2026_2_20 {
     background-color: #99DD99;
 }
+#cab3_2026_2_5 {
+    background-color: #FFAACC;
+}
+#cab3_2026_2_6 {
+    background-color: #FFAACC;
+}
+#cab3_2026_2_7 {
+    background-color: #FFAACC;
+}
+#cab3_2026_2_8 {
+    background-color: #FFAACC;
+}
+#cab3_2026_2_9 {
+    background-color: #FFAACC;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2454,13 +2469,13 @@ function setCalendarHints(){
     <td id='cab3_2026_2_2'>2</td>
     <td id='cab3_2026_2_3'>3</td>
     <td id='cab3_2026_2_4'>4</td>
-    <td id='cab3_2026_2_5'>5</td>
-    <td id='cab3_2026_2_6'>6</td>
-    <td id='cab3_2026_2_7'>7</td>
-    <td id='cab3_2026_2_8'>8</td>
+    <td id='cab3_2026_2_5' title='Franco Esther (4)'>5</td>
+    <td id='cab3_2026_2_6' title='Franco Esther (4)'>6</td>
+    <td id='cab3_2026_2_7' title='Franco Esther (4)'>7</td>
+    <td id='cab3_2026_2_8' title='Franco Esther (4)'>8</td>
   </tr>
   <tr>
-    <td id='cab3_2026_2_9'>9</td>
+    <td id='cab3_2026_2_9' title='Franco Esther (4)'>9</td>
     <td id='cab3_2026_2_10'>10</td>
     <td id='cab3_2026_2_11'>11</td>
     <td id='cab3_2026_2_12' title='Pantanetti Antonella (4)'>12</td>
