@@ -1583,6 +1583,21 @@ function setCalendarHints(){
 #cab3_2026_2_9 {
     background-color: #FFAACC;
 }
+#cab2_2026_2_25 {
+    background-color: #BBDDFF;
+}
+#cab2_2026_2_26 {
+    background-color: #BBDDFF;
+}
+#cab2_2026_2_27 {
+    background-color: #BBDDFF;
+}
+#cab2_2026_2_28 {
+    background-color: #BBDDFF;
+}
+#cab2_2026_3_1 {
+    background-color: #BBDDFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2167,10 +2182,10 @@ function setCalendarHints(){
   <tr>
     <td id='cab2_2026_2_23'>23</td>
     <td id='cab2_2026_2_24'>24</td>
-    <td id='cab2_2026_2_25'>25</td>
-    <td id='cab2_2026_2_26'>26</td>
-    <td id='cab2_2026_2_27'>27</td>
-    <td id='cab2_2026_2_28'>28</td>
+    <td id='cab2_2026_2_25' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>25</td>
+    <td id='cab2_2026_2_26' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>26</td>
+    <td id='cab2_2026_2_27' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>27</td>
+    <td id='cab2_2026_2_28' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>28</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -2193,7 +2208,7 @@ function setCalendarHints(){
 </thead>
 <tbody>
   <tr>
-    <td id='cab2_2026_3_1'>1</td>
+    <td id='cab2_2026_3_1' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>1</td>
     <td id='cab2_2026_3_2'>2</td>
     <td id='cab2_2026_3_3'>3</td>
     <td id='cab2_2026_3_4'>4</td>
