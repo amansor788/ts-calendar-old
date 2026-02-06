@@ -1586,6 +1586,15 @@ function setCalendarHints(){
 #cab2_2026_3_1 {
     background-color: #BBDDFF;
 }
+#cab8_2026_2_16 {
+    background-color: #FFCC99;
+}
+#cab8_2026_2_17 {
+    background-color: #FFCC99;
+}
+#cab8_2026_2_18 {
+    background-color: #FFCC99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -4127,9 +4136,9 @@ function setCalendarHints(){
     <td id='cab8_2026_2_15' title='Lafont Ayelen (2)'>15</td>
   </tr>
   <tr>
-    <td id='cab8_2026_2_16'>16</td>
-    <td id='cab8_2026_2_17'>17</td>
-    <td id='cab8_2026_2_18'>18</td>
+    <td id='cab8_2026_2_16' title='Velazquez Fabian (2)'>16</td>
+    <td id='cab8_2026_2_17' title='Velazquez Fabian (2)'>17</td>
+    <td id='cab8_2026_2_18' title='Velazquez Fabian (2)'>18</td>
     <td id='cab8_2026_2_19' title='Heredia Leonardo (2)'>19</td>
     <td id='cab8_2026_2_20' title='Heredia Leonardo (2)'>20</td>
     <td id='cab8_2026_2_21' title='Heredia Leonardo (2)'>21</td>
