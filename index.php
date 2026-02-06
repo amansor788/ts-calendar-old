@@ -1535,18 +1535,6 @@ function setCalendarHints(){
 #cab8_2026_2_24 {
     background-color: #CCAAFF;
 }
-#cab4_2026_2_14 {
-    background-color: #FFCC99;
-}
-#cab4_2026_2_15 {
-    background-color: #FFCC99;
-}
-#cab4_2026_2_16 {
-    background-color: #FFCC99;
-}
-#cab4_2026_2_17 {
-    background-color: #FFCC99;
-}
 #cab5_2026_2_13 {
     background-color: #AADDFF;
 }
@@ -2823,12 +2811,12 @@ function setCalendarHints(){
     <td id='cab4_2026_2_11' title='Villalba Gisella (4)'>11</td>
     <td id='cab4_2026_2_12' title='Villalba Gisella (4)'>12</td>
     <td id='cab4_2026_2_13' title='Villalba Gisella (4)'>13</td>
-    <td id='cab4_2026_2_14' title='Villan Jorge (4)'>14</td>
-    <td id='cab4_2026_2_15' title='Villan Jorge (4)'>15</td>
+    <td id='cab4_2026_2_14'>14</td>
+    <td id='cab4_2026_2_15'>15</td>
   </tr>
   <tr>
-    <td id='cab4_2026_2_16' title='Villan Jorge (4)'>16</td>
-    <td id='cab4_2026_2_17' title='Villan Jorge (4)'>17</td>
+    <td id='cab4_2026_2_16'>16</td>
+    <td id='cab4_2026_2_17'>17</td>
     <td id='cab4_2026_2_18' title='Comanducci Laura (4)'>18</td>
     <td id='cab4_2026_2_19' title='Comanducci Laura (4)'>19</td>
     <td id='cab4_2026_2_20' title='Comanducci Laura (4)'>20</td>
