@@ -1607,6 +1607,15 @@ function setCalendarHints(){
 #cab4_2026_2_17 {
     background-color: #DDAAFF;
 }
+#cab1_2026_2_17 {
+    background-color: #FFCC99;
+}
+#cab1_2026_2_18 {
+    background-color: #FFCC99;
+}
+#cab1_2026_2_19 {
+    background-color: #FFCC99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -1852,9 +1861,9 @@ function setCalendarHints(){
   </tr>
   <tr>
     <td id='cab1_2026_2_16' title='Cattaneo Giuliano (4)'>16</td>
-    <td id='cab1_2026_2_17'>17</td>
-    <td id='cab1_2026_2_18'>18</td>
-    <td id='cab1_2026_2_19'>19</td>
+    <td id='cab1_2026_2_17' title='Dupouy Florencia (3)'>17</td>
+    <td id='cab1_2026_2_18' title='Dupouy Florencia (3)'>18</td>
+    <td id='cab1_2026_2_19' title='Dupouy Florencia (3)'>19</td>
     <td id='cab1_2026_2_20'>20</td>
     <td id='cab1_2026_2_21'>21</td>
     <td id='cab1_2026_2_22'>22</td>
