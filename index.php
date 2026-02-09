@@ -186,61 +186,43 @@ function setCalendarHints(){
     background-color: #AAFFBB;
 }
 #cab1_2026_2_9 {
-    background-color: #FF88AA;
+    background-color: #BBDDFF;
 }
 #cab1_2026_2_10 {
-    background-color: #FF88AA;
+    background-color: #BBDDFF;
 }
 #cab1_2026_2_11 {
-    background-color: #FF88AA;
+    background-color: #BBDDFF;
 }
 #cab1_2026_2_12 {
-    background-color: #FF88AA;
+    background-color: #BBDDFF;
 }
 #cab1_2026_2_13 {
-    background-color: #FF88AA;
+    background-color: #BBDDFF;
 }
 #cab1_2026_2_14 {
-    background-color: #FF88AA;
+    background-color: #D9B3FF;
 }
 #cab1_2026_2_15 {
-    background-color: #FF88AA;
+    background-color: #D9B3FF;
 }
 #cab1_2026_2_16 {
-    background-color: #FF88AA;
-}
-#cab1_2026_2_17 {
-    background-color: #FF88AA;
-}
-#cab1_2026_2_18 {
-    background-color: #FF88AA;
-}
-#cab1_2026_2_19 {
-    background-color: #FF88AA;
-}
-#cab1_2026_2_20 {
-    background-color: #FF88AA;
-}
-#cab1_2026_2_21 {
-    background-color: #99CCAA;
-}
-#cab1_2026_2_22 {
-    background-color: #99CCAA;
-}
-#cab1_2026_2_23 {
-    background-color: #99CCAA;
-}
-#cab1_2026_2_24 {
-    background-color: #99CCAA;
+    background-color: #D9B3FF;
 }
 #cab1_2026_2_25 {
-    background-color: #99CCAA;
+    background-color: #BBDDFF;
 }
 #cab1_2026_2_26 {
-    background-color: #99CCAA;
+    background-color: #BBDDFF;
 }
 #cab1_2026_2_27 {
-    background-color: #99CCAA;
+    background-color: #BBDDFF;
+}
+#cab1_2026_2_28 {
+    background-color: #BBDDFF;
+}
+#cab1_2026_3_1 {
+    background-color: #BBDDFF;
 }
 #cab2_2026_1_2 {
     background-color: #99FF99;
@@ -1422,19 +1404,61 @@ function setCalendarHints(){
     background-color: #FFB3D9;
 }
 #cab2_2026_2_9 {
-    background-color: #BBDDFF;
+    background-color: #FF88AA;
 }
 #cab2_2026_2_10 {
-    background-color: #BBDDFF;
+    background-color: #FF88AA;
 }
 #cab2_2026_2_11 {
-    background-color: #BBDDFF;
+    background-color: #FF88AA;
 }
 #cab2_2026_2_12 {
-    background-color: #BBDDFF;
+    background-color: #FF88AA;
 }
 #cab2_2026_2_13 {
-    background-color: #BBDDFF;
+    background-color: #FF88AA;
+}
+#cab2_2026_2_14 {
+    background-color: #FF88AA;
+}
+#cab2_2026_2_15 {
+    background-color: #FF88AA;
+}
+#cab2_2026_2_16 {
+    background-color: #FF88AA;
+}
+#cab2_2026_2_17 {
+    background-color: #FF88AA;
+}
+#cab2_2026_2_18 {
+    background-color: #FF88AA;
+}
+#cab2_2026_2_19 {
+    background-color: #FF88AA;
+}
+#cab2_2026_2_20 {
+    background-color: #FF88AA;
+}
+#cab2_2026_2_21 {
+    background-color: #99CCAA;
+}
+#cab2_2026_2_22 {
+    background-color: #99CCAA;
+}
+#cab2_2026_2_23 {
+    background-color: #99CCAA;
+}
+#cab2_2026_2_24 {
+    background-color: #99CCAA;
+}
+#cab2_2026_2_25 {
+    background-color: #99CCAA;
+}
+#cab2_2026_2_26 {
+    background-color: #99CCAA;
+}
+#cab2_2026_2_27 {
+    background-color: #99CCAA;
 }
 #cab6_2026_1_29 {
     background-color: #FFCC99;
@@ -1447,15 +1471,6 @@ function setCalendarHints(){
 }
 #cab6_2026_2_1 {
     background-color: #FFCC99;
-}
-#cab2_2026_2_14 {
-    background-color: #D9B3FF;
-}
-#cab2_2026_2_15 {
-    background-color: #D9B3FF;
-}
-#cab2_2026_2_16 {
-    background-color: #D9B3FF;
 }
 #cab5_2026_2_8 {
     background-color: #99EEBB;
@@ -1570,21 +1585,6 @@ function setCalendarHints(){
 }
 #cab3_2026_2_9 {
     background-color: #FFAACC;
-}
-#cab2_2026_2_25 {
-    background-color: #BBDDFF;
-}
-#cab2_2026_2_26 {
-    background-color: #BBDDFF;
-}
-#cab2_2026_2_27 {
-    background-color: #BBDDFF;
-}
-#cab2_2026_2_28 {
-    background-color: #BBDDFF;
-}
-#cab2_2026_3_1 {
-    background-color: #BBDDFF;
 }
 #cab8_2026_2_16 {
     background-color: #FFCC99;
@@ -1842,30 +1842,30 @@ function setCalendarHints(){
     <td id='cab1_2026_2_8' title='Bracamonte Ingrid (4) (sin cuna)'>8</td>
   </tr>
   <tr>
-    <td id='cab1_2026_2_9' title='Pinero Chyntia (4) (recomendada por un cliente)'>9</td>
-    <td id='cab1_2026_2_10' title='Pinero Chyntia (4) (recomendada por un cliente)'>10</td>
-    <td id='cab1_2026_2_11' title='Pinero Chyntia (4) (recomendada por un cliente)'>11</td>
-    <td id='cab1_2026_2_12' title='Pinero Chyntia (4) (recomendada por un cliente)'>12</td>
-    <td id='cab1_2026_2_13' title='Pinero Chyntia (4) (recomendada por un cliente)'>13</td>
-    <td id='cab1_2026_2_14' title='Pinero Chyntia (4) (recomendada por un cliente)'>14</td>
-    <td id='cab1_2026_2_15' title='Pinero Chyntia (4) (recomendada por un cliente)'>15</td>
+    <td id='cab1_2026_2_9' title='Del Pino Adriana (4)'>9</td>
+    <td id='cab1_2026_2_10' title='Del Pino Adriana (4)'>10</td>
+    <td id='cab1_2026_2_11' title='Del Pino Adriana (4)'>11</td>
+    <td id='cab1_2026_2_12' title='Del Pino Adriana (4)'>12</td>
+    <td id='cab1_2026_2_13' title='Del Pino Adriana (4)'>13</td>
+    <td id='cab1_2026_2_14' title='Cattaneo Giuliano (4)'>14</td>
+    <td id='cab1_2026_2_15' title='Cattaneo Giuliano (4)'>15</td>
   </tr>
   <tr>
-    <td id='cab1_2026_2_16' title='Pinero Chyntia (4) (recomendada por un cliente)'>16</td>
-    <td id='cab1_2026_2_17' title='Pinero Chyntia (4) (recomendada por un cliente)'>17</td>
-    <td id='cab1_2026_2_18' title='Pinero Chyntia (4) (recomendada por un cliente)'>18</td>
-    <td id='cab1_2026_2_19' title='Pinero Chyntia (4) (recomendada por un cliente)'>19</td>
-    <td id='cab1_2026_2_20' title='Pinero Chyntia (4) (recomendada por un cliente)'>20</td>
-    <td id='cab1_2026_2_21' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>21</td>
-    <td id='cab1_2026_2_22' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>22</td>
+    <td id='cab1_2026_2_16' title='Cattaneo Giuliano (4)'>16</td>
+    <td id='cab1_2026_2_17'>17</td>
+    <td id='cab1_2026_2_18'>18</td>
+    <td id='cab1_2026_2_19'>19</td>
+    <td id='cab1_2026_2_20'>20</td>
+    <td id='cab1_2026_2_21'>21</td>
+    <td id='cab1_2026_2_22'>22</td>
   </tr>
   <tr>
-    <td id='cab1_2026_2_23' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>23</td>
-    <td id='cab1_2026_2_24' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>24</td>
-    <td id='cab1_2026_2_25' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>25</td>
-    <td id='cab1_2026_2_26' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>26</td>
-    <td id='cab1_2026_2_27' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>27</td>
-    <td id='cab1_2026_2_28'>28</td>
+    <td id='cab1_2026_2_23'>23</td>
+    <td id='cab1_2026_2_24'>24</td>
+    <td id='cab1_2026_2_25' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>25</td>
+    <td id='cab1_2026_2_26' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>26</td>
+    <td id='cab1_2026_2_27' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>27</td>
+    <td id='cab1_2026_2_28' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>28</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -1888,7 +1888,7 @@ function setCalendarHints(){
 </thead>
 <tbody>
   <tr>
-    <td id='cab1_2026_3_1' title='Lupi Fernando (4)'>1</td>
+    <td id='cab1_2026_3_1' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>1</td>
     <td id='cab1_2026_3_2'>2</td>
     <td id='cab1_2026_3_3'>3</td>
     <td id='cab1_2026_3_4'>4</td>
@@ -2171,30 +2171,30 @@ function setCalendarHints(){
     <td id='cab2_2026_2_8' title='Amaya Sandra (5)'>8</td>
   </tr>
   <tr>
-    <td id='cab2_2026_2_9' title='Del Pino Adriana (4)'>9</td>
-    <td id='cab2_2026_2_10' title='Del Pino Adriana (4)'>10</td>
-    <td id='cab2_2026_2_11' title='Del Pino Adriana (4)'>11</td>
-    <td id='cab2_2026_2_12' title='Del Pino Adriana (4)'>12</td>
-    <td id='cab2_2026_2_13' title='Del Pino Adriana (4)'>13</td>
-    <td id='cab2_2026_2_14' title='Cattaneo Giuliano (4)'>14</td>
-    <td id='cab2_2026_2_15' title='Cattaneo Giuliano (4)'>15</td>
+    <td id='cab2_2026_2_9' title='Pinero Chyntia (4) (recomendada por un cliente)'>9</td>
+    <td id='cab2_2026_2_10' title='Pinero Chyntia (4) (recomendada por un cliente)'>10</td>
+    <td id='cab2_2026_2_11' title='Pinero Chyntia (4) (recomendada por un cliente)'>11</td>
+    <td id='cab2_2026_2_12' title='Pinero Chyntia (4) (recomendada por un cliente)'>12</td>
+    <td id='cab2_2026_2_13' title='Pinero Chyntia (4) (recomendada por un cliente)'>13</td>
+    <td id='cab2_2026_2_14' title='Pinero Chyntia (4) (recomendada por un cliente)'>14</td>
+    <td id='cab2_2026_2_15' title='Pinero Chyntia (4) (recomendada por un cliente)'>15</td>
   </tr>
   <tr>
-    <td id='cab2_2026_2_16' title='Cattaneo Giuliano (4)'>16</td>
-    <td id='cab2_2026_2_17'>17</td>
-    <td id='cab2_2026_2_18'>18</td>
-    <td id='cab2_2026_2_19'>19</td>
-    <td id='cab2_2026_2_20'>20</td>
-    <td id='cab2_2026_2_21'>21</td>
-    <td id='cab2_2026_2_22'>22</td>
+    <td id='cab2_2026_2_16' title='Pinero Chyntia (4) (recomendada por un cliente)'>16</td>
+    <td id='cab2_2026_2_17' title='Pinero Chyntia (4) (recomendada por un cliente)'>17</td>
+    <td id='cab2_2026_2_18' title='Pinero Chyntia (4) (recomendada por un cliente)'>18</td>
+    <td id='cab2_2026_2_19' title='Pinero Chyntia (4) (recomendada por un cliente)'>19</td>
+    <td id='cab2_2026_2_20' title='Pinero Chyntia (4) (recomendada por un cliente)'>20</td>
+    <td id='cab2_2026_2_21' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>21</td>
+    <td id='cab2_2026_2_22' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>22</td>
   </tr>
   <tr>
-    <td id='cab2_2026_2_23'>23</td>
-    <td id='cab2_2026_2_24'>24</td>
-    <td id='cab2_2026_2_25' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>25</td>
-    <td id='cab2_2026_2_26' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>26</td>
-    <td id='cab2_2026_2_27' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>27</td>
-    <td id='cab2_2026_2_28' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>28</td>
+    <td id='cab2_2026_2_23' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>23</td>
+    <td id='cab2_2026_2_24' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>24</td>
+    <td id='cab2_2026_2_25' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>25</td>
+    <td id='cab2_2026_2_26' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>26</td>
+    <td id='cab2_2026_2_27' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>27</td>
+    <td id='cab2_2026_2_28'>28</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -2217,7 +2217,7 @@ function setCalendarHints(){
 </thead>
 <tbody>
   <tr>
-    <td id='cab2_2026_3_1' title='Vega Lautaro (3) (matrimonio y bebe, sin cuna)'>1</td>
+    <td id='cab2_2026_3_1'>1</td>
     <td id='cab2_2026_3_2'>2</td>
     <td id='cab2_2026_3_3'>3</td>
     <td id='cab2_2026_3_4'>4</td>
