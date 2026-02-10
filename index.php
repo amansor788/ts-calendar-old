@@ -1616,6 +1616,15 @@ function setCalendarHints(){
 #cab1_2026_2_19 {
     background-color: #FFCC99;
 }
+#cab7_2026_3_21 {
+    background-color: #99DDBB;
+}
+#cab7_2026_3_22 {
+    background-color: #99DDBB;
+}
+#cab7_2026_3_23 {
+    background-color: #99DDBB;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3890,11 +3899,11 @@ function setCalendarHints(){
     <td id='cab7_2026_3_18'>18</td>
     <td id='cab7_2026_3_19'>19</td>
     <td id='cab7_2026_3_20'>20</td>
-    <td id='cab7_2026_3_21'>21</td>
+    <td id='cab7_2026_3_21' title='Fortunato Mirta (2)'>21</td>
   </tr>
   <tr>
-    <td id='cab7_2026_3_22'>22</td>
-    <td id='cab7_2026_3_23'>23</td>
+    <td id='cab7_2026_3_22' title='Fortunato Mirta (2)'>22</td>
+    <td id='cab7_2026_3_23' title='Fortunato Mirta (2)'>23</td>
     <td id='cab7_2026_3_24'>24</td>
     <td id='cab7_2026_3_25'>25</td>
     <td id='cab7_2026_3_26'>26</td>
