@@ -1634,6 +1634,15 @@ function setCalendarHints(){
 #cab5_2026_3_1 {
     background-color: #FFAADD;
 }
+#cab6_2026_3_21 {
+    background-color: #AADDFF;
+}
+#cab6_2026_3_22 {
+    background-color: #AADDFF;
+}
+#cab6_2026_3_23 {
+    background-color: #AADDFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3580,11 +3589,11 @@ function setCalendarHints(){
     <td id='cab6_2026_3_18'>18</td>
     <td id='cab6_2026_3_19'>19</td>
     <td id='cab6_2026_3_20'>20</td>
-    <td id='cab6_2026_3_21'>21</td>
+    <td id='cab6_2026_3_21' title='Pegoraro Victoria (2)'>21</td>
   </tr>
   <tr>
-    <td id='cab6_2026_3_22'>22</td>
-    <td id='cab6_2026_3_23'>23</td>
+    <td id='cab6_2026_3_22' title='Pegoraro Victoria (2)'>22</td>
+    <td id='cab6_2026_3_23' title='Pegoraro Victoria (2)'>23</td>
     <td id='cab6_2026_3_24'>24</td>
     <td id='cab6_2026_3_25'>25</td>
     <td id='cab6_2026_3_26'>26</td>
