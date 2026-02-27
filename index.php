@@ -1643,6 +1643,12 @@ function setCalendarHints(){
 #cab6_2026_3_23 {
     background-color: #AADDFF;
 }
+#cab2_2026_2_28 {
+    background-color: #DDBBFF;
+}
+#cab2_2026_3_1 {
+    background-color: #DDBBFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2230,7 +2236,7 @@ function setCalendarHints(){
     <td id='cab2_2026_2_25' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>25</td>
     <td id='cab2_2026_2_26' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>26</td>
     <td id='cab2_2026_2_27' title='Cichero Eduardo (3) (es cliente. depósita reserva el 28/11)'>27</td>
-    <td id='cab2_2026_2_28'>28</td>
+    <td id='cab2_2026_2_28' title='Hails Malena (3)'>28</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -2253,7 +2259,7 @@ function setCalendarHints(){
 </thead>
 <tbody>
   <tr>
-    <td id='cab2_2026_3_1'>1</td>
+    <td id='cab2_2026_3_1' title='Hails Malena (3)'>1</td>
     <td id='cab2_2026_3_2'>2</td>
     <td id='cab2_2026_3_3'>3</td>
     <td id='cab2_2026_3_4'>4</td>
