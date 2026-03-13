@@ -1649,11 +1649,30 @@ function setCalendarHints(){
 #cab2_2026_3_1 {
     background-color: #DDBBFF;
 }
+#cab6_2026_4_2 {
+    background-color: #99CCFF;
+}
+#cab6_2026_4_3 {
+    background-color: #99CCFF;
+}
+#cab6_2026_4_4 {
+    background-color: #99CCFF;
+}
+#cab7_2026_4_2 {
+    background-color: #FFCC99;
+}
+#cab7_2026_4_3 {
+    background-color: #FFCC99;
+}
+#cab7_2026_4_4 {
+    background-color: #FFCC99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 1<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
+<!-- HIDDEN MONTHS: Nov 2025 - Feb 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -1912,6 +1931,7 @@ function setCalendarHints(){
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -1977,12 +1997,278 @@ function setCalendarHints(){
 </tbody>
 </table>
 
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Abril 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab1_2026_4_1'>1</td>
+    <td id='cab1_2026_4_2'>2</td>
+    <td id='cab1_2026_4_3'>3</td>
+    <td id='cab1_2026_4_4'>4</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_4_5'>5</td>
+    <td id='cab1_2026_4_6'>6</td>
+    <td id='cab1_2026_4_7'>7</td>
+    <td id='cab1_2026_4_8'>8</td>
+    <td id='cab1_2026_4_9'>9</td>
+    <td id='cab1_2026_4_10'>10</td>
+    <td id='cab1_2026_4_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_4_12'>12</td>
+    <td id='cab1_2026_4_13'>13</td>
+    <td id='cab1_2026_4_14'>14</td>
+    <td id='cab1_2026_4_15'>15</td>
+    <td id='cab1_2026_4_16'>16</td>
+    <td id='cab1_2026_4_17'>17</td>
+    <td id='cab1_2026_4_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_4_19'>19</td>
+    <td id='cab1_2026_4_20'>20</td>
+    <td id='cab1_2026_4_21'>21</td>
+    <td id='cab1_2026_4_22'>22</td>
+    <td id='cab1_2026_4_23'>23</td>
+    <td id='cab1_2026_4_24'>24</td>
+    <td id='cab1_2026_4_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_4_26'>26</td>
+    <td id='cab1_2026_4_27'>27</td>
+    <td id='cab1_2026_4_28'>28</td>
+    <td id='cab1_2026_4_29'>29</td>
+    <td id='cab1_2026_4_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Mayo 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab1_2026_5_1'>1</td>
+    <td id='cab1_2026_5_2'>2</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_5_3'>3</td>
+    <td id='cab1_2026_5_4'>4</td>
+    <td id='cab1_2026_5_5'>5</td>
+    <td id='cab1_2026_5_6'>6</td>
+    <td id='cab1_2026_5_7'>7</td>
+    <td id='cab1_2026_5_8'>8</td>
+    <td id='cab1_2026_5_9'>9</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_5_10'>10</td>
+    <td id='cab1_2026_5_11'>11</td>
+    <td id='cab1_2026_5_12'>12</td>
+    <td id='cab1_2026_5_13'>13</td>
+    <td id='cab1_2026_5_14'>14</td>
+    <td id='cab1_2026_5_15'>15</td>
+    <td id='cab1_2026_5_16'>16</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_5_17'>17</td>
+    <td id='cab1_2026_5_18'>18</td>
+    <td id='cab1_2026_5_19'>19</td>
+    <td id='cab1_2026_5_20'>20</td>
+    <td id='cab1_2026_5_21'>21</td>
+    <td id='cab1_2026_5_22'>22</td>
+    <td id='cab1_2026_5_23'>23</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_5_24'>24</td>
+    <td id='cab1_2026_5_25'>25</td>
+    <td id='cab1_2026_5_26'>26</td>
+    <td id='cab1_2026_5_27'>27</td>
+    <td id='cab1_2026_5_28'>28</td>
+    <td id='cab1_2026_5_29'>29</td>
+    <td id='cab1_2026_5_30'>30</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_5_31'>31</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Junio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab1_2026_6_1'>1</td>
+    <td id='cab1_2026_6_2'>2</td>
+    <td id='cab1_2026_6_3'>3</td>
+    <td id='cab1_2026_6_4'>4</td>
+    <td id='cab1_2026_6_5'>5</td>
+    <td id='cab1_2026_6_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_6_7'>7</td>
+    <td id='cab1_2026_6_8'>8</td>
+    <td id='cab1_2026_6_9'>9</td>
+    <td id='cab1_2026_6_10'>10</td>
+    <td id='cab1_2026_6_11'>11</td>
+    <td id='cab1_2026_6_12'>12</td>
+    <td id='cab1_2026_6_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_6_14'>14</td>
+    <td id='cab1_2026_6_15'>15</td>
+    <td id='cab1_2026_6_16'>16</td>
+    <td id='cab1_2026_6_17'>17</td>
+    <td id='cab1_2026_6_18'>18</td>
+    <td id='cab1_2026_6_19'>19</td>
+    <td id='cab1_2026_6_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_6_21'>21</td>
+    <td id='cab1_2026_6_22'>22</td>
+    <td id='cab1_2026_6_23'>23</td>
+    <td id='cab1_2026_6_24'>24</td>
+    <td id='cab1_2026_6_25'>25</td>
+    <td id='cab1_2026_6_26'>26</td>
+    <td id='cab1_2026_6_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_6_28'>28</td>
+    <td id='cab1_2026_6_29'>29</td>
+    <td id='cab1_2026_6_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Julio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab1_2026_7_1'>1</td>
+    <td id='cab1_2026_7_2'>2</td>
+    <td id='cab1_2026_7_3'>3</td>
+    <td id='cab1_2026_7_4'>4</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_7_5'>5</td>
+    <td id='cab1_2026_7_6'>6</td>
+    <td id='cab1_2026_7_7'>7</td>
+    <td id='cab1_2026_7_8'>8</td>
+    <td id='cab1_2026_7_9'>9</td>
+    <td id='cab1_2026_7_10'>10</td>
+    <td id='cab1_2026_7_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_7_12'>12</td>
+    <td id='cab1_2026_7_13'>13</td>
+    <td id='cab1_2026_7_14'>14</td>
+    <td id='cab1_2026_7_15'>15</td>
+    <td id='cab1_2026_7_16'>16</td>
+    <td id='cab1_2026_7_17'>17</td>
+    <td id='cab1_2026_7_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_7_19'>19</td>
+    <td id='cab1_2026_7_20'>20</td>
+    <td id='cab1_2026_7_21'>21</td>
+    <td id='cab1_2026_7_22'>22</td>
+    <td id='cab1_2026_7_23'>23</td>
+    <td id='cab1_2026_7_24'>24</td>
+    <td id='cab1_2026_7_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab1_2026_7_26'>26</td>
+    <td id='cab1_2026_7_27'>27</td>
+    <td id='cab1_2026_7_28'>28</td>
+    <td id='cab1_2026_7_29'>29</td>
+    <td id='cab1_2026_7_30'>30</td>
+    <td id='cab1_2026_7_31'>31</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
 </div>
 
 
 </div>
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 2<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
+<!-- HIDDEN MONTHS: Nov 2025 - Feb 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -2241,6 +2527,7 @@ function setCalendarHints(){
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -2306,11 +2593,276 @@ function setCalendarHints(){
 </tbody>
 </table>
 
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Abril 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab2_2026_4_1'>1</td>
+    <td id='cab2_2026_4_2'>2</td>
+    <td id='cab2_2026_4_3'>3</td>
+    <td id='cab2_2026_4_4'>4</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_4_5'>5</td>
+    <td id='cab2_2026_4_6'>6</td>
+    <td id='cab2_2026_4_7'>7</td>
+    <td id='cab2_2026_4_8'>8</td>
+    <td id='cab2_2026_4_9'>9</td>
+    <td id='cab2_2026_4_10'>10</td>
+    <td id='cab2_2026_4_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_4_12'>12</td>
+    <td id='cab2_2026_4_13'>13</td>
+    <td id='cab2_2026_4_14'>14</td>
+    <td id='cab2_2026_4_15'>15</td>
+    <td id='cab2_2026_4_16'>16</td>
+    <td id='cab2_2026_4_17'>17</td>
+    <td id='cab2_2026_4_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_4_19'>19</td>
+    <td id='cab2_2026_4_20'>20</td>
+    <td id='cab2_2026_4_21'>21</td>
+    <td id='cab2_2026_4_22'>22</td>
+    <td id='cab2_2026_4_23'>23</td>
+    <td id='cab2_2026_4_24'>24</td>
+    <td id='cab2_2026_4_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_4_26'>26</td>
+    <td id='cab2_2026_4_27'>27</td>
+    <td id='cab2_2026_4_28'>28</td>
+    <td id='cab2_2026_4_29'>29</td>
+    <td id='cab2_2026_4_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Mayo 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab2_2026_5_1'>1</td>
+    <td id='cab2_2026_5_2'>2</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_5_3'>3</td>
+    <td id='cab2_2026_5_4'>4</td>
+    <td id='cab2_2026_5_5'>5</td>
+    <td id='cab2_2026_5_6'>6</td>
+    <td id='cab2_2026_5_7'>7</td>
+    <td id='cab2_2026_5_8'>8</td>
+    <td id='cab2_2026_5_9'>9</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_5_10'>10</td>
+    <td id='cab2_2026_5_11'>11</td>
+    <td id='cab2_2026_5_12'>12</td>
+    <td id='cab2_2026_5_13'>13</td>
+    <td id='cab2_2026_5_14'>14</td>
+    <td id='cab2_2026_5_15'>15</td>
+    <td id='cab2_2026_5_16'>16</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_5_17'>17</td>
+    <td id='cab2_2026_5_18'>18</td>
+    <td id='cab2_2026_5_19'>19</td>
+    <td id='cab2_2026_5_20'>20</td>
+    <td id='cab2_2026_5_21'>21</td>
+    <td id='cab2_2026_5_22'>22</td>
+    <td id='cab2_2026_5_23'>23</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_5_24'>24</td>
+    <td id='cab2_2026_5_25'>25</td>
+    <td id='cab2_2026_5_26'>26</td>
+    <td id='cab2_2026_5_27'>27</td>
+    <td id='cab2_2026_5_28'>28</td>
+    <td id='cab2_2026_5_29'>29</td>
+    <td id='cab2_2026_5_30'>30</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_5_31'>31</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Junio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab2_2026_6_1'>1</td>
+    <td id='cab2_2026_6_2'>2</td>
+    <td id='cab2_2026_6_3'>3</td>
+    <td id='cab2_2026_6_4'>4</td>
+    <td id='cab2_2026_6_5'>5</td>
+    <td id='cab2_2026_6_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_6_7'>7</td>
+    <td id='cab2_2026_6_8'>8</td>
+    <td id='cab2_2026_6_9'>9</td>
+    <td id='cab2_2026_6_10'>10</td>
+    <td id='cab2_2026_6_11'>11</td>
+    <td id='cab2_2026_6_12'>12</td>
+    <td id='cab2_2026_6_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_6_14'>14</td>
+    <td id='cab2_2026_6_15'>15</td>
+    <td id='cab2_2026_6_16'>16</td>
+    <td id='cab2_2026_6_17'>17</td>
+    <td id='cab2_2026_6_18'>18</td>
+    <td id='cab2_2026_6_19'>19</td>
+    <td id='cab2_2026_6_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_6_21'>21</td>
+    <td id='cab2_2026_6_22'>22</td>
+    <td id='cab2_2026_6_23'>23</td>
+    <td id='cab2_2026_6_24'>24</td>
+    <td id='cab2_2026_6_25'>25</td>
+    <td id='cab2_2026_6_26'>26</td>
+    <td id='cab2_2026_6_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_6_28'>28</td>
+    <td id='cab2_2026_6_29'>29</td>
+    <td id='cab2_2026_6_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Julio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab2_2026_7_1'>1</td>
+    <td id='cab2_2026_7_2'>2</td>
+    <td id='cab2_2026_7_3'>3</td>
+    <td id='cab2_2026_7_4'>4</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_7_5'>5</td>
+    <td id='cab2_2026_7_6'>6</td>
+    <td id='cab2_2026_7_7'>7</td>
+    <td id='cab2_2026_7_8'>8</td>
+    <td id='cab2_2026_7_9'>9</td>
+    <td id='cab2_2026_7_10'>10</td>
+    <td id='cab2_2026_7_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_7_12'>12</td>
+    <td id='cab2_2026_7_13'>13</td>
+    <td id='cab2_2026_7_14'>14</td>
+    <td id='cab2_2026_7_15'>15</td>
+    <td id='cab2_2026_7_16'>16</td>
+    <td id='cab2_2026_7_17'>17</td>
+    <td id='cab2_2026_7_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_7_19'>19</td>
+    <td id='cab2_2026_7_20'>20</td>
+    <td id='cab2_2026_7_21'>21</td>
+    <td id='cab2_2026_7_22'>22</td>
+    <td id='cab2_2026_7_23'>23</td>
+    <td id='cab2_2026_7_24'>24</td>
+    <td id='cab2_2026_7_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab2_2026_7_26'>26</td>
+    <td id='cab2_2026_7_27'>27</td>
+    <td id='cab2_2026_7_28'>28</td>
+    <td id='cab2_2026_7_29'>29</td>
+    <td id='cab2_2026_7_30'>30</td>
+    <td id='cab2_2026_7_31'>31</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 </div>
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 3<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
+<!-- HIDDEN MONTHS: Nov 2025 - Feb 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -2569,6 +3121,7 @@ function setCalendarHints(){
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -2634,11 +3187,276 @@ function setCalendarHints(){
 </tbody>
 </table>
 
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Abril 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab3_2026_4_1'>1</td>
+    <td id='cab3_2026_4_2'>2</td>
+    <td id='cab3_2026_4_3'>3</td>
+    <td id='cab3_2026_4_4'>4</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_4_5'>5</td>
+    <td id='cab3_2026_4_6'>6</td>
+    <td id='cab3_2026_4_7'>7</td>
+    <td id='cab3_2026_4_8'>8</td>
+    <td id='cab3_2026_4_9'>9</td>
+    <td id='cab3_2026_4_10'>10</td>
+    <td id='cab3_2026_4_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_4_12'>12</td>
+    <td id='cab3_2026_4_13'>13</td>
+    <td id='cab3_2026_4_14'>14</td>
+    <td id='cab3_2026_4_15'>15</td>
+    <td id='cab3_2026_4_16'>16</td>
+    <td id='cab3_2026_4_17'>17</td>
+    <td id='cab3_2026_4_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_4_19'>19</td>
+    <td id='cab3_2026_4_20'>20</td>
+    <td id='cab3_2026_4_21'>21</td>
+    <td id='cab3_2026_4_22'>22</td>
+    <td id='cab3_2026_4_23'>23</td>
+    <td id='cab3_2026_4_24'>24</td>
+    <td id='cab3_2026_4_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_4_26'>26</td>
+    <td id='cab3_2026_4_27'>27</td>
+    <td id='cab3_2026_4_28'>28</td>
+    <td id='cab3_2026_4_29'>29</td>
+    <td id='cab3_2026_4_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Mayo 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab3_2026_5_1'>1</td>
+    <td id='cab3_2026_5_2'>2</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_5_3'>3</td>
+    <td id='cab3_2026_5_4'>4</td>
+    <td id='cab3_2026_5_5'>5</td>
+    <td id='cab3_2026_5_6'>6</td>
+    <td id='cab3_2026_5_7'>7</td>
+    <td id='cab3_2026_5_8'>8</td>
+    <td id='cab3_2026_5_9'>9</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_5_10'>10</td>
+    <td id='cab3_2026_5_11'>11</td>
+    <td id='cab3_2026_5_12'>12</td>
+    <td id='cab3_2026_5_13'>13</td>
+    <td id='cab3_2026_5_14'>14</td>
+    <td id='cab3_2026_5_15'>15</td>
+    <td id='cab3_2026_5_16'>16</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_5_17'>17</td>
+    <td id='cab3_2026_5_18'>18</td>
+    <td id='cab3_2026_5_19'>19</td>
+    <td id='cab3_2026_5_20'>20</td>
+    <td id='cab3_2026_5_21'>21</td>
+    <td id='cab3_2026_5_22'>22</td>
+    <td id='cab3_2026_5_23'>23</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_5_24'>24</td>
+    <td id='cab3_2026_5_25'>25</td>
+    <td id='cab3_2026_5_26'>26</td>
+    <td id='cab3_2026_5_27'>27</td>
+    <td id='cab3_2026_5_28'>28</td>
+    <td id='cab3_2026_5_29'>29</td>
+    <td id='cab3_2026_5_30'>30</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_5_31'>31</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Junio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab3_2026_6_1'>1</td>
+    <td id='cab3_2026_6_2'>2</td>
+    <td id='cab3_2026_6_3'>3</td>
+    <td id='cab3_2026_6_4'>4</td>
+    <td id='cab3_2026_6_5'>5</td>
+    <td id='cab3_2026_6_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_6_7'>7</td>
+    <td id='cab3_2026_6_8'>8</td>
+    <td id='cab3_2026_6_9'>9</td>
+    <td id='cab3_2026_6_10'>10</td>
+    <td id='cab3_2026_6_11'>11</td>
+    <td id='cab3_2026_6_12'>12</td>
+    <td id='cab3_2026_6_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_6_14'>14</td>
+    <td id='cab3_2026_6_15'>15</td>
+    <td id='cab3_2026_6_16'>16</td>
+    <td id='cab3_2026_6_17'>17</td>
+    <td id='cab3_2026_6_18'>18</td>
+    <td id='cab3_2026_6_19'>19</td>
+    <td id='cab3_2026_6_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_6_21'>21</td>
+    <td id='cab3_2026_6_22'>22</td>
+    <td id='cab3_2026_6_23'>23</td>
+    <td id='cab3_2026_6_24'>24</td>
+    <td id='cab3_2026_6_25'>25</td>
+    <td id='cab3_2026_6_26'>26</td>
+    <td id='cab3_2026_6_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_6_28'>28</td>
+    <td id='cab3_2026_6_29'>29</td>
+    <td id='cab3_2026_6_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Julio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab3_2026_7_1'>1</td>
+    <td id='cab3_2026_7_2'>2</td>
+    <td id='cab3_2026_7_3'>3</td>
+    <td id='cab3_2026_7_4'>4</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_7_5'>5</td>
+    <td id='cab3_2026_7_6'>6</td>
+    <td id='cab3_2026_7_7'>7</td>
+    <td id='cab3_2026_7_8'>8</td>
+    <td id='cab3_2026_7_9'>9</td>
+    <td id='cab3_2026_7_10'>10</td>
+    <td id='cab3_2026_7_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_7_12'>12</td>
+    <td id='cab3_2026_7_13'>13</td>
+    <td id='cab3_2026_7_14'>14</td>
+    <td id='cab3_2026_7_15'>15</td>
+    <td id='cab3_2026_7_16'>16</td>
+    <td id='cab3_2026_7_17'>17</td>
+    <td id='cab3_2026_7_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_7_19'>19</td>
+    <td id='cab3_2026_7_20'>20</td>
+    <td id='cab3_2026_7_21'>21</td>
+    <td id='cab3_2026_7_22'>22</td>
+    <td id='cab3_2026_7_23'>23</td>
+    <td id='cab3_2026_7_24'>24</td>
+    <td id='cab3_2026_7_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab3_2026_7_26'>26</td>
+    <td id='cab3_2026_7_27'>27</td>
+    <td id='cab3_2026_7_28'>28</td>
+    <td id='cab3_2026_7_29'>29</td>
+    <td id='cab3_2026_7_30'>30</td>
+    <td id='cab3_2026_7_31'>31</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 </div>
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 4<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
+<!-- HIDDEN MONTHS: Nov 2025 - Feb 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -2897,6 +3715,7 @@ function setCalendarHints(){
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -2962,11 +3781,276 @@ function setCalendarHints(){
 </tbody>
 </table>
 
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Abril 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab4_2026_4_1'>1</td>
+    <td id='cab4_2026_4_2'>2</td>
+    <td id='cab4_2026_4_3'>3</td>
+    <td id='cab4_2026_4_4'>4</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_4_5'>5</td>
+    <td id='cab4_2026_4_6'>6</td>
+    <td id='cab4_2026_4_7'>7</td>
+    <td id='cab4_2026_4_8'>8</td>
+    <td id='cab4_2026_4_9'>9</td>
+    <td id='cab4_2026_4_10'>10</td>
+    <td id='cab4_2026_4_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_4_12'>12</td>
+    <td id='cab4_2026_4_13'>13</td>
+    <td id='cab4_2026_4_14'>14</td>
+    <td id='cab4_2026_4_15'>15</td>
+    <td id='cab4_2026_4_16'>16</td>
+    <td id='cab4_2026_4_17'>17</td>
+    <td id='cab4_2026_4_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_4_19'>19</td>
+    <td id='cab4_2026_4_20'>20</td>
+    <td id='cab4_2026_4_21'>21</td>
+    <td id='cab4_2026_4_22'>22</td>
+    <td id='cab4_2026_4_23'>23</td>
+    <td id='cab4_2026_4_24'>24</td>
+    <td id='cab4_2026_4_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_4_26'>26</td>
+    <td id='cab4_2026_4_27'>27</td>
+    <td id='cab4_2026_4_28'>28</td>
+    <td id='cab4_2026_4_29'>29</td>
+    <td id='cab4_2026_4_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Mayo 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab4_2026_5_1'>1</td>
+    <td id='cab4_2026_5_2'>2</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_5_3'>3</td>
+    <td id='cab4_2026_5_4'>4</td>
+    <td id='cab4_2026_5_5'>5</td>
+    <td id='cab4_2026_5_6'>6</td>
+    <td id='cab4_2026_5_7'>7</td>
+    <td id='cab4_2026_5_8'>8</td>
+    <td id='cab4_2026_5_9'>9</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_5_10'>10</td>
+    <td id='cab4_2026_5_11'>11</td>
+    <td id='cab4_2026_5_12'>12</td>
+    <td id='cab4_2026_5_13'>13</td>
+    <td id='cab4_2026_5_14'>14</td>
+    <td id='cab4_2026_5_15'>15</td>
+    <td id='cab4_2026_5_16'>16</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_5_17'>17</td>
+    <td id='cab4_2026_5_18'>18</td>
+    <td id='cab4_2026_5_19'>19</td>
+    <td id='cab4_2026_5_20'>20</td>
+    <td id='cab4_2026_5_21'>21</td>
+    <td id='cab4_2026_5_22'>22</td>
+    <td id='cab4_2026_5_23'>23</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_5_24'>24</td>
+    <td id='cab4_2026_5_25'>25</td>
+    <td id='cab4_2026_5_26'>26</td>
+    <td id='cab4_2026_5_27'>27</td>
+    <td id='cab4_2026_5_28'>28</td>
+    <td id='cab4_2026_5_29'>29</td>
+    <td id='cab4_2026_5_30'>30</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_5_31'>31</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Junio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab4_2026_6_1'>1</td>
+    <td id='cab4_2026_6_2'>2</td>
+    <td id='cab4_2026_6_3'>3</td>
+    <td id='cab4_2026_6_4'>4</td>
+    <td id='cab4_2026_6_5'>5</td>
+    <td id='cab4_2026_6_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_6_7'>7</td>
+    <td id='cab4_2026_6_8'>8</td>
+    <td id='cab4_2026_6_9'>9</td>
+    <td id='cab4_2026_6_10'>10</td>
+    <td id='cab4_2026_6_11'>11</td>
+    <td id='cab4_2026_6_12'>12</td>
+    <td id='cab4_2026_6_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_6_14'>14</td>
+    <td id='cab4_2026_6_15'>15</td>
+    <td id='cab4_2026_6_16'>16</td>
+    <td id='cab4_2026_6_17'>17</td>
+    <td id='cab4_2026_6_18'>18</td>
+    <td id='cab4_2026_6_19'>19</td>
+    <td id='cab4_2026_6_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_6_21'>21</td>
+    <td id='cab4_2026_6_22'>22</td>
+    <td id='cab4_2026_6_23'>23</td>
+    <td id='cab4_2026_6_24'>24</td>
+    <td id='cab4_2026_6_25'>25</td>
+    <td id='cab4_2026_6_26'>26</td>
+    <td id='cab4_2026_6_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_6_28'>28</td>
+    <td id='cab4_2026_6_29'>29</td>
+    <td id='cab4_2026_6_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Julio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab4_2026_7_1'>1</td>
+    <td id='cab4_2026_7_2'>2</td>
+    <td id='cab4_2026_7_3'>3</td>
+    <td id='cab4_2026_7_4'>4</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_7_5'>5</td>
+    <td id='cab4_2026_7_6'>6</td>
+    <td id='cab4_2026_7_7'>7</td>
+    <td id='cab4_2026_7_8'>8</td>
+    <td id='cab4_2026_7_9'>9</td>
+    <td id='cab4_2026_7_10'>10</td>
+    <td id='cab4_2026_7_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_7_12'>12</td>
+    <td id='cab4_2026_7_13'>13</td>
+    <td id='cab4_2026_7_14'>14</td>
+    <td id='cab4_2026_7_15'>15</td>
+    <td id='cab4_2026_7_16'>16</td>
+    <td id='cab4_2026_7_17'>17</td>
+    <td id='cab4_2026_7_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_7_19'>19</td>
+    <td id='cab4_2026_7_20'>20</td>
+    <td id='cab4_2026_7_21'>21</td>
+    <td id='cab4_2026_7_22'>22</td>
+    <td id='cab4_2026_7_23'>23</td>
+    <td id='cab4_2026_7_24'>24</td>
+    <td id='cab4_2026_7_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab4_2026_7_26'>26</td>
+    <td id='cab4_2026_7_27'>27</td>
+    <td id='cab4_2026_7_28'>28</td>
+    <td id='cab4_2026_7_29'>29</td>
+    <td id='cab4_2026_7_30'>30</td>
+    <td id='cab4_2026_7_31'>31</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 </div>
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 5<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
+<!-- HIDDEN MONTHS: Nov 2025 - Feb 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -3225,6 +4309,7 @@ function setCalendarHints(){
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -3290,11 +4375,276 @@ function setCalendarHints(){
 </tbody>
 </table>
 
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Abril 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab5_2026_4_1'>1</td>
+    <td id='cab5_2026_4_2'>2</td>
+    <td id='cab5_2026_4_3'>3</td>
+    <td id='cab5_2026_4_4'>4</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_4_5'>5</td>
+    <td id='cab5_2026_4_6'>6</td>
+    <td id='cab5_2026_4_7'>7</td>
+    <td id='cab5_2026_4_8'>8</td>
+    <td id='cab5_2026_4_9'>9</td>
+    <td id='cab5_2026_4_10'>10</td>
+    <td id='cab5_2026_4_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_4_12'>12</td>
+    <td id='cab5_2026_4_13'>13</td>
+    <td id='cab5_2026_4_14'>14</td>
+    <td id='cab5_2026_4_15'>15</td>
+    <td id='cab5_2026_4_16'>16</td>
+    <td id='cab5_2026_4_17'>17</td>
+    <td id='cab5_2026_4_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_4_19'>19</td>
+    <td id='cab5_2026_4_20'>20</td>
+    <td id='cab5_2026_4_21'>21</td>
+    <td id='cab5_2026_4_22'>22</td>
+    <td id='cab5_2026_4_23'>23</td>
+    <td id='cab5_2026_4_24'>24</td>
+    <td id='cab5_2026_4_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_4_26'>26</td>
+    <td id='cab5_2026_4_27'>27</td>
+    <td id='cab5_2026_4_28'>28</td>
+    <td id='cab5_2026_4_29'>29</td>
+    <td id='cab5_2026_4_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Mayo 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab5_2026_5_1'>1</td>
+    <td id='cab5_2026_5_2'>2</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_5_3'>3</td>
+    <td id='cab5_2026_5_4'>4</td>
+    <td id='cab5_2026_5_5'>5</td>
+    <td id='cab5_2026_5_6'>6</td>
+    <td id='cab5_2026_5_7'>7</td>
+    <td id='cab5_2026_5_8'>8</td>
+    <td id='cab5_2026_5_9'>9</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_5_10'>10</td>
+    <td id='cab5_2026_5_11'>11</td>
+    <td id='cab5_2026_5_12'>12</td>
+    <td id='cab5_2026_5_13'>13</td>
+    <td id='cab5_2026_5_14'>14</td>
+    <td id='cab5_2026_5_15'>15</td>
+    <td id='cab5_2026_5_16'>16</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_5_17'>17</td>
+    <td id='cab5_2026_5_18'>18</td>
+    <td id='cab5_2026_5_19'>19</td>
+    <td id='cab5_2026_5_20'>20</td>
+    <td id='cab5_2026_5_21'>21</td>
+    <td id='cab5_2026_5_22'>22</td>
+    <td id='cab5_2026_5_23'>23</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_5_24'>24</td>
+    <td id='cab5_2026_5_25'>25</td>
+    <td id='cab5_2026_5_26'>26</td>
+    <td id='cab5_2026_5_27'>27</td>
+    <td id='cab5_2026_5_28'>28</td>
+    <td id='cab5_2026_5_29'>29</td>
+    <td id='cab5_2026_5_30'>30</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_5_31'>31</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Junio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab5_2026_6_1'>1</td>
+    <td id='cab5_2026_6_2'>2</td>
+    <td id='cab5_2026_6_3'>3</td>
+    <td id='cab5_2026_6_4'>4</td>
+    <td id='cab5_2026_6_5'>5</td>
+    <td id='cab5_2026_6_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_6_7'>7</td>
+    <td id='cab5_2026_6_8'>8</td>
+    <td id='cab5_2026_6_9'>9</td>
+    <td id='cab5_2026_6_10'>10</td>
+    <td id='cab5_2026_6_11'>11</td>
+    <td id='cab5_2026_6_12'>12</td>
+    <td id='cab5_2026_6_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_6_14'>14</td>
+    <td id='cab5_2026_6_15'>15</td>
+    <td id='cab5_2026_6_16'>16</td>
+    <td id='cab5_2026_6_17'>17</td>
+    <td id='cab5_2026_6_18'>18</td>
+    <td id='cab5_2026_6_19'>19</td>
+    <td id='cab5_2026_6_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_6_21'>21</td>
+    <td id='cab5_2026_6_22'>22</td>
+    <td id='cab5_2026_6_23'>23</td>
+    <td id='cab5_2026_6_24'>24</td>
+    <td id='cab5_2026_6_25'>25</td>
+    <td id='cab5_2026_6_26'>26</td>
+    <td id='cab5_2026_6_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_6_28'>28</td>
+    <td id='cab5_2026_6_29'>29</td>
+    <td id='cab5_2026_6_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Julio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab5_2026_7_1'>1</td>
+    <td id='cab5_2026_7_2'>2</td>
+    <td id='cab5_2026_7_3'>3</td>
+    <td id='cab5_2026_7_4'>4</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_7_5'>5</td>
+    <td id='cab5_2026_7_6'>6</td>
+    <td id='cab5_2026_7_7'>7</td>
+    <td id='cab5_2026_7_8'>8</td>
+    <td id='cab5_2026_7_9'>9</td>
+    <td id='cab5_2026_7_10'>10</td>
+    <td id='cab5_2026_7_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_7_12'>12</td>
+    <td id='cab5_2026_7_13'>13</td>
+    <td id='cab5_2026_7_14'>14</td>
+    <td id='cab5_2026_7_15'>15</td>
+    <td id='cab5_2026_7_16'>16</td>
+    <td id='cab5_2026_7_17'>17</td>
+    <td id='cab5_2026_7_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_7_19'>19</td>
+    <td id='cab5_2026_7_20'>20</td>
+    <td id='cab5_2026_7_21'>21</td>
+    <td id='cab5_2026_7_22'>22</td>
+    <td id='cab5_2026_7_23'>23</td>
+    <td id='cab5_2026_7_24'>24</td>
+    <td id='cab5_2026_7_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab5_2026_7_26'>26</td>
+    <td id='cab5_2026_7_27'>27</td>
+    <td id='cab5_2026_7_28'>28</td>
+    <td id='cab5_2026_7_29'>29</td>
+    <td id='cab5_2026_7_30'>30</td>
+    <td id='cab5_2026_7_31'>31</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 </div>
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 6<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
+<!-- HIDDEN MONTHS: Nov 2025 - Feb 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -3553,6 +4903,7 @@ function setCalendarHints(){
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -3618,11 +4969,276 @@ function setCalendarHints(){
 </tbody>
 </table>
 
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Abril 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab6_2026_4_1'>1</td>
+    <td id='cab6_2026_4_2' title='Beutel Matias (2)'>2</td>
+    <td id='cab6_2026_4_3' title='Beutel Matias (2)'>3</td>
+    <td id='cab6_2026_4_4' title='Beutel Matias (2)'>4</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_4_5'>5</td>
+    <td id='cab6_2026_4_6'>6</td>
+    <td id='cab6_2026_4_7'>7</td>
+    <td id='cab6_2026_4_8'>8</td>
+    <td id='cab6_2026_4_9'>9</td>
+    <td id='cab6_2026_4_10'>10</td>
+    <td id='cab6_2026_4_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_4_12'>12</td>
+    <td id='cab6_2026_4_13'>13</td>
+    <td id='cab6_2026_4_14'>14</td>
+    <td id='cab6_2026_4_15'>15</td>
+    <td id='cab6_2026_4_16'>16</td>
+    <td id='cab6_2026_4_17'>17</td>
+    <td id='cab6_2026_4_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_4_19'>19</td>
+    <td id='cab6_2026_4_20'>20</td>
+    <td id='cab6_2026_4_21'>21</td>
+    <td id='cab6_2026_4_22'>22</td>
+    <td id='cab6_2026_4_23'>23</td>
+    <td id='cab6_2026_4_24'>24</td>
+    <td id='cab6_2026_4_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_4_26'>26</td>
+    <td id='cab6_2026_4_27'>27</td>
+    <td id='cab6_2026_4_28'>28</td>
+    <td id='cab6_2026_4_29'>29</td>
+    <td id='cab6_2026_4_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Mayo 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab6_2026_5_1'>1</td>
+    <td id='cab6_2026_5_2'>2</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_5_3'>3</td>
+    <td id='cab6_2026_5_4'>4</td>
+    <td id='cab6_2026_5_5'>5</td>
+    <td id='cab6_2026_5_6'>6</td>
+    <td id='cab6_2026_5_7'>7</td>
+    <td id='cab6_2026_5_8'>8</td>
+    <td id='cab6_2026_5_9'>9</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_5_10'>10</td>
+    <td id='cab6_2026_5_11'>11</td>
+    <td id='cab6_2026_5_12'>12</td>
+    <td id='cab6_2026_5_13'>13</td>
+    <td id='cab6_2026_5_14'>14</td>
+    <td id='cab6_2026_5_15'>15</td>
+    <td id='cab6_2026_5_16'>16</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_5_17'>17</td>
+    <td id='cab6_2026_5_18'>18</td>
+    <td id='cab6_2026_5_19'>19</td>
+    <td id='cab6_2026_5_20'>20</td>
+    <td id='cab6_2026_5_21'>21</td>
+    <td id='cab6_2026_5_22'>22</td>
+    <td id='cab6_2026_5_23'>23</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_5_24'>24</td>
+    <td id='cab6_2026_5_25'>25</td>
+    <td id='cab6_2026_5_26'>26</td>
+    <td id='cab6_2026_5_27'>27</td>
+    <td id='cab6_2026_5_28'>28</td>
+    <td id='cab6_2026_5_29'>29</td>
+    <td id='cab6_2026_5_30'>30</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_5_31'>31</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Junio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab6_2026_6_1'>1</td>
+    <td id='cab6_2026_6_2'>2</td>
+    <td id='cab6_2026_6_3'>3</td>
+    <td id='cab6_2026_6_4'>4</td>
+    <td id='cab6_2026_6_5'>5</td>
+    <td id='cab6_2026_6_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_6_7'>7</td>
+    <td id='cab6_2026_6_8'>8</td>
+    <td id='cab6_2026_6_9'>9</td>
+    <td id='cab6_2026_6_10'>10</td>
+    <td id='cab6_2026_6_11'>11</td>
+    <td id='cab6_2026_6_12'>12</td>
+    <td id='cab6_2026_6_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_6_14'>14</td>
+    <td id='cab6_2026_6_15'>15</td>
+    <td id='cab6_2026_6_16'>16</td>
+    <td id='cab6_2026_6_17'>17</td>
+    <td id='cab6_2026_6_18'>18</td>
+    <td id='cab6_2026_6_19'>19</td>
+    <td id='cab6_2026_6_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_6_21'>21</td>
+    <td id='cab6_2026_6_22'>22</td>
+    <td id='cab6_2026_6_23'>23</td>
+    <td id='cab6_2026_6_24'>24</td>
+    <td id='cab6_2026_6_25'>25</td>
+    <td id='cab6_2026_6_26'>26</td>
+    <td id='cab6_2026_6_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_6_28'>28</td>
+    <td id='cab6_2026_6_29'>29</td>
+    <td id='cab6_2026_6_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Julio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab6_2026_7_1'>1</td>
+    <td id='cab6_2026_7_2'>2</td>
+    <td id='cab6_2026_7_3'>3</td>
+    <td id='cab6_2026_7_4'>4</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_7_5'>5</td>
+    <td id='cab6_2026_7_6'>6</td>
+    <td id='cab6_2026_7_7'>7</td>
+    <td id='cab6_2026_7_8'>8</td>
+    <td id='cab6_2026_7_9'>9</td>
+    <td id='cab6_2026_7_10'>10</td>
+    <td id='cab6_2026_7_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_7_12'>12</td>
+    <td id='cab6_2026_7_13'>13</td>
+    <td id='cab6_2026_7_14'>14</td>
+    <td id='cab6_2026_7_15'>15</td>
+    <td id='cab6_2026_7_16'>16</td>
+    <td id='cab6_2026_7_17'>17</td>
+    <td id='cab6_2026_7_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_7_19'>19</td>
+    <td id='cab6_2026_7_20'>20</td>
+    <td id='cab6_2026_7_21'>21</td>
+    <td id='cab6_2026_7_22'>22</td>
+    <td id='cab6_2026_7_23'>23</td>
+    <td id='cab6_2026_7_24'>24</td>
+    <td id='cab6_2026_7_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab6_2026_7_26'>26</td>
+    <td id='cab6_2026_7_27'>27</td>
+    <td id='cab6_2026_7_28'>28</td>
+    <td id='cab6_2026_7_29'>29</td>
+    <td id='cab6_2026_7_30'>30</td>
+    <td id='cab6_2026_7_31'>31</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 </div>
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 7<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
+<!-- HIDDEN MONTHS: Nov 2025 - Feb 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -3881,6 +5497,7 @@ function setCalendarHints(){
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -3946,11 +5563,276 @@ function setCalendarHints(){
 </tbody>
 </table>
 
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Abril 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab7_2026_4_1'>1</td>
+    <td id='cab7_2026_4_2' title='Muller Tanya (2)'>2</td>
+    <td id='cab7_2026_4_3' title='Muller Tanya (2)'>3</td>
+    <td id='cab7_2026_4_4' title='Muller Tanya (2)'>4</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_4_5'>5</td>
+    <td id='cab7_2026_4_6'>6</td>
+    <td id='cab7_2026_4_7'>7</td>
+    <td id='cab7_2026_4_8'>8</td>
+    <td id='cab7_2026_4_9'>9</td>
+    <td id='cab7_2026_4_10'>10</td>
+    <td id='cab7_2026_4_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_4_12'>12</td>
+    <td id='cab7_2026_4_13'>13</td>
+    <td id='cab7_2026_4_14'>14</td>
+    <td id='cab7_2026_4_15'>15</td>
+    <td id='cab7_2026_4_16'>16</td>
+    <td id='cab7_2026_4_17'>17</td>
+    <td id='cab7_2026_4_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_4_19'>19</td>
+    <td id='cab7_2026_4_20'>20</td>
+    <td id='cab7_2026_4_21'>21</td>
+    <td id='cab7_2026_4_22'>22</td>
+    <td id='cab7_2026_4_23'>23</td>
+    <td id='cab7_2026_4_24'>24</td>
+    <td id='cab7_2026_4_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_4_26'>26</td>
+    <td id='cab7_2026_4_27'>27</td>
+    <td id='cab7_2026_4_28'>28</td>
+    <td id='cab7_2026_4_29'>29</td>
+    <td id='cab7_2026_4_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Mayo 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab7_2026_5_1'>1</td>
+    <td id='cab7_2026_5_2'>2</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_5_3'>3</td>
+    <td id='cab7_2026_5_4'>4</td>
+    <td id='cab7_2026_5_5'>5</td>
+    <td id='cab7_2026_5_6'>6</td>
+    <td id='cab7_2026_5_7'>7</td>
+    <td id='cab7_2026_5_8'>8</td>
+    <td id='cab7_2026_5_9'>9</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_5_10'>10</td>
+    <td id='cab7_2026_5_11'>11</td>
+    <td id='cab7_2026_5_12'>12</td>
+    <td id='cab7_2026_5_13'>13</td>
+    <td id='cab7_2026_5_14'>14</td>
+    <td id='cab7_2026_5_15'>15</td>
+    <td id='cab7_2026_5_16'>16</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_5_17'>17</td>
+    <td id='cab7_2026_5_18'>18</td>
+    <td id='cab7_2026_5_19'>19</td>
+    <td id='cab7_2026_5_20'>20</td>
+    <td id='cab7_2026_5_21'>21</td>
+    <td id='cab7_2026_5_22'>22</td>
+    <td id='cab7_2026_5_23'>23</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_5_24'>24</td>
+    <td id='cab7_2026_5_25'>25</td>
+    <td id='cab7_2026_5_26'>26</td>
+    <td id='cab7_2026_5_27'>27</td>
+    <td id='cab7_2026_5_28'>28</td>
+    <td id='cab7_2026_5_29'>29</td>
+    <td id='cab7_2026_5_30'>30</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_5_31'>31</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Junio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab7_2026_6_1'>1</td>
+    <td id='cab7_2026_6_2'>2</td>
+    <td id='cab7_2026_6_3'>3</td>
+    <td id='cab7_2026_6_4'>4</td>
+    <td id='cab7_2026_6_5'>5</td>
+    <td id='cab7_2026_6_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_6_7'>7</td>
+    <td id='cab7_2026_6_8'>8</td>
+    <td id='cab7_2026_6_9'>9</td>
+    <td id='cab7_2026_6_10'>10</td>
+    <td id='cab7_2026_6_11'>11</td>
+    <td id='cab7_2026_6_12'>12</td>
+    <td id='cab7_2026_6_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_6_14'>14</td>
+    <td id='cab7_2026_6_15'>15</td>
+    <td id='cab7_2026_6_16'>16</td>
+    <td id='cab7_2026_6_17'>17</td>
+    <td id='cab7_2026_6_18'>18</td>
+    <td id='cab7_2026_6_19'>19</td>
+    <td id='cab7_2026_6_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_6_21'>21</td>
+    <td id='cab7_2026_6_22'>22</td>
+    <td id='cab7_2026_6_23'>23</td>
+    <td id='cab7_2026_6_24'>24</td>
+    <td id='cab7_2026_6_25'>25</td>
+    <td id='cab7_2026_6_26'>26</td>
+    <td id='cab7_2026_6_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_6_28'>28</td>
+    <td id='cab7_2026_6_29'>29</td>
+    <td id='cab7_2026_6_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Julio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab7_2026_7_1'>1</td>
+    <td id='cab7_2026_7_2'>2</td>
+    <td id='cab7_2026_7_3'>3</td>
+    <td id='cab7_2026_7_4'>4</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_7_5'>5</td>
+    <td id='cab7_2026_7_6'>6</td>
+    <td id='cab7_2026_7_7'>7</td>
+    <td id='cab7_2026_7_8'>8</td>
+    <td id='cab7_2026_7_9'>9</td>
+    <td id='cab7_2026_7_10'>10</td>
+    <td id='cab7_2026_7_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_7_12'>12</td>
+    <td id='cab7_2026_7_13'>13</td>
+    <td id='cab7_2026_7_14'>14</td>
+    <td id='cab7_2026_7_15'>15</td>
+    <td id='cab7_2026_7_16'>16</td>
+    <td id='cab7_2026_7_17'>17</td>
+    <td id='cab7_2026_7_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_7_19'>19</td>
+    <td id='cab7_2026_7_20'>20</td>
+    <td id='cab7_2026_7_21'>21</td>
+    <td id='cab7_2026_7_22'>22</td>
+    <td id='cab7_2026_7_23'>23</td>
+    <td id='cab7_2026_7_24'>24</td>
+    <td id='cab7_2026_7_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab7_2026_7_26'>26</td>
+    <td id='cab7_2026_7_27'>27</td>
+    <td id='cab7_2026_7_28'>28</td>
+    <td id='cab7_2026_7_29'>29</td>
+    <td id='cab7_2026_7_30'>30</td>
+    <td id='cab7_2026_7_31'>31</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 </div>
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 8<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
+<!-- HIDDEN MONTHS: Nov 2025 - Feb 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -4209,6 +6091,7 @@ function setCalendarHints(){
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -4269,6 +6152,271 @@ function setCalendarHints(){
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Abril 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab8_2026_4_1'>1</td>
+    <td id='cab8_2026_4_2'>2</td>
+    <td id='cab8_2026_4_3'>3</td>
+    <td id='cab8_2026_4_4'>4</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_4_5'>5</td>
+    <td id='cab8_2026_4_6'>6</td>
+    <td id='cab8_2026_4_7'>7</td>
+    <td id='cab8_2026_4_8'>8</td>
+    <td id='cab8_2026_4_9'>9</td>
+    <td id='cab8_2026_4_10'>10</td>
+    <td id='cab8_2026_4_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_4_12'>12</td>
+    <td id='cab8_2026_4_13'>13</td>
+    <td id='cab8_2026_4_14'>14</td>
+    <td id='cab8_2026_4_15'>15</td>
+    <td id='cab8_2026_4_16'>16</td>
+    <td id='cab8_2026_4_17'>17</td>
+    <td id='cab8_2026_4_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_4_19'>19</td>
+    <td id='cab8_2026_4_20'>20</td>
+    <td id='cab8_2026_4_21'>21</td>
+    <td id='cab8_2026_4_22'>22</td>
+    <td id='cab8_2026_4_23'>23</td>
+    <td id='cab8_2026_4_24'>24</td>
+    <td id='cab8_2026_4_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_4_26'>26</td>
+    <td id='cab8_2026_4_27'>27</td>
+    <td id='cab8_2026_4_28'>28</td>
+    <td id='cab8_2026_4_29'>29</td>
+    <td id='cab8_2026_4_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Mayo 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab8_2026_5_1'>1</td>
+    <td id='cab8_2026_5_2'>2</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_5_3'>3</td>
+    <td id='cab8_2026_5_4'>4</td>
+    <td id='cab8_2026_5_5'>5</td>
+    <td id='cab8_2026_5_6'>6</td>
+    <td id='cab8_2026_5_7'>7</td>
+    <td id='cab8_2026_5_8'>8</td>
+    <td id='cab8_2026_5_9'>9</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_5_10'>10</td>
+    <td id='cab8_2026_5_11'>11</td>
+    <td id='cab8_2026_5_12'>12</td>
+    <td id='cab8_2026_5_13'>13</td>
+    <td id='cab8_2026_5_14'>14</td>
+    <td id='cab8_2026_5_15'>15</td>
+    <td id='cab8_2026_5_16'>16</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_5_17'>17</td>
+    <td id='cab8_2026_5_18'>18</td>
+    <td id='cab8_2026_5_19'>19</td>
+    <td id='cab8_2026_5_20'>20</td>
+    <td id='cab8_2026_5_21'>21</td>
+    <td id='cab8_2026_5_22'>22</td>
+    <td id='cab8_2026_5_23'>23</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_5_24'>24</td>
+    <td id='cab8_2026_5_25'>25</td>
+    <td id='cab8_2026_5_26'>26</td>
+    <td id='cab8_2026_5_27'>27</td>
+    <td id='cab8_2026_5_28'>28</td>
+    <td id='cab8_2026_5_29'>29</td>
+    <td id='cab8_2026_5_30'>30</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_5_31'>31</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Junio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab8_2026_6_1'>1</td>
+    <td id='cab8_2026_6_2'>2</td>
+    <td id='cab8_2026_6_3'>3</td>
+    <td id='cab8_2026_6_4'>4</td>
+    <td id='cab8_2026_6_5'>5</td>
+    <td id='cab8_2026_6_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_6_7'>7</td>
+    <td id='cab8_2026_6_8'>8</td>
+    <td id='cab8_2026_6_9'>9</td>
+    <td id='cab8_2026_6_10'>10</td>
+    <td id='cab8_2026_6_11'>11</td>
+    <td id='cab8_2026_6_12'>12</td>
+    <td id='cab8_2026_6_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_6_14'>14</td>
+    <td id='cab8_2026_6_15'>15</td>
+    <td id='cab8_2026_6_16'>16</td>
+    <td id='cab8_2026_6_17'>17</td>
+    <td id='cab8_2026_6_18'>18</td>
+    <td id='cab8_2026_6_19'>19</td>
+    <td id='cab8_2026_6_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_6_21'>21</td>
+    <td id='cab8_2026_6_22'>22</td>
+    <td id='cab8_2026_6_23'>23</td>
+    <td id='cab8_2026_6_24'>24</td>
+    <td id='cab8_2026_6_25'>25</td>
+    <td id='cab8_2026_6_26'>26</td>
+    <td id='cab8_2026_6_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_6_28'>28</td>
+    <td id='cab8_2026_6_29'>29</td>
+    <td id='cab8_2026_6_30'>30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Julio 2026</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td id='cab8_2026_7_1'>1</td>
+    <td id='cab8_2026_7_2'>2</td>
+    <td id='cab8_2026_7_3'>3</td>
+    <td id='cab8_2026_7_4'>4</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_7_5'>5</td>
+    <td id='cab8_2026_7_6'>6</td>
+    <td id='cab8_2026_7_7'>7</td>
+    <td id='cab8_2026_7_8'>8</td>
+    <td id='cab8_2026_7_9'>9</td>
+    <td id='cab8_2026_7_10'>10</td>
+    <td id='cab8_2026_7_11'>11</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_7_12'>12</td>
+    <td id='cab8_2026_7_13'>13</td>
+    <td id='cab8_2026_7_14'>14</td>
+    <td id='cab8_2026_7_15'>15</td>
+    <td id='cab8_2026_7_16'>16</td>
+    <td id='cab8_2026_7_17'>17</td>
+    <td id='cab8_2026_7_18'>18</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_7_19'>19</td>
+    <td id='cab8_2026_7_20'>20</td>
+    <td id='cab8_2026_7_21'>21</td>
+    <td id='cab8_2026_7_22'>22</td>
+    <td id='cab8_2026_7_23'>23</td>
+    <td id='cab8_2026_7_24'>24</td>
+    <td id='cab8_2026_7_25'>25</td>
+  </tr>
+  <tr>
+    <td id='cab8_2026_7_26'>26</td>
+    <td id='cab8_2026_7_27'>27</td>
+    <td id='cab8_2026_7_28'>28</td>
+    <td id='cab8_2026_7_29'>29</td>
+    <td id='cab8_2026_7_30'>30</td>
+    <td id='cab8_2026_7_31'>31</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
