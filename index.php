@@ -1667,6 +1667,15 @@ function setCalendarHints(){
 #cab7_2026_4_4 {
     background-color: #FFCC99;
 }
+#cab1_2026_3_21 {
+    background-color: #AADDFF;
+}
+#cab1_2026_3_22 {
+    background-color: #AADDFF;
+}
+#cab1_2026_3_23 {
+    background-color: #AADDFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -1974,11 +1983,11 @@ END HIDDEN MONTHS -->
     <td id='cab1_2026_3_18'>18</td>
     <td id='cab1_2026_3_19'>19</td>
     <td id='cab1_2026_3_20'>20</td>
-    <td id='cab1_2026_3_21'>21</td>
+    <td id='cab1_2026_3_21' title='Lujan Daniela (4) (es cliente)'>21</td>
   </tr>
   <tr>
-    <td id='cab1_2026_3_22'>22</td>
-    <td id='cab1_2026_3_23'>23</td>
+    <td id='cab1_2026_3_22' title='Lujan Daniela (4) (es cliente)'>22</td>
+    <td id='cab1_2026_3_23' title='Lujan Daniela (4) (es cliente)'>23</td>
     <td id='cab1_2026_3_24'>24</td>
     <td id='cab1_2026_3_25'>25</td>
     <td id='cab1_2026_3_26'>26</td>
