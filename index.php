@@ -1715,6 +1715,15 @@ function setCalendarHints(){
 #cab8_2026_4_4 {
     background-color: #FFDD99;
 }
+#cab3_2026_4_2 {
+    background-color: #99EEBB;
+}
+#cab3_2026_4_3 {
+    background-color: #99EEBB;
+}
+#cab3_2026_4_4 {
+    background-color: #99EEBB;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3256,9 +3265,9 @@ END HIDDEN MONTHS -->
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td id='cab3_2026_4_1'>1</td>
-    <td id='cab3_2026_4_2'>2</td>
-    <td id='cab3_2026_4_3'>3</td>
-    <td id='cab3_2026_4_4'>4</td>
+    <td id='cab3_2026_4_2' title='Aguirre Martin (4) (mascota)'>2</td>
+    <td id='cab3_2026_4_3' title='Aguirre Martin (4) (mascota)'>3</td>
+    <td id='cab3_2026_4_4' title='Aguirre Martin (4) (mascota)'>4</td>
   </tr>
   <tr>
     <td id='cab3_2026_4_5'>5</td>
