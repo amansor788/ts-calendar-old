@@ -1724,6 +1724,24 @@ function setCalendarHints(){
 #cab3_2026_4_4 {
     background-color: #99EEBB;
 }
+#cab2_2026_4_2 {
+    background-color: #FFBBAA;
+}
+#cab2_2026_4_3 {
+    background-color: #FFBBAA;
+}
+#cab2_2026_4_4 {
+    background-color: #FFBBAA;
+}
+#cab4_2026_4_2 {
+    background-color: #FFBBAA;
+}
+#cab4_2026_4_3 {
+    background-color: #FFBBAA;
+}
+#cab4_2026_4_4 {
+    background-color: #FFBBAA;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2671,9 +2689,9 @@ END HIDDEN MONTHS -->
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td id='cab2_2026_4_1'>1</td>
-    <td id='cab2_2026_4_2'>2</td>
-    <td id='cab2_2026_4_3'>3</td>
-    <td id='cab2_2026_4_4'>4</td>
+    <td id='cab2_2026_4_2' title='Maidana Lidia (4)'>2</td>
+    <td id='cab2_2026_4_3' title='Maidana Lidia (4)'>3</td>
+    <td id='cab2_2026_4_4' title='Maidana Lidia (4)'>4</td>
   </tr>
   <tr>
     <td id='cab2_2026_4_5'>5</td>
@@ -3859,9 +3877,9 @@ END HIDDEN MONTHS -->
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td id='cab4_2026_4_1'>1</td>
-    <td id='cab4_2026_4_2'>2</td>
-    <td id='cab4_2026_4_3'>3</td>
-    <td id='cab4_2026_4_4'>4</td>
+    <td id='cab4_2026_4_2' title='Maidana Lidia (4) (bebe sin cuna)'>2</td>
+    <td id='cab4_2026_4_3' title='Maidana Lidia (4) (bebe sin cuna)'>3</td>
+    <td id='cab4_2026_4_4' title='Maidana Lidia (4) (bebe sin cuna)'>4</td>
   </tr>
   <tr>
     <td id='cab4_2026_4_5'>5</td>
