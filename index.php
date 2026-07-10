@@ -1838,6 +1838,18 @@ function setCalendarHints(){
 #cab8_2026_7_14 {
     background-color: #BBDDFF;
 }
+#cab2_2026_7_13 {
+    background-color: #99DDBB;
+}
+#cab2_2026_7_14 {
+    background-color: #99DDBB;
+}
+#cab2_2026_7_15 {
+    background-color: #99DDBB;
+}
+#cab2_2026_7_16 {
+    background-color: #99DDBB;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3208,10 +3220,10 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab2_2026_7_12' title='Giorgis Yanina (4)'>12</td>
-    <td id='cab2_2026_7_13'>13</td>
-    <td id='cab2_2026_7_14'>14</td>
-    <td id='cab2_2026_7_15'>15</td>
-    <td id='cab2_2026_7_16'>16</td>
+    <td id='cab2_2026_7_13' title='Tenaglia Marcelo (5)'>13</td>
+    <td id='cab2_2026_7_14' title='Tenaglia Marcelo (5)'>14</td>
+    <td id='cab2_2026_7_15' title='Tenaglia Marcelo (5)'>15</td>
+    <td id='cab2_2026_7_16' title='Tenaglia Marcelo (5)'>16</td>
     <td id='cab2_2026_7_17'>17</td>
     <td id='cab2_2026_7_18'>18</td>
   </tr>
