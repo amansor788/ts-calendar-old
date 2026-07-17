@@ -1850,6 +1850,15 @@ function setCalendarHints(){
 #cab2_2026_7_16 {
     background-color: #99DDBB;
 }
+#cab1_2026_7_31 {
+    background-color: #FFCC99;
+}
+#cab1_2026_8_1 {
+    background-color: #FFCC99;
+}
+#cab1_2026_8_2 {
+    background-color: #FFCC99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2442,7 +2451,7 @@ END HIDDEN MONTHS -->
     <td id='cab1_2026_7_28'>28</td>
     <td id='cab1_2026_7_29'>29</td>
     <td id='cab1_2026_7_30'>30</td>
-    <td id='cab1_2026_7_31'>31</td>
+    <td id='cab1_2026_7_31' title='Aimar Franco (2) (mascota)'>31</td>
     <td>&nbsp;</td>
   </tr>
 </tbody>
@@ -2471,10 +2480,10 @@ END HIDDEN MONTHS -->
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab1_2026_8_1'>1</td>
+    <td id='cab1_2026_8_1' title='Aimar Franco (2) (mascota)'>1</td>
   </tr>
   <tr>
-    <td id='cab1_2026_8_2'>2</td>
+    <td id='cab1_2026_8_2' title='Aimar Franco (2) (mascota)'>2</td>
     <td id='cab1_2026_8_3'>3</td>
     <td id='cab1_2026_8_4'>4</td>
     <td id='cab1_2026_8_5'>5</td>
