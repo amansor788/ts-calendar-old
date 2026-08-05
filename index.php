@@ -1868,6 +1868,24 @@ function setCalendarHints(){
 #cab6_2026_7_25 {
     background-color: #CCAAFF;
 }
+#cab5_2026_7_24 {
+    background-color: #FFAADD;
+}
+#cab5_2026_7_25 {
+    background-color: #FFAADD;
+}
+#cab8_2026_8_15 {
+    background-color: #FF99DD;
+}
+#cab8_2026_8_16 {
+    background-color: #FF99DD;
+}
+#cab4_2026_8_15 {
+    background-color: #99EEBB;
+}
+#cab4_2026_8_16 {
+    background-color: #99EEBB;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -4903,10 +4921,10 @@ END HIDDEN MONTHS -->
     <td id='cab4_2026_8_12'>12</td>
     <td id='cab4_2026_8_13'>13</td>
     <td id='cab4_2026_8_14'>14</td>
-    <td id='cab4_2026_8_15'>15</td>
+    <td id='cab4_2026_8_15' title='Balmonde Yamila (2) (mascota)'>15</td>
   </tr>
   <tr>
-    <td id='cab4_2026_8_16'>16</td>
+    <td id='cab4_2026_8_16' title='Balmonde Yamila (2) (mascota)'>16</td>
     <td id='cab4_2026_8_17'>17</td>
     <td id='cab4_2026_8_18'>18</td>
     <td id='cab4_2026_8_19'>19</td>
@@ -5645,8 +5663,8 @@ END HIDDEN MONTHS -->
     <td id='cab5_2026_7_21'>21</td>
     <td id='cab5_2026_7_22'>22</td>
     <td id='cab5_2026_7_23'>23</td>
-    <td id='cab5_2026_7_24'>24</td>
-    <td id='cab5_2026_7_25'>25</td>
+    <td id='cab5_2026_7_24' title='Acosta Mariana (2)'>24</td>
+    <td id='cab5_2026_7_25' title='Acosta Mariana (2)'>25</td>
   </tr>
   <tr>
     <td id='cab5_2026_7_26'>26</td>
@@ -8095,10 +8113,10 @@ END HIDDEN MONTHS -->
     <td id='cab8_2026_8_12'>12</td>
     <td id='cab8_2026_8_13'>13</td>
     <td id='cab8_2026_8_14'>14</td>
-    <td id='cab8_2026_8_15'>15</td>
+    <td id='cab8_2026_8_15' title='Ramirez Camila (2)'>15</td>
   </tr>
   <tr>
-    <td id='cab8_2026_8_16'>16</td>
+    <td id='cab8_2026_8_16' title='Ramirez Camila (2)'>16</td>
     <td id='cab8_2026_8_17'>17</td>
     <td id='cab8_2026_8_18'>18</td>
     <td id='cab8_2026_8_19'>19</td>
