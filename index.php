@@ -1886,6 +1886,24 @@ function setCalendarHints(){
 #cab4_2026_8_16 {
     background-color: #99EEBB;
 }
+#cab1_2026_8_15 {
+    background-color: #AADDFF;
+}
+#cab1_2026_8_16 {
+    background-color: #AADDFF;
+}
+#cab6_2026_8_8 {
+    background-color: #FFCC99;
+}
+#cab6_2026_8_9 {
+    background-color: #FFCC99;
+}
+#cab2_2026_8_15 {
+    background-color: #DDAAFF;
+}
+#cab2_2026_8_16 {
+    background-color: #DDAAFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2525,10 +2543,10 @@ END HIDDEN MONTHS -->
     <td id='cab1_2026_8_12'>12</td>
     <td id='cab1_2026_8_13'>13</td>
     <td id='cab1_2026_8_14'>14</td>
-    <td id='cab1_2026_8_15'>15</td>
+    <td id='cab1_2026_8_15' title='Ramayo Santiago (2)'>15</td>
   </tr>
   <tr>
-    <td id='cab1_2026_8_16'>16</td>
+    <td id='cab1_2026_8_16' title='Ramayo Santiago (2)'>16</td>
     <td id='cab1_2026_8_17'>17</td>
     <td id='cab1_2026_8_18'>18</td>
     <td id='cab1_2026_8_19'>19</td>
@@ -3325,10 +3343,10 @@ END HIDDEN MONTHS -->
     <td id='cab2_2026_8_12'>12</td>
     <td id='cab2_2026_8_13'>13</td>
     <td id='cab2_2026_8_14'>14</td>
-    <td id='cab2_2026_8_15'>15</td>
+    <td id='cab2_2026_8_15' title='Arce Lucas (5)'>15</td>
   </tr>
   <tr>
-    <td id='cab2_2026_8_16'>16</td>
+    <td id='cab2_2026_8_16' title='Arce Lucas (5)'>16</td>
     <td id='cab2_2026_8_17'>17</td>
     <td id='cab2_2026_8_18'>18</td>
     <td id='cab2_2026_8_19'>19</td>
@@ -6508,10 +6526,10 @@ END HIDDEN MONTHS -->
     <td id='cab6_2026_8_5'>5</td>
     <td id='cab6_2026_8_6'>6</td>
     <td id='cab6_2026_8_7'>7</td>
-    <td id='cab6_2026_8_8'>8</td>
+    <td id='cab6_2026_8_8' title='Avalos Desiree (2) (pack finde - madre e hija)'>8</td>
   </tr>
   <tr>
-    <td id='cab6_2026_8_9'>9</td>
+    <td id='cab6_2026_8_9' title='Avalos Desiree (2) (pack finde - madre e hija)'>9</td>
     <td id='cab6_2026_8_10'>10</td>
     <td id='cab6_2026_8_11'>11</td>
     <td id='cab6_2026_8_12'>12</td>
