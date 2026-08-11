@@ -1886,6 +1886,9 @@ function setCalendarHints(){
 #cab4_2026_8_16 {
     background-color: #99EEBB;
 }
+#cab1_2026_8_14 {
+    background-color: #AADDFF;
+}
 #cab1_2026_8_15 {
     background-color: #AADDFF;
 }
@@ -2551,7 +2554,7 @@ END HIDDEN MONTHS -->
     <td id='cab1_2026_8_11'>11</td>
     <td id='cab1_2026_8_12'>12</td>
     <td id='cab1_2026_8_13'>13</td>
-    <td id='cab1_2026_8_14'>14</td>
+    <td id='cab1_2026_8_14' title='Ramayo Santiago (2)'>14</td>
     <td id='cab1_2026_8_15' title='Ramayo Santiago (2)'>15</td>
   </tr>
   <tr>
