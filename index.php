@@ -1916,6 +1916,24 @@ function setCalendarHints(){
 #cab3_2026_8_16 {
     background-color: #99CCFF;
 }
+#cab1_2026_10_19 {
+    background-color: #BBDDFF;
+}
+#cab1_2026_10_20 {
+    background-color: #BBDDFF;
+}
+#cab1_2026_10_21 {
+    background-color: #BBDDFF;
+}
+#cab1_2026_10_22 {
+    background-color: #BBDDFF;
+}
+#cab1_2026_10_23 {
+    background-color: #BBDDFF;
+}
+#cab1_2026_10_24 {
+    background-color: #BBDDFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2696,12 +2714,12 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab1_2026_10_18'>18</td>
-    <td id='cab1_2026_10_19'>19</td>
-    <td id='cab1_2026_10_20'>20</td>
-    <td id='cab1_2026_10_21'>21</td>
-    <td id='cab1_2026_10_22'>22</td>
-    <td id='cab1_2026_10_23'>23</td>
-    <td id='cab1_2026_10_24'>24</td>
+    <td id='cab1_2026_10_19' title='Braier Daniel (2) (es cliente - va con dos perritos)'>19</td>
+    <td id='cab1_2026_10_20' title='Braier Daniel (2) (es cliente - va con dos perritos)'>20</td>
+    <td id='cab1_2026_10_21' title='Braier Daniel (2) (es cliente - va con dos perritos)'>21</td>
+    <td id='cab1_2026_10_22' title='Braier Daniel (2) (es cliente - va con dos perritos)'>22</td>
+    <td id='cab1_2026_10_23' title='Braier Daniel (2) (es cliente - va con dos perritos)'>23</td>
+    <td id='cab1_2026_10_24' title='Braier Daniel (2) (es cliente - va con dos perritos)'>24</td>
   </tr>
   <tr>
     <td id='cab1_2026_10_25'>25</td>
