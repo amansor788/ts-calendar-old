@@ -1997,6 +1997,18 @@ function setCalendarHints(){
 #cab3_2027_1_23 {
     background-color: #FFD699;
 }
+#cab6_2026_11_26 {
+    background-color: #AAFFCC;
+}
+#cab6_2026_11_27 {
+    background-color: #AAFFCC;
+}
+#cab6_2026_11_28 {
+    background-color: #AAFFCC;
+}
+#cab6_2026_11_29 {
+    background-color: #AAFFCC;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -7829,12 +7841,12 @@ END HIDDEN MONTHS -->
     <td id='cab6_2026_11_23'>23</td>
     <td id='cab6_2026_11_24'>24</td>
     <td id='cab6_2026_11_25'>25</td>
-    <td id='cab6_2026_11_26'>26</td>
-    <td id='cab6_2026_11_27'>27</td>
-    <td id='cab6_2026_11_28'>28</td>
+    <td id='cab6_2026_11_26' title='Marcaida Kiara (2)'>26</td>
+    <td id='cab6_2026_11_27' title='Marcaida Kiara (2)'>27</td>
+    <td id='cab6_2026_11_28' title='Marcaida Kiara (2)'>28</td>
   </tr>
   <tr>
-    <td id='cab6_2026_11_29'>29</td>
+    <td id='cab6_2026_11_29' title='Marcaida Kiara (2)'>29</td>
     <td id='cab6_2026_11_30'>30</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
