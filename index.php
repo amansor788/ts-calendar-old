@@ -2009,6 +2009,33 @@ function setCalendarHints(){
 #cab6_2026_11_29 {
     background-color: #AAFFCC;
 }
+#cab6_2027_2_8 {
+    background-color: #BBDDFF;
+}
+#cab6_2027_2_9 {
+    background-color: #BBDDFF;
+}
+#cab6_2027_2_10 {
+    background-color: #BBDDFF;
+}
+#cab6_2027_2_11 {
+    background-color: #BBDDFF;
+}
+#cab6_2027_2_12 {
+    background-color: #BBDDFF;
+}
+#cab6_2027_2_13 {
+    background-color: #BBDDFF;
+}
+#cab6_2027_2_14 {
+    background-color: #BBDDFF;
+}
+#cab6_2027_2_15 {
+    background-color: #BBDDFF;
+}
+#cab6_2027_2_16 {
+    background-color: #BBDDFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2997,6 +3024,70 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab1_2027_1_31'>31</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Febrero 2027</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab1_2027_2_1'>1</td>
+    <td id='cab1_2027_2_2'>2</td>
+    <td id='cab1_2027_2_3'>3</td>
+    <td id='cab1_2027_2_4'>4</td>
+    <td id='cab1_2027_2_5'>5</td>
+    <td id='cab1_2027_2_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab1_2027_2_7'>7</td>
+    <td id='cab1_2027_2_8'>8</td>
+    <td id='cab1_2027_2_9'>9</td>
+    <td id='cab1_2027_2_10'>10</td>
+    <td id='cab1_2027_2_11'>11</td>
+    <td id='cab1_2027_2_12'>12</td>
+    <td id='cab1_2027_2_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab1_2027_2_14'>14</td>
+    <td id='cab1_2027_2_15'>15</td>
+    <td id='cab1_2027_2_16'>16</td>
+    <td id='cab1_2027_2_17'>17</td>
+    <td id='cab1_2027_2_18'>18</td>
+    <td id='cab1_2027_2_19'>19</td>
+    <td id='cab1_2027_2_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab1_2027_2_21'>21</td>
+    <td id='cab1_2027_2_22'>22</td>
+    <td id='cab1_2027_2_23'>23</td>
+    <td id='cab1_2027_2_24'>24</td>
+    <td id='cab1_2027_2_25'>25</td>
+    <td id='cab1_2027_2_26'>26</td>
+    <td id='cab1_2027_2_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab1_2027_2_28'>28</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -4006,6 +4097,70 @@ END HIDDEN MONTHS -->
 </tbody>
 </table>
 
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Febrero 2027</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab2_2027_2_1'>1</td>
+    <td id='cab2_2027_2_2'>2</td>
+    <td id='cab2_2027_2_3'>3</td>
+    <td id='cab2_2027_2_4'>4</td>
+    <td id='cab2_2027_2_5'>5</td>
+    <td id='cab2_2027_2_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab2_2027_2_7'>7</td>
+    <td id='cab2_2027_2_8'>8</td>
+    <td id='cab2_2027_2_9'>9</td>
+    <td id='cab2_2027_2_10'>10</td>
+    <td id='cab2_2027_2_11'>11</td>
+    <td id='cab2_2027_2_12'>12</td>
+    <td id='cab2_2027_2_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab2_2027_2_14'>14</td>
+    <td id='cab2_2027_2_15'>15</td>
+    <td id='cab2_2027_2_16'>16</td>
+    <td id='cab2_2027_2_17'>17</td>
+    <td id='cab2_2027_2_18'>18</td>
+    <td id='cab2_2027_2_19'>19</td>
+    <td id='cab2_2027_2_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab2_2027_2_21'>21</td>
+    <td id='cab2_2027_2_22'>22</td>
+    <td id='cab2_2027_2_23'>23</td>
+    <td id='cab2_2027_2_24'>24</td>
+    <td id='cab2_2027_2_25'>25</td>
+    <td id='cab2_2027_2_26'>26</td>
+    <td id='cab2_2027_2_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab2_2027_2_28'>28</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
 </div>
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 3<hr style=' { clear: both; width: 100%;} '/></div>
@@ -4993,6 +5148,70 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab3_2027_1_31'>31</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Febrero 2027</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab3_2027_2_1'>1</td>
+    <td id='cab3_2027_2_2'>2</td>
+    <td id='cab3_2027_2_3'>3</td>
+    <td id='cab3_2027_2_4'>4</td>
+    <td id='cab3_2027_2_5'>5</td>
+    <td id='cab3_2027_2_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab3_2027_2_7'>7</td>
+    <td id='cab3_2027_2_8'>8</td>
+    <td id='cab3_2027_2_9'>9</td>
+    <td id='cab3_2027_2_10'>10</td>
+    <td id='cab3_2027_2_11'>11</td>
+    <td id='cab3_2027_2_12'>12</td>
+    <td id='cab3_2027_2_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab3_2027_2_14'>14</td>
+    <td id='cab3_2027_2_15'>15</td>
+    <td id='cab3_2027_2_16'>16</td>
+    <td id='cab3_2027_2_17'>17</td>
+    <td id='cab3_2027_2_18'>18</td>
+    <td id='cab3_2027_2_19'>19</td>
+    <td id='cab3_2027_2_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab3_2027_2_21'>21</td>
+    <td id='cab3_2027_2_22'>22</td>
+    <td id='cab3_2027_2_23'>23</td>
+    <td id='cab3_2027_2_24'>24</td>
+    <td id='cab3_2027_2_25'>25</td>
+    <td id='cab3_2027_2_26'>26</td>
+    <td id='cab3_2027_2_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab3_2027_2_28'>28</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -6000,6 +6219,70 @@ END HIDDEN MONTHS -->
 </tbody>
 </table>
 
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Febrero 2027</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab4_2027_2_1'>1</td>
+    <td id='cab4_2027_2_2'>2</td>
+    <td id='cab4_2027_2_3'>3</td>
+    <td id='cab4_2027_2_4'>4</td>
+    <td id='cab4_2027_2_5'>5</td>
+    <td id='cab4_2027_2_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab4_2027_2_7'>7</td>
+    <td id='cab4_2027_2_8'>8</td>
+    <td id='cab4_2027_2_9'>9</td>
+    <td id='cab4_2027_2_10'>10</td>
+    <td id='cab4_2027_2_11'>11</td>
+    <td id='cab4_2027_2_12'>12</td>
+    <td id='cab4_2027_2_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab4_2027_2_14'>14</td>
+    <td id='cab4_2027_2_15'>15</td>
+    <td id='cab4_2027_2_16'>16</td>
+    <td id='cab4_2027_2_17'>17</td>
+    <td id='cab4_2027_2_18'>18</td>
+    <td id='cab4_2027_2_19'>19</td>
+    <td id='cab4_2027_2_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab4_2027_2_21'>21</td>
+    <td id='cab4_2027_2_22'>22</td>
+    <td id='cab4_2027_2_23'>23</td>
+    <td id='cab4_2027_2_24'>24</td>
+    <td id='cab4_2027_2_25'>25</td>
+    <td id='cab4_2027_2_26'>26</td>
+    <td id='cab4_2027_2_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab4_2027_2_28'>28</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
 </div>
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 5<hr style=' { clear: both; width: 100%;} '/></div>
@@ -6987,6 +7270,70 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab5_2027_1_31'>31</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Febrero 2027</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab5_2027_2_1'>1</td>
+    <td id='cab5_2027_2_2'>2</td>
+    <td id='cab5_2027_2_3'>3</td>
+    <td id='cab5_2027_2_4'>4</td>
+    <td id='cab5_2027_2_5'>5</td>
+    <td id='cab5_2027_2_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab5_2027_2_7'>7</td>
+    <td id='cab5_2027_2_8'>8</td>
+    <td id='cab5_2027_2_9'>9</td>
+    <td id='cab5_2027_2_10'>10</td>
+    <td id='cab5_2027_2_11'>11</td>
+    <td id='cab5_2027_2_12'>12</td>
+    <td id='cab5_2027_2_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab5_2027_2_14'>14</td>
+    <td id='cab5_2027_2_15'>15</td>
+    <td id='cab5_2027_2_16'>16</td>
+    <td id='cab5_2027_2_17'>17</td>
+    <td id='cab5_2027_2_18'>18</td>
+    <td id='cab5_2027_2_19'>19</td>
+    <td id='cab5_2027_2_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab5_2027_2_21'>21</td>
+    <td id='cab5_2027_2_22'>22</td>
+    <td id='cab5_2027_2_23'>23</td>
+    <td id='cab5_2027_2_24'>24</td>
+    <td id='cab5_2027_2_25'>25</td>
+    <td id='cab5_2027_2_26'>26</td>
+    <td id='cab5_2027_2_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab5_2027_2_28'>28</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -7994,6 +8341,70 @@ END HIDDEN MONTHS -->
 </tbody>
 </table>
 
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Febrero 2027</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab6_2027_2_1'>1</td>
+    <td id='cab6_2027_2_2'>2</td>
+    <td id='cab6_2027_2_3'>3</td>
+    <td id='cab6_2027_2_4'>4</td>
+    <td id='cab6_2027_2_5'>5</td>
+    <td id='cab6_2027_2_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab6_2027_2_7'>7</td>
+    <td id='cab6_2027_2_8' title='Barca Gerardo (2)'>8</td>
+    <td id='cab6_2027_2_9' title='Barca Gerardo (2)'>9</td>
+    <td id='cab6_2027_2_10' title='Barca Gerardo (2)'>10</td>
+    <td id='cab6_2027_2_11' title='Barca Gerardo (2)'>11</td>
+    <td id='cab6_2027_2_12' title='Barca Gerardo (2)'>12</td>
+    <td id='cab6_2027_2_13' title='Barca Gerardo (2)'>13</td>
+  </tr>
+  <tr>
+    <td id='cab6_2027_2_14' title='Barca Gerardo (2)'>14</td>
+    <td id='cab6_2027_2_15' title='Barca Gerardo (2)'>15</td>
+    <td id='cab6_2027_2_16' title='Barca Gerardo (2)'>16</td>
+    <td id='cab6_2027_2_17'>17</td>
+    <td id='cab6_2027_2_18'>18</td>
+    <td id='cab6_2027_2_19'>19</td>
+    <td id='cab6_2027_2_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab6_2027_2_21'>21</td>
+    <td id='cab6_2027_2_22'>22</td>
+    <td id='cab6_2027_2_23'>23</td>
+    <td id='cab6_2027_2_24'>24</td>
+    <td id='cab6_2027_2_25'>25</td>
+    <td id='cab6_2027_2_26'>26</td>
+    <td id='cab6_2027_2_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab6_2027_2_28'>28</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
 </div>
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 7<hr style=' { clear: both; width: 100%;} '/></div>
@@ -8991,6 +9402,70 @@ END HIDDEN MONTHS -->
 </tbody>
 </table>
 
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Febrero 2027</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab7_2027_2_1'>1</td>
+    <td id='cab7_2027_2_2'>2</td>
+    <td id='cab7_2027_2_3'>3</td>
+    <td id='cab7_2027_2_4'>4</td>
+    <td id='cab7_2027_2_5'>5</td>
+    <td id='cab7_2027_2_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab7_2027_2_7'>7</td>
+    <td id='cab7_2027_2_8'>8</td>
+    <td id='cab7_2027_2_9'>9</td>
+    <td id='cab7_2027_2_10'>10</td>
+    <td id='cab7_2027_2_11'>11</td>
+    <td id='cab7_2027_2_12'>12</td>
+    <td id='cab7_2027_2_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab7_2027_2_14'>14</td>
+    <td id='cab7_2027_2_15'>15</td>
+    <td id='cab7_2027_2_16'>16</td>
+    <td id='cab7_2027_2_17'>17</td>
+    <td id='cab7_2027_2_18'>18</td>
+    <td id='cab7_2027_2_19'>19</td>
+    <td id='cab7_2027_2_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab7_2027_2_21'>21</td>
+    <td id='cab7_2027_2_22'>22</td>
+    <td id='cab7_2027_2_23'>23</td>
+    <td id='cab7_2027_2_24'>24</td>
+    <td id='cab7_2027_2_25'>25</td>
+    <td id='cab7_2027_2_26'>26</td>
+    <td id='cab7_2027_2_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab7_2027_2_28'>28</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
 </div>
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 8<hr style=' { clear: both; width: 100%;} '/></div>
@@ -9978,6 +10453,70 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab8_2027_1_31'>31</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+
+<table border='1' class='month-table'>
+<thead>
+  <tr>
+    <th colspan='7'>Febrero 2027</th>
+  </tr>
+  <tr>
+    <th>Dom</th>
+    <th>Lun</th>
+    <th>Mar</th>
+    <th>Mie</th>
+    <th>Jue</th>
+    <th>Vie</th>
+    <th>Sab</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>&nbsp;</td>
+    <td id='cab8_2027_2_1'>1</td>
+    <td id='cab8_2027_2_2'>2</td>
+    <td id='cab8_2027_2_3'>3</td>
+    <td id='cab8_2027_2_4'>4</td>
+    <td id='cab8_2027_2_5'>5</td>
+    <td id='cab8_2027_2_6'>6</td>
+  </tr>
+  <tr>
+    <td id='cab8_2027_2_7'>7</td>
+    <td id='cab8_2027_2_8'>8</td>
+    <td id='cab8_2027_2_9'>9</td>
+    <td id='cab8_2027_2_10'>10</td>
+    <td id='cab8_2027_2_11'>11</td>
+    <td id='cab8_2027_2_12'>12</td>
+    <td id='cab8_2027_2_13'>13</td>
+  </tr>
+  <tr>
+    <td id='cab8_2027_2_14'>14</td>
+    <td id='cab8_2027_2_15'>15</td>
+    <td id='cab8_2027_2_16'>16</td>
+    <td id='cab8_2027_2_17'>17</td>
+    <td id='cab8_2027_2_18'>18</td>
+    <td id='cab8_2027_2_19'>19</td>
+    <td id='cab8_2027_2_20'>20</td>
+  </tr>
+  <tr>
+    <td id='cab8_2027_2_21'>21</td>
+    <td id='cab8_2027_2_22'>22</td>
+    <td id='cab8_2027_2_23'>23</td>
+    <td id='cab8_2027_2_24'>24</td>
+    <td id='cab8_2027_2_25'>25</td>
+    <td id='cab8_2027_2_26'>26</td>
+    <td id='cab8_2027_2_27'>27</td>
+  </tr>
+  <tr>
+    <td id='cab8_2027_2_28'>28</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
