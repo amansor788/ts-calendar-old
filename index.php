@@ -2054,6 +2054,24 @@ function setCalendarHints(){
 #cab1_2027_2_6 {
     background-color: #FFCCAA;
 }
+#cab5_2027_1_18 {
+    background-color: #CCAAFF;
+}
+#cab5_2027_1_19 {
+    background-color: #CCAAFF;
+}
+#cab5_2027_1_20 {
+    background-color: #CCAAFF;
+}
+#cab5_2027_1_21 {
+    background-color: #CCAAFF;
+}
+#cab5_2027_1_22 {
+    background-color: #CCAAFF;
+}
+#cab5_2027_1_23 {
+    background-color: #CCAAFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -7270,12 +7288,12 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab5_2027_1_17'>17</td>
-    <td id='cab5_2027_1_18'>18</td>
-    <td id='cab5_2027_1_19'>19</td>
-    <td id='cab5_2027_1_20'>20</td>
-    <td id='cab5_2027_1_21'>21</td>
-    <td id='cab5_2027_1_22'>22</td>
-    <td id='cab5_2027_1_23'>23</td>
+    <td id='cab5_2027_1_18' title='Gutierrez Sonia (2) (es cliente)'>18</td>
+    <td id='cab5_2027_1_19' title='Gutierrez Sonia (2) (es cliente)'>19</td>
+    <td id='cab5_2027_1_20' title='Gutierrez Sonia (2) (es cliente)'>20</td>
+    <td id='cab5_2027_1_21' title='Gutierrez Sonia (2) (es cliente)'>21</td>
+    <td id='cab5_2027_1_22' title='Gutierrez Sonia (2) (es cliente)'>22</td>
+    <td id='cab5_2027_1_23' title='Gutierrez Sonia (2) (es cliente)'>23</td>
   </tr>
   <tr>
     <td id='cab5_2027_1_24'>24</td>
