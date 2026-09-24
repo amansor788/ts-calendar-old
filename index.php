@@ -2036,6 +2036,24 @@ function setCalendarHints(){
 #cab6_2027_2_16 {
     background-color: #BBDDFF;
 }
+#cab1_2027_2_1 {
+    background-color: #FFCCAA;
+}
+#cab1_2027_2_2 {
+    background-color: #FFCCAA;
+}
+#cab1_2027_2_3 {
+    background-color: #FFCCAA;
+}
+#cab1_2027_2_4 {
+    background-color: #FFCCAA;
+}
+#cab1_2027_2_5 {
+    background-color: #FFCCAA;
+}
+#cab1_2027_2_6 {
+    background-color: #FFCCAA;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3052,12 +3070,12 @@ END HIDDEN MONTHS -->
 <tbody>
   <tr>
     <td>&nbsp;</td>
-    <td id='cab1_2027_2_1'>1</td>
-    <td id='cab1_2027_2_2'>2</td>
-    <td id='cab1_2027_2_3'>3</td>
-    <td id='cab1_2027_2_4'>4</td>
-    <td id='cab1_2027_2_5'>5</td>
-    <td id='cab1_2027_2_6'>6</td>
+    <td id='cab1_2027_2_1' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>1</td>
+    <td id='cab1_2027_2_2' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>2</td>
+    <td id='cab1_2027_2_3' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>3</td>
+    <td id='cab1_2027_2_4' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>4</td>
+    <td id='cab1_2027_2_5' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>5</td>
+    <td id='cab1_2027_2_6' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>6</td>
   </tr>
   <tr>
     <td id='cab1_2027_2_7'>7</td>
