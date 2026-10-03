@@ -2072,6 +2072,12 @@ function setCalendarHints(){
 #cab5_2027_1_23 {
     background-color: #CCAAFF;
 }
+#cab2_2026_10_10 {
+    background-color: #99EEBB;
+}
+#cab2_2026_10_11 {
+    background-color: #99EEBB;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3900,10 +3906,10 @@ END HIDDEN MONTHS -->
     <td id='cab2_2026_10_7'>7</td>
     <td id='cab2_2026_10_8'>8</td>
     <td id='cab2_2026_10_9'>9</td>
-    <td id='cab2_2026_10_10'>10</td>
+    <td id='cab2_2026_10_10' title='Villalva Yamila (5)'>10</td>
   </tr>
   <tr>
-    <td id='cab2_2026_10_11'>11</td>
+    <td id='cab2_2026_10_11' title='Villalva Yamila (5)'>11</td>
     <td id='cab2_2026_10_12'>12</td>
     <td id='cab2_2026_10_13'>13</td>
     <td id='cab2_2026_10_14'>14</td>
