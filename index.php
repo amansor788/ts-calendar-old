@@ -2078,6 +2078,42 @@ function setCalendarHints(){
 #cab2_2026_10_11 {
     background-color: #99EEBB;
 }
+#cab6_2027_1_2 {
+    background-color: #FFAACC;
+}
+#cab6_2027_1_3 {
+    background-color: #FFAACC;
+}
+#cab6_2027_1_4 {
+    background-color: #FFAACC;
+}
+#cab6_2027_1_5 {
+    background-color: #FFAACC;
+}
+#cab6_2027_1_6 {
+    background-color: #FFAACC;
+}
+#cab6_2027_1_7 {
+    background-color: #FFAACC;
+}
+#cab6_2027_1_8 {
+    background-color: #FFAACC;
+}
+#cab1_2027_1_3 {
+    background-color: #99DDFF;
+}
+#cab1_2027_1_4 {
+    background-color: #99DDFF;
+}
+#cab1_2027_1_5 {
+    background-color: #99DDFF;
+}
+#cab1_2027_1_6 {
+    background-color: #99DDFF;
+}
+#cab1_2027_1_7 {
+    background-color: #99DDFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3029,11 +3065,11 @@ END HIDDEN MONTHS -->
     <td id='cab1_2027_1_2'>2</td>
   </tr>
   <tr>
-    <td id='cab1_2027_1_3'>3</td>
-    <td id='cab1_2027_1_4'>4</td>
-    <td id='cab1_2027_1_5'>5</td>
-    <td id='cab1_2027_1_6'>6</td>
-    <td id='cab1_2027_1_7'>7</td>
+    <td id='cab1_2027_1_3' title='Monsalvo Jose (4)'>3</td>
+    <td id='cab1_2027_1_4' title='Monsalvo Jose (4)'>4</td>
+    <td id='cab1_2027_1_5' title='Monsalvo Jose (4)'>5</td>
+    <td id='cab1_2027_1_6' title='Monsalvo Jose (4)'>6</td>
+    <td id='cab1_2027_1_7' title='Monsalvo Jose (4)'>7</td>
     <td id='cab1_2027_1_8'>8</td>
     <td id='cab1_2027_1_9'>9</td>
   </tr>
@@ -8333,15 +8369,15 @@ END HIDDEN MONTHS -->
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td id='cab6_2027_1_1'>1</td>
-    <td id='cab6_2027_1_2'>2</td>
+    <td id='cab6_2027_1_2' title='Garcia Belen (2)'>2</td>
   </tr>
   <tr>
-    <td id='cab6_2027_1_3'>3</td>
-    <td id='cab6_2027_1_4'>4</td>
-    <td id='cab6_2027_1_5'>5</td>
-    <td id='cab6_2027_1_6'>6</td>
-    <td id='cab6_2027_1_7'>7</td>
-    <td id='cab6_2027_1_8'>8</td>
+    <td id='cab6_2027_1_3' title='Garcia Belen (2)'>3</td>
+    <td id='cab6_2027_1_4' title='Garcia Belen (2)'>4</td>
+    <td id='cab6_2027_1_5' title='Garcia Belen (2)'>5</td>
+    <td id='cab6_2027_1_6' title='Garcia Belen (2)'>6</td>
+    <td id='cab6_2027_1_7' title='Garcia Belen (2)'>7</td>
+    <td id='cab6_2027_1_8' title='Garcia Belen (2)'>8</td>
     <td id='cab6_2027_1_9'>9</td>
   </tr>
   <tr>
