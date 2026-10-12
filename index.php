@@ -2135,6 +2135,12 @@ function setCalendarHints(){
 #cab1_2027_1_25 {
     background-color: #FFDD99;
 }
+#cab1_2026_10_17 {
+    background-color: #CCFFFF;
+}
+#cab1_2026_10_18 {
+    background-color: #CCFFFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -2909,10 +2915,10 @@ END HIDDEN MONTHS -->
     <td id='cab1_2026_10_14'>14</td>
     <td id='cab1_2026_10_15'>15</td>
     <td id='cab1_2026_10_16'>16</td>
-    <td id='cab1_2026_10_17'>17</td>
+    <td id='cab1_2026_10_17' title='Alcire Paula (4)'>17</td>
   </tr>
   <tr>
-    <td id='cab1_2026_10_18'>18</td>
+    <td id='cab1_2026_10_18' title='Alcire Paula (4)'>18</td>
     <td id='cab1_2026_10_19' title='Braier Daniel (2) (es cliente - va con dos perritos)'>19</td>
     <td id='cab1_2026_10_20' title='Braier Daniel (2) (es cliente - va con dos perritos)'>20</td>
     <td id='cab1_2026_10_21' title='Braier Daniel (2) (es cliente - va con dos perritos)'>21</td>
