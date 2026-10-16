@@ -2141,6 +2141,36 @@ function setCalendarHints(){
 #cab1_2026_10_18 {
     background-color: #CCFFFF;
 }
+#cab2_2027_1_18 {
+    background-color: #DDBBFF;
+}
+#cab2_2027_1_19 {
+    background-color: #DDBBFF;
+}
+#cab2_2027_1_20 {
+    background-color: #DDBBFF;
+}
+#cab2_2027_1_21 {
+    background-color: #DDBBFF;
+}
+#cab2_2027_1_22 {
+    background-color: #DDBBFF;
+}
+#cab2_2027_1_23 {
+    background-color: #DDBBFF;
+}
+#cab2_2027_1_24 {
+    background-color: #DDBBFF;
+}
+#cab2_2027_1_25 {
+    background-color: #DDBBFF;
+}
+#cab2_2027_1_26 {
+    background-color: #DDBBFF;
+}
+#cab2_2027_1_27 {
+    background-color: #DDBBFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -4174,18 +4204,18 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab2_2027_1_17'>17</td>
-    <td id='cab2_2027_1_18'>18</td>
-    <td id='cab2_2027_1_19'>19</td>
-    <td id='cab2_2027_1_20'>20</td>
-    <td id='cab2_2027_1_21'>21</td>
-    <td id='cab2_2027_1_22'>22</td>
-    <td id='cab2_2027_1_23'>23</td>
+    <td id='cab2_2027_1_18' title='Di Salvo Leonardo (4)'>18</td>
+    <td id='cab2_2027_1_19' title='Di Salvo Leonardo (4)'>19</td>
+    <td id='cab2_2027_1_20' title='Di Salvo Leonardo (4)'>20</td>
+    <td id='cab2_2027_1_21' title='Di Salvo Leonardo (4)'>21</td>
+    <td id='cab2_2027_1_22' title='Di Salvo Leonardo (4)'>22</td>
+    <td id='cab2_2027_1_23' title='Di Salvo Leonardo (4)'>23</td>
   </tr>
   <tr>
-    <td id='cab2_2027_1_24'>24</td>
-    <td id='cab2_2027_1_25'>25</td>
-    <td id='cab2_2027_1_26'>26</td>
-    <td id='cab2_2027_1_27'>27</td>
+    <td id='cab2_2027_1_24' title='Di Salvo Leonardo (4)'>24</td>
+    <td id='cab2_2027_1_25' title='Di Salvo Leonardo (4)'>25</td>
+    <td id='cab2_2027_1_26' title='Di Salvo Leonardo (4)'>26</td>
+    <td id='cab2_2027_1_27' title='Di Salvo Leonardo (4)'>27</td>
     <td id='cab2_2027_1_28'>28</td>
     <td id='cab2_2027_1_29'>29</td>
     <td id='cab2_2027_1_30'>30</td>
