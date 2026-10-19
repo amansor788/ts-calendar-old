@@ -2171,6 +2171,12 @@ function setCalendarHints(){
 #cab2_2027_1_27 {
     background-color: #DDBBFF;
 }
+#cab3_2026_10_24 {
+    background-color: #FFBBAA;
+}
+#cab3_2026_10_25 {
+    background-color: #FFBBAA;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -5078,10 +5084,10 @@ END HIDDEN MONTHS -->
     <td id='cab3_2026_10_21'>21</td>
     <td id='cab3_2026_10_22'>22</td>
     <td id='cab3_2026_10_23'>23</td>
-    <td id='cab3_2026_10_24'>24</td>
+    <td id='cab3_2026_10_24' title='Mardon Cecilia (4) (pack finde)'>24</td>
   </tr>
   <tr>
-    <td id='cab3_2026_10_25'>25</td>
+    <td id='cab3_2026_10_25' title='Mardon Cecilia (4) (pack finde)'>25</td>
     <td id='cab3_2026_10_26'>26</td>
     <td id='cab3_2026_10_27'>27</td>
     <td id='cab3_2026_10_28'>28</td>
