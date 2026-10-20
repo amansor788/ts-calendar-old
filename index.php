@@ -2177,6 +2177,18 @@ function setCalendarHints(){
 #cab3_2026_10_25 {
     background-color: #FFBBAA;
 }
+#cab8_2026_12_31 {
+    background-color: #AAFFCC;
+}
+#cab8_2027_1_1 {
+    background-color: #AAFFCC;
+}
+#cab8_2027_1_2 {
+    background-color: #AAFFCC;
+}
+#cab8_2027_1_3 {
+    background-color: #AAFFCC;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -10524,7 +10536,7 @@ END HIDDEN MONTHS -->
     <td id='cab8_2026_12_28'>28</td>
     <td id='cab8_2026_12_29'>29</td>
     <td id='cab8_2026_12_30'>30</td>
-    <td id='cab8_2026_12_31'>31</td>
+    <td id='cab8_2026_12_31' title='Quiroga Susana (2)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
@@ -10553,11 +10565,11 @@ END HIDDEN MONTHS -->
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab8_2027_1_1'>1</td>
-    <td id='cab8_2027_1_2'>2</td>
+    <td id='cab8_2027_1_1' title='Quiroga Susana (2)'>1</td>
+    <td id='cab8_2027_1_2' title='Quiroga Susana (2)'>2</td>
   </tr>
   <tr>
-    <td id='cab8_2027_1_3'>3</td>
+    <td id='cab8_2027_1_3' title='Quiroga Susana (2)'>3</td>
     <td id='cab8_2027_1_4'>4</td>
     <td id='cab8_2027_1_5'>5</td>
     <td id='cab8_2027_1_6'>6</td>
