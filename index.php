@@ -2036,24 +2036,6 @@ function setCalendarHints(){
 #cab6_2027_2_16 {
     background-color: #BBDDFF;
 }
-#cab1_2027_2_1 {
-    background-color: #FFCCAA;
-}
-#cab1_2027_2_2 {
-    background-color: #FFCCAA;
-}
-#cab1_2027_2_3 {
-    background-color: #FFCCAA;
-}
-#cab1_2027_2_4 {
-    background-color: #FFCCAA;
-}
-#cab1_2027_2_5 {
-    background-color: #FFCCAA;
-}
-#cab1_2027_2_6 {
-    background-color: #FFCCAA;
-}
 #cab5_2027_1_18 {
     background-color: #CCAAFF;
 }
@@ -2188,6 +2170,45 @@ function setCalendarHints(){
 }
 #cab8_2027_1_3 {
     background-color: #AAFFCC;
+}
+#cab2_2027_2_1 {
+    background-color: #FFCCAA;
+}
+#cab2_2027_2_2 {
+    background-color: #FFCCAA;
+}
+#cab2_2027_2_3 {
+    background-color: #FFCCAA;
+}
+#cab2_2027_2_4 {
+    background-color: #FFCCAA;
+}
+#cab2_2027_2_5 {
+    background-color: #FFCCAA;
+}
+#cab2_2027_2_6 {
+    background-color: #FFCCAA;
+}
+#cab4_2027_1_26 {
+    background-color: #99FF99;
+}
+#cab4_2027_1_27 {
+    background-color: #99FF99;
+}
+#cab4_2027_1_28 {
+    background-color: #99FF99;
+}
+#cab4_2027_1_29 {
+    background-color: #99FF99;
+}
+#cab4_2027_1_30 {
+    background-color: #99FF99;
+}
+#cab4_2027_1_31 {
+    background-color: #99FF99;
+}
+#cab4_2027_2_1 {
+    background-color: #99FF99;
 }
 </style>
 </head>
@@ -3205,12 +3226,12 @@ END HIDDEN MONTHS -->
 <tbody>
   <tr>
     <td>&nbsp;</td>
-    <td id='cab1_2027_2_1' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>1</td>
-    <td id='cab1_2027_2_2' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>2</td>
-    <td id='cab1_2027_2_3' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>3</td>
-    <td id='cab1_2027_2_4' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>4</td>
-    <td id='cab1_2027_2_5' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>5</td>
-    <td id='cab1_2027_2_6' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>6</td>
+    <td id='cab1_2027_2_1'>1</td>
+    <td id='cab1_2027_2_2'>2</td>
+    <td id='cab1_2027_2_3'>3</td>
+    <td id='cab1_2027_2_4'>4</td>
+    <td id='cab1_2027_2_5'>5</td>
+    <td id='cab1_2027_2_6'>6</td>
   </tr>
   <tr>
     <td id='cab1_2027_2_7'>7</td>
@@ -4268,12 +4289,12 @@ END HIDDEN MONTHS -->
 <tbody>
   <tr>
     <td>&nbsp;</td>
-    <td id='cab2_2027_2_1'>1</td>
-    <td id='cab2_2027_2_2'>2</td>
-    <td id='cab2_2027_2_3'>3</td>
-    <td id='cab2_2027_2_4'>4</td>
-    <td id='cab2_2027_2_5'>5</td>
-    <td id='cab2_2027_2_6'>6</td>
+    <td id='cab2_2027_2_1' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>1</td>
+    <td id='cab2_2027_2_2' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>2</td>
+    <td id='cab2_2027_2_3' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>3</td>
+    <td id='cab2_2027_2_4' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>4</td>
+    <td id='cab2_2027_2_5' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>5</td>
+    <td id='cab2_2027_2_6' title='Pascuali Leandro (4) (hijo de Monica Pascuali)'>6</td>
   </tr>
   <tr>
     <td id='cab2_2027_2_7'>7</td>
@@ -6354,14 +6375,14 @@ END HIDDEN MONTHS -->
   <tr>
     <td id='cab4_2027_1_24'>24</td>
     <td id='cab4_2027_1_25'>25</td>
-    <td id='cab4_2027_1_26'>26</td>
-    <td id='cab4_2027_1_27'>27</td>
-    <td id='cab4_2027_1_28'>28</td>
-    <td id='cab4_2027_1_29'>29</td>
-    <td id='cab4_2027_1_30'>30</td>
+    <td id='cab4_2027_1_26' title='Furke Damian (1)'>26</td>
+    <td id='cab4_2027_1_27' title='Furke Damian (1)'>27</td>
+    <td id='cab4_2027_1_28' title='Furke Damian (1)'>28</td>
+    <td id='cab4_2027_1_29' title='Furke Damian (1)'>29</td>
+    <td id='cab4_2027_1_30' title='Furke Damian (1)'>30</td>
   </tr>
   <tr>
-    <td id='cab4_2027_1_31'>31</td>
+    <td id='cab4_2027_1_31' title='Furke Damian (1)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -6390,7 +6411,7 @@ END HIDDEN MONTHS -->
 <tbody>
   <tr>
     <td>&nbsp;</td>
-    <td id='cab4_2027_2_1'>1</td>
+    <td id='cab4_2027_2_1' title='Furke Damian (1)'>1</td>
     <td id='cab4_2027_2_2'>2</td>
     <td id='cab4_2027_2_3'>3</td>
     <td id='cab4_2027_2_4'>4</td>
