@@ -2210,6 +2210,15 @@ function setCalendarHints(){
 #cab1_2027_2_1 {
     background-color: #99FF99;
 }
+#cab3_2026_11_6 {
+    background-color: #FFCCFF;
+}
+#cab3_2026_11_7 {
+    background-color: #FFCCFF;
+}
+#cab3_2026_11_8 {
+    background-color: #FFCCFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -5153,11 +5162,11 @@ END HIDDEN MONTHS -->
     <td id='cab3_2026_11_3'>3</td>
     <td id='cab3_2026_11_4'>4</td>
     <td id='cab3_2026_11_5'>5</td>
-    <td id='cab3_2026_11_6'>6</td>
-    <td id='cab3_2026_11_7'>7</td>
+    <td id='cab3_2026_11_6' title='Berro Carolina (3) (con mascota)'>6</td>
+    <td id='cab3_2026_11_7' title='Berro Carolina (3) (con mascota)'>7</td>
   </tr>
   <tr>
-    <td id='cab3_2026_11_8'>8</td>
+    <td id='cab3_2026_11_8' title='Berro Carolina (3) (con mascota)'>8</td>
     <td id='cab3_2026_11_9'>9</td>
     <td id='cab3_2026_11_10'>10</td>
     <td id='cab3_2026_11_11'>11</td>
