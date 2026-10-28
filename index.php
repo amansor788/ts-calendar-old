@@ -2225,15 +2225,6 @@ function setCalendarHints(){
 #cab6_2026_10_31 {
     background-color: #FFD699;
 }
-#cab1_2026_11_7 {
-    background-color: #99DDCC;
-}
-#cab1_2026_11_8 {
-    background-color: #99DDCC;
-}
-#cab1_2026_11_9 {
-    background-color: #99DDCC;
-}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3054,11 +3045,11 @@ END HIDDEN MONTHS -->
     <td id='cab1_2026_11_4' title='Turiel Gato (2) (Gaston Turiel con la novia)'>4</td>
     <td id='cab1_2026_11_5'>5</td>
     <td id='cab1_2026_11_6'>6</td>
-    <td id='cab1_2026_11_7' title='Villalba Christian (2)'>7</td>
+    <td id='cab1_2026_11_7'>7</td>
   </tr>
   <tr>
-    <td id='cab1_2026_11_8' title='Villalba Christian (2)'>8</td>
-    <td id='cab1_2026_11_9' title='Villalba Christian (2)'>9</td>
+    <td id='cab1_2026_11_8'>8</td>
+    <td id='cab1_2026_11_9'>9</td>
     <td id='cab1_2026_11_10'>10</td>
     <td id='cab1_2026_11_11'>11</td>
     <td id='cab1_2026_11_12'>12</td>
