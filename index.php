@@ -2225,6 +2225,27 @@ function setCalendarHints(){
 #cab6_2026_10_31 {
     background-color: #FFD699;
 }
+#cab2_2027_1_3 {
+    background-color: #BBFFEE;
+}
+#cab2_2027_1_4 {
+    background-color: #BBFFEE;
+}
+#cab2_2027_1_5 {
+    background-color: #BBFFEE;
+}
+#cab2_2027_1_6 {
+    background-color: #BBFFEE;
+}
+#cab2_2027_1_7 {
+    background-color: #BBFFEE;
+}
+#cab2_2027_1_8 {
+    background-color: #BBFFEE;
+}
+#cab2_2027_1_9 {
+    background-color: #BBFFEE;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -4239,13 +4260,13 @@ END HIDDEN MONTHS -->
     <td id='cab2_2027_1_2'>2</td>
   </tr>
   <tr>
-    <td id='cab2_2027_1_3'>3</td>
-    <td id='cab2_2027_1_4'>4</td>
-    <td id='cab2_2027_1_5'>5</td>
-    <td id='cab2_2027_1_6'>6</td>
-    <td id='cab2_2027_1_7'>7</td>
-    <td id='cab2_2027_1_8'>8</td>
-    <td id='cab2_2027_1_9'>9</td>
+    <td id='cab2_2027_1_3' title='Casas Nicolas (4) (completa reserva el 6/11)'>3</td>
+    <td id='cab2_2027_1_4' title='Casas Nicolas (4) (completa reserva el 6/11)'>4</td>
+    <td id='cab2_2027_1_5' title='Casas Nicolas (4) (completa reserva el 6/11)'>5</td>
+    <td id='cab2_2027_1_6' title='Casas Nicolas (4) (completa reserva el 6/11)'>6</td>
+    <td id='cab2_2027_1_7' title='Casas Nicolas (4) (completa reserva el 6/11)'>7</td>
+    <td id='cab2_2027_1_8' title='Casas Nicolas (4) (completa reserva el 6/11)'>8</td>
+    <td id='cab2_2027_1_9' title='Casas Nicolas (4) (completa reserva el 6/11)'>9</td>
   </tr>
   <tr>
     <td id='cab2_2027_1_10'>10</td>
