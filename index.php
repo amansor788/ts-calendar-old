@@ -2255,6 +2255,12 @@ function setCalendarHints(){
 #cab1_2026_11_9 {
     background-color: #99DDCC;
 }
+/* Cabana 7 bloqueada todo el verano (Dic 2026 - Feb 2027) para Walter, empleado. No asignar reservas. */
+.month-table td.bloqueada {
+    background-color: #BBBBBB;
+    color: #666666;
+    text-decoration: line-through;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -8626,7 +8632,7 @@ END HIDDEN MONTHS -->
 
 </div>
 
-<div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 7<hr style=' { clear: both; width: 100%;} '/></div>
+<div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 7 &mdash; BLOQUEADA VERANO (Walter)<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
 <!-- HIDDEN MONTHS: Nov 2025 - Sep 2026 (preserved for historical data)
 <table border='1' class='month-table'>
@@ -9503,45 +9509,45 @@ END HIDDEN MONTHS -->
   <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab7_2026_12_1'>1</td>
-    <td id='cab7_2026_12_2'>2</td>
-    <td id='cab7_2026_12_3'>3</td>
-    <td id='cab7_2026_12_4'>4</td>
-    <td id='cab7_2026_12_5'>5</td>
+    <td id='cab7_2026_12_1' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>1</td>
+    <td id='cab7_2026_12_2' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>2</td>
+    <td id='cab7_2026_12_3' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>3</td>
+    <td id='cab7_2026_12_4' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>4</td>
+    <td id='cab7_2026_12_5' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>5</td>
   </tr>
   <tr>
-    <td id='cab7_2026_12_6'>6</td>
-    <td id='cab7_2026_12_7'>7</td>
-    <td id='cab7_2026_12_8'>8</td>
-    <td id='cab7_2026_12_9'>9</td>
-    <td id='cab7_2026_12_10'>10</td>
-    <td id='cab7_2026_12_11'>11</td>
-    <td id='cab7_2026_12_12'>12</td>
+    <td id='cab7_2026_12_6' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>6</td>
+    <td id='cab7_2026_12_7' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>7</td>
+    <td id='cab7_2026_12_8' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>8</td>
+    <td id='cab7_2026_12_9' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>9</td>
+    <td id='cab7_2026_12_10' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>10</td>
+    <td id='cab7_2026_12_11' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>11</td>
+    <td id='cab7_2026_12_12' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>12</td>
   </tr>
   <tr>
-    <td id='cab7_2026_12_13'>13</td>
-    <td id='cab7_2026_12_14'>14</td>
-    <td id='cab7_2026_12_15'>15</td>
-    <td id='cab7_2026_12_16'>16</td>
-    <td id='cab7_2026_12_17'>17</td>
-    <td id='cab7_2026_12_18'>18</td>
-    <td id='cab7_2026_12_19'>19</td>
+    <td id='cab7_2026_12_13' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>13</td>
+    <td id='cab7_2026_12_14' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>14</td>
+    <td id='cab7_2026_12_15' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>15</td>
+    <td id='cab7_2026_12_16' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>16</td>
+    <td id='cab7_2026_12_17' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>17</td>
+    <td id='cab7_2026_12_18' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>18</td>
+    <td id='cab7_2026_12_19' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>19</td>
   </tr>
   <tr>
-    <td id='cab7_2026_12_20'>20</td>
-    <td id='cab7_2026_12_21'>21</td>
-    <td id='cab7_2026_12_22'>22</td>
-    <td id='cab7_2026_12_23'>23</td>
-    <td id='cab7_2026_12_24'>24</td>
-    <td id='cab7_2026_12_25'>25</td>
-    <td id='cab7_2026_12_26'>26</td>
+    <td id='cab7_2026_12_20' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>20</td>
+    <td id='cab7_2026_12_21' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>21</td>
+    <td id='cab7_2026_12_22' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>22</td>
+    <td id='cab7_2026_12_23' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>23</td>
+    <td id='cab7_2026_12_24' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>24</td>
+    <td id='cab7_2026_12_25' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>25</td>
+    <td id='cab7_2026_12_26' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>26</td>
   </tr>
   <tr>
-    <td id='cab7_2026_12_27'>27</td>
-    <td id='cab7_2026_12_28'>28</td>
-    <td id='cab7_2026_12_29'>29</td>
-    <td id='cab7_2026_12_30'>30</td>
-    <td id='cab7_2026_12_31'>31</td>
+    <td id='cab7_2026_12_27' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>27</td>
+    <td id='cab7_2026_12_28' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>28</td>
+    <td id='cab7_2026_12_29' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>29</td>
+    <td id='cab7_2026_12_30' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>30</td>
+    <td id='cab7_2026_12_31' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
@@ -9570,47 +9576,47 @@ END HIDDEN MONTHS -->
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab7_2027_1_1'>1</td>
-    <td id='cab7_2027_1_2'>2</td>
+    <td id='cab7_2027_1_1' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>1</td>
+    <td id='cab7_2027_1_2' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>2</td>
   </tr>
   <tr>
-    <td id='cab7_2027_1_3'>3</td>
-    <td id='cab7_2027_1_4'>4</td>
-    <td id='cab7_2027_1_5'>5</td>
-    <td id='cab7_2027_1_6'>6</td>
-    <td id='cab7_2027_1_7'>7</td>
-    <td id='cab7_2027_1_8'>8</td>
-    <td id='cab7_2027_1_9'>9</td>
+    <td id='cab7_2027_1_3' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>3</td>
+    <td id='cab7_2027_1_4' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>4</td>
+    <td id='cab7_2027_1_5' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>5</td>
+    <td id='cab7_2027_1_6' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>6</td>
+    <td id='cab7_2027_1_7' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>7</td>
+    <td id='cab7_2027_1_8' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>8</td>
+    <td id='cab7_2027_1_9' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>9</td>
   </tr>
   <tr>
-    <td id='cab7_2027_1_10'>10</td>
-    <td id='cab7_2027_1_11'>11</td>
-    <td id='cab7_2027_1_12'>12</td>
-    <td id='cab7_2027_1_13'>13</td>
-    <td id='cab7_2027_1_14'>14</td>
-    <td id='cab7_2027_1_15'>15</td>
-    <td id='cab7_2027_1_16'>16</td>
+    <td id='cab7_2027_1_10' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>10</td>
+    <td id='cab7_2027_1_11' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>11</td>
+    <td id='cab7_2027_1_12' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>12</td>
+    <td id='cab7_2027_1_13' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>13</td>
+    <td id='cab7_2027_1_14' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>14</td>
+    <td id='cab7_2027_1_15' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>15</td>
+    <td id='cab7_2027_1_16' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>16</td>
   </tr>
   <tr>
-    <td id='cab7_2027_1_17'>17</td>
-    <td id='cab7_2027_1_18'>18</td>
-    <td id='cab7_2027_1_19'>19</td>
-    <td id='cab7_2027_1_20'>20</td>
-    <td id='cab7_2027_1_21'>21</td>
-    <td id='cab7_2027_1_22'>22</td>
-    <td id='cab7_2027_1_23'>23</td>
+    <td id='cab7_2027_1_17' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>17</td>
+    <td id='cab7_2027_1_18' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>18</td>
+    <td id='cab7_2027_1_19' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>19</td>
+    <td id='cab7_2027_1_20' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>20</td>
+    <td id='cab7_2027_1_21' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>21</td>
+    <td id='cab7_2027_1_22' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>22</td>
+    <td id='cab7_2027_1_23' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>23</td>
   </tr>
   <tr>
-    <td id='cab7_2027_1_24'>24</td>
-    <td id='cab7_2027_1_25'>25</td>
-    <td id='cab7_2027_1_26'>26</td>
-    <td id='cab7_2027_1_27'>27</td>
-    <td id='cab7_2027_1_28'>28</td>
-    <td id='cab7_2027_1_29'>29</td>
-    <td id='cab7_2027_1_30'>30</td>
+    <td id='cab7_2027_1_24' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>24</td>
+    <td id='cab7_2027_1_25' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>25</td>
+    <td id='cab7_2027_1_26' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>26</td>
+    <td id='cab7_2027_1_27' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>27</td>
+    <td id='cab7_2027_1_28' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>28</td>
+    <td id='cab7_2027_1_29' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>29</td>
+    <td id='cab7_2027_1_30' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>30</td>
   </tr>
   <tr>
-    <td id='cab7_2027_1_31'>31</td>
+    <td id='cab7_2027_1_31' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -9639,42 +9645,42 @@ END HIDDEN MONTHS -->
 <tbody>
   <tr>
     <td>&nbsp;</td>
-    <td id='cab7_2027_2_1'>1</td>
-    <td id='cab7_2027_2_2'>2</td>
-    <td id='cab7_2027_2_3'>3</td>
-    <td id='cab7_2027_2_4'>4</td>
-    <td id='cab7_2027_2_5'>5</td>
-    <td id='cab7_2027_2_6'>6</td>
+    <td id='cab7_2027_2_1' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>1</td>
+    <td id='cab7_2027_2_2' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>2</td>
+    <td id='cab7_2027_2_3' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>3</td>
+    <td id='cab7_2027_2_4' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>4</td>
+    <td id='cab7_2027_2_5' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>5</td>
+    <td id='cab7_2027_2_6' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>6</td>
   </tr>
   <tr>
-    <td id='cab7_2027_2_7'>7</td>
-    <td id='cab7_2027_2_8'>8</td>
-    <td id='cab7_2027_2_9'>9</td>
-    <td id='cab7_2027_2_10'>10</td>
-    <td id='cab7_2027_2_11'>11</td>
-    <td id='cab7_2027_2_12'>12</td>
-    <td id='cab7_2027_2_13'>13</td>
+    <td id='cab7_2027_2_7' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>7</td>
+    <td id='cab7_2027_2_8' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>8</td>
+    <td id='cab7_2027_2_9' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>9</td>
+    <td id='cab7_2027_2_10' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>10</td>
+    <td id='cab7_2027_2_11' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>11</td>
+    <td id='cab7_2027_2_12' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>12</td>
+    <td id='cab7_2027_2_13' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>13</td>
   </tr>
   <tr>
-    <td id='cab7_2027_2_14'>14</td>
-    <td id='cab7_2027_2_15'>15</td>
-    <td id='cab7_2027_2_16'>16</td>
-    <td id='cab7_2027_2_17'>17</td>
-    <td id='cab7_2027_2_18'>18</td>
-    <td id='cab7_2027_2_19'>19</td>
-    <td id='cab7_2027_2_20'>20</td>
+    <td id='cab7_2027_2_14' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>14</td>
+    <td id='cab7_2027_2_15' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>15</td>
+    <td id='cab7_2027_2_16' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>16</td>
+    <td id='cab7_2027_2_17' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>17</td>
+    <td id='cab7_2027_2_18' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>18</td>
+    <td id='cab7_2027_2_19' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>19</td>
+    <td id='cab7_2027_2_20' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>20</td>
   </tr>
   <tr>
-    <td id='cab7_2027_2_21'>21</td>
-    <td id='cab7_2027_2_22'>22</td>
-    <td id='cab7_2027_2_23'>23</td>
-    <td id='cab7_2027_2_24'>24</td>
-    <td id='cab7_2027_2_25'>25</td>
-    <td id='cab7_2027_2_26'>26</td>
-    <td id='cab7_2027_2_27'>27</td>
+    <td id='cab7_2027_2_21' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>21</td>
+    <td id='cab7_2027_2_22' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>22</td>
+    <td id='cab7_2027_2_23' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>23</td>
+    <td id='cab7_2027_2_24' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>24</td>
+    <td id='cab7_2027_2_25' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>25</td>
+    <td id='cab7_2027_2_26' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>26</td>
+    <td id='cab7_2027_2_27' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>27</td>
   </tr>
   <tr>
-    <td id='cab7_2027_2_28'>28</td>
+    <td id='cab7_2027_2_28' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>28</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
