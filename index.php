@@ -2255,7 +2255,7 @@ function setCalendarHints(){
 #cab1_2026_11_9 {
     background-color: #99DDCC;
 }
-/* Cabana 7 bloqueada todo el verano (Dic 2026 - Feb 2027) para Walter, empleado. No asignar reservas. */
+/* Cabana 7 bloqueada todo el verano (Nov 2026 - Feb 2027) para Walter, empleado. No asignar reservas. */
 .month-table td.bloqueada {
     background-color: #BBBBBB;
     color: #666666;
@@ -2266,7 +2266,7 @@ function setCalendarHints(){
 <body onload='setCalendarHints();'>
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 1<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
-<!-- HIDDEN MONTHS: Nov 2025 - Sep 2026 (preserved for historical data)
+<!-- HIDDEN MONTHS: Nov 2025 - Oct 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -2992,8 +2992,6 @@ function setCalendarHints(){
   </tr>
 </tbody>
 </table>
-END HIDDEN MONTHS -->
-
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -3057,6 +3055,7 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -3329,7 +3328,7 @@ END HIDDEN MONTHS -->
 </div>
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 2<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
-<!-- HIDDEN MONTHS: Nov 2025 - Sep 2026 (preserved for historical data)
+<!-- HIDDEN MONTHS: Nov 2025 - Oct 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -4055,8 +4054,6 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
-END HIDDEN MONTHS -->
-
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -4120,6 +4117,7 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -4390,7 +4388,7 @@ END HIDDEN MONTHS -->
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 3<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
-<!-- HIDDEN MONTHS: Nov 2025 - Sep 2026 (preserved for historical data)
+<!-- HIDDEN MONTHS: Nov 2025 - Oct 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -5116,8 +5114,6 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
-END HIDDEN MONTHS -->
-
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -5181,6 +5177,7 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -5451,7 +5448,7 @@ END HIDDEN MONTHS -->
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 4<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
-<!-- HIDDEN MONTHS: Nov 2025 - Sep 2026 (preserved for historical data)
+<!-- HIDDEN MONTHS: Nov 2025 - Oct 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -6177,8 +6174,6 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
-END HIDDEN MONTHS -->
-
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -6242,6 +6237,7 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -6512,7 +6508,7 @@ END HIDDEN MONTHS -->
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 5<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
-<!-- HIDDEN MONTHS: Nov 2025 - Sep 2026 (preserved for historical data)
+<!-- HIDDEN MONTHS: Nov 2025 - Oct 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -7238,8 +7234,6 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
-END HIDDEN MONTHS -->
-
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -7303,6 +7297,7 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -7573,7 +7568,7 @@ END HIDDEN MONTHS -->
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 6<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
-<!-- HIDDEN MONTHS: Nov 2025 - Sep 2026 (preserved for historical data)
+<!-- HIDDEN MONTHS: Nov 2025 - Oct 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -8299,8 +8294,6 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
-END HIDDEN MONTHS -->
-
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -8364,6 +8357,7 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -8634,7 +8628,7 @@ END HIDDEN MONTHS -->
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 7 &mdash; BLOQUEADA VERANO (Walter)<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
-<!-- HIDDEN MONTHS: Nov 2025 - Sep 2026 (preserved for historical data)
+<!-- HIDDEN MONTHS: Nov 2025 - Oct 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -9360,8 +9354,6 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
-END HIDDEN MONTHS -->
-
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -9425,6 +9417,7 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
@@ -9443,44 +9436,44 @@ END HIDDEN MONTHS -->
 </thead>
 <tbody>
   <tr>
-    <td id='cab7_2026_11_1'>1</td>
-    <td id='cab7_2026_11_2'>2</td>
-    <td id='cab7_2026_11_3'>3</td>
-    <td id='cab7_2026_11_4'>4</td>
-    <td id='cab7_2026_11_5'>5</td>
-    <td id='cab7_2026_11_6'>6</td>
-    <td id='cab7_2026_11_7'>7</td>
+    <td id='cab7_2026_11_1' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>1</td>
+    <td id='cab7_2026_11_2' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>2</td>
+    <td id='cab7_2026_11_3' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>3</td>
+    <td id='cab7_2026_11_4' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>4</td>
+    <td id='cab7_2026_11_5' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>5</td>
+    <td id='cab7_2026_11_6' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>6</td>
+    <td id='cab7_2026_11_7' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>7</td>
   </tr>
   <tr>
-    <td id='cab7_2026_11_8'>8</td>
-    <td id='cab7_2026_11_9'>9</td>
-    <td id='cab7_2026_11_10'>10</td>
-    <td id='cab7_2026_11_11'>11</td>
-    <td id='cab7_2026_11_12'>12</td>
-    <td id='cab7_2026_11_13'>13</td>
-    <td id='cab7_2026_11_14'>14</td>
+    <td id='cab7_2026_11_8' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>8</td>
+    <td id='cab7_2026_11_9' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>9</td>
+    <td id='cab7_2026_11_10' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>10</td>
+    <td id='cab7_2026_11_11' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>11</td>
+    <td id='cab7_2026_11_12' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>12</td>
+    <td id='cab7_2026_11_13' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>13</td>
+    <td id='cab7_2026_11_14' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>14</td>
   </tr>
   <tr>
-    <td id='cab7_2026_11_15'>15</td>
-    <td id='cab7_2026_11_16'>16</td>
-    <td id='cab7_2026_11_17'>17</td>
-    <td id='cab7_2026_11_18'>18</td>
-    <td id='cab7_2026_11_19'>19</td>
-    <td id='cab7_2026_11_20'>20</td>
-    <td id='cab7_2026_11_21'>21</td>
+    <td id='cab7_2026_11_15' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>15</td>
+    <td id='cab7_2026_11_16' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>16</td>
+    <td id='cab7_2026_11_17' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>17</td>
+    <td id='cab7_2026_11_18' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>18</td>
+    <td id='cab7_2026_11_19' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>19</td>
+    <td id='cab7_2026_11_20' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>20</td>
+    <td id='cab7_2026_11_21' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>21</td>
   </tr>
   <tr>
-    <td id='cab7_2026_11_22'>22</td>
-    <td id='cab7_2026_11_23'>23</td>
-    <td id='cab7_2026_11_24'>24</td>
-    <td id='cab7_2026_11_25'>25</td>
-    <td id='cab7_2026_11_26'>26</td>
-    <td id='cab7_2026_11_27'>27</td>
-    <td id='cab7_2026_11_28'>28</td>
+    <td id='cab7_2026_11_22' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>22</td>
+    <td id='cab7_2026_11_23' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>23</td>
+    <td id='cab7_2026_11_24' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>24</td>
+    <td id='cab7_2026_11_25' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>25</td>
+    <td id='cab7_2026_11_26' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>26</td>
+    <td id='cab7_2026_11_27' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>27</td>
+    <td id='cab7_2026_11_28' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>28</td>
   </tr>
   <tr>
-    <td id='cab7_2026_11_29'>29</td>
-    <td id='cab7_2026_11_30'>30</td>
+    <td id='cab7_2026_11_29' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>29</td>
+    <td id='cab7_2026_11_30' title='BLOQUEADA - Walter (empleado) - no disponible en verano' class='bloqueada'>30</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -9695,7 +9688,7 @@ END HIDDEN MONTHS -->
 
 <div style='{ background-color: #DDDDDD; text-align: center; clear: both; }'><hr style=' { clear: both; width: 100%;} '/>Caba&ntilde;a 8<hr style=' { clear: both; width: 100%;} '/></div>
 <div class='months-container'>
-<!-- HIDDEN MONTHS: Nov 2025 - Sep 2026 (preserved for historical data)
+<!-- HIDDEN MONTHS: Nov 2025 - Oct 2026 (preserved for historical data)
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -10421,8 +10414,6 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
-END HIDDEN MONTHS -->
-
 <table border='1' class='month-table'>
 <thead>
   <tr>
@@ -10486,6 +10477,7 @@ END HIDDEN MONTHS -->
   </tr>
 </tbody>
 </table>
+END HIDDEN MONTHS -->
 
 <table border='1' class='month-table'>
 <thead>
