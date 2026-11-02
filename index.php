@@ -2297,6 +2297,30 @@ function setCalendarHints(){
 #cab6_2026_11_8 {
     background-color: #CCFFCC;
 }
+#cab1_2027_1_11 {
+    background-color: #CC99FF;
+}
+#cab1_2027_1_12 {
+    background-color: #CC99FF;
+}
+#cab1_2027_1_13 {
+    background-color: #CC99FF;
+}
+#cab1_2027_1_14 {
+    background-color: #CC99FF;
+}
+#cab1_2027_1_15 {
+    background-color: #CC99FF;
+}
+#cab1_2027_1_16 {
+    background-color: #CC99FF;
+}
+#cab1_2027_1_17 {
+    background-color: #CC99FF;
+}
+#cab1_2027_1_18 {
+    background-color: #CC99FF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3257,16 +3281,16 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab1_2027_1_10'>10</td>
-    <td id='cab1_2027_1_11'>11</td>
-    <td id='cab1_2027_1_12'>12</td>
-    <td id='cab1_2027_1_13'>13</td>
-    <td id='cab1_2027_1_14'>14</td>
-    <td id='cab1_2027_1_15'>15</td>
-    <td id='cab1_2027_1_16'>16</td>
+    <td id='cab1_2027_1_11' title='Ponte Romina (4) (factura C)'>11</td>
+    <td id='cab1_2027_1_12' title='Ponte Romina (4) (factura C)'>12</td>
+    <td id='cab1_2027_1_13' title='Ponte Romina (4) (factura C)'>13</td>
+    <td id='cab1_2027_1_14' title='Ponte Romina (4) (factura C)'>14</td>
+    <td id='cab1_2027_1_15' title='Ponte Romina (4) (factura C)'>15</td>
+    <td id='cab1_2027_1_16' title='Ponte Romina (4) (factura C)'>16</td>
   </tr>
   <tr>
-    <td id='cab1_2027_1_17'>17</td>
-    <td id='cab1_2027_1_18'>18</td>
+    <td id='cab1_2027_1_17' title='Ponte Romina (4) (factura C)'>17</td>
+    <td id='cab1_2027_1_18' title='Ponte Romina (4) (factura C)'>18</td>
     <td id='cab1_2027_1_19' title='Faure Fabricio (4)'>19</td>
     <td id='cab1_2027_1_20' title='Faure Fabricio (4)'>20</td>
     <td id='cab1_2027_1_21' title='Faure Fabricio (4)'>21</td>
