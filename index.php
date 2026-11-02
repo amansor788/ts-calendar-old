@@ -2261,6 +2261,36 @@ function setCalendarHints(){
     color: #666666;
     text-decoration: line-through;
 }
+#cab4_2027_1_5 {
+    background-color: #FFAACC;
+}
+#cab4_2027_1_6 {
+    background-color: #FFAACC;
+}
+#cab4_2027_1_7 {
+    background-color: #FFAACC;
+}
+#cab4_2027_1_8 {
+    background-color: #FFAACC;
+}
+#cab4_2027_1_9 {
+    background-color: #FFAACC;
+}
+#cab4_2027_1_10 {
+    background-color: #FFAACC;
+}
+#cab4_2027_1_11 {
+    background-color: #FFAACC;
+}
+#cab4_2027_1_12 {
+    background-color: #FFAACC;
+}
+#cab4_2027_1_13 {
+    background-color: #FFAACC;
+}
+#cab4_2027_1_14 {
+    background-color: #FFAACC;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -6395,18 +6425,18 @@ END HIDDEN MONTHS -->
   <tr>
     <td id='cab4_2027_1_3'>3</td>
     <td id='cab4_2027_1_4'>4</td>
-    <td id='cab4_2027_1_5'>5</td>
-    <td id='cab4_2027_1_6'>6</td>
-    <td id='cab4_2027_1_7'>7</td>
-    <td id='cab4_2027_1_8'>8</td>
-    <td id='cab4_2027_1_9'>9</td>
+    <td id='cab4_2027_1_5' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>5</td>
+    <td id='cab4_2027_1_6' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>6</td>
+    <td id='cab4_2027_1_7' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>7</td>
+    <td id='cab4_2027_1_8' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>8</td>
+    <td id='cab4_2027_1_9' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>9</td>
   </tr>
   <tr>
-    <td id='cab4_2027_1_10'>10</td>
-    <td id='cab4_2027_1_11'>11</td>
-    <td id='cab4_2027_1_12'>12</td>
-    <td id='cab4_2027_1_13'>13</td>
-    <td id='cab4_2027_1_14'>14</td>
+    <td id='cab4_2027_1_10' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>10</td>
+    <td id='cab4_2027_1_11' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>11</td>
+    <td id='cab4_2027_1_12' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>12</td>
+    <td id='cab4_2027_1_13' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>13</td>
+    <td id='cab4_2027_1_14' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>14</td>
     <td id='cab4_2027_1_15'>15</td>
     <td id='cab4_2027_1_16'>16</td>
   </tr>
