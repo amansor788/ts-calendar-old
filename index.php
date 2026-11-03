@@ -2327,6 +2327,27 @@ function setCalendarHints(){
 #cab1_2026_11_14 {
     background-color: #FFBB99;
 }
+#cab4_2027_1_18 {
+    background-color: #AADDFF;
+}
+#cab4_2027_1_19 {
+    background-color: #AADDFF;
+}
+#cab4_2027_1_20 {
+    background-color: #AADDFF;
+}
+#cab4_2027_1_21 {
+    background-color: #AADDFF;
+}
+#cab4_2027_1_22 {
+    background-color: #AADDFF;
+}
+#cab4_2027_1_23 {
+    background-color: #AADDFF;
+}
+#cab4_2027_1_24 {
+    background-color: #AADDFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -6478,15 +6499,15 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab4_2027_1_17'>17</td>
-    <td id='cab4_2027_1_18'>18</td>
-    <td id='cab4_2027_1_19'>19</td>
-    <td id='cab4_2027_1_20'>20</td>
-    <td id='cab4_2027_1_21'>21</td>
-    <td id='cab4_2027_1_22'>22</td>
-    <td id='cab4_2027_1_23'>23</td>
+    <td id='cab4_2027_1_18' title='Martinez Micaela (4)'>18</td>
+    <td id='cab4_2027_1_19' title='Martinez Micaela (4)'>19</td>
+    <td id='cab4_2027_1_20' title='Martinez Micaela (4)'>20</td>
+    <td id='cab4_2027_1_21' title='Martinez Micaela (4)'>21</td>
+    <td id='cab4_2027_1_22' title='Martinez Micaela (4)'>22</td>
+    <td id='cab4_2027_1_23' title='Martinez Micaela (4)'>23</td>
   </tr>
   <tr>
-    <td id='cab4_2027_1_24'>24</td>
+    <td id='cab4_2027_1_24' title='Martinez Micaela (4)'>24</td>
     <td id='cab4_2027_1_25'>25</td>
     <td id='cab4_2027_1_26'>26</td>
     <td id='cab4_2027_1_27'>27</td>
