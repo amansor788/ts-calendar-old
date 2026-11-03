@@ -2348,6 +2348,15 @@ function setCalendarHints(){
 #cab4_2027_1_24 {
     background-color: #AADDFF;
 }
+#cab2_2026_11_7 {
+    background-color: #FFCCFF;
+}
+#cab2_2026_11_8 {
+    background-color: #FFCCFF;
+}
+#cab2_2026_11_9 {
+    background-color: #FFCCFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -4229,11 +4238,11 @@ END HIDDEN MONTHS -->
     <td id='cab2_2026_11_4'>4</td>
     <td id='cab2_2026_11_5'>5</td>
     <td id='cab2_2026_11_6'>6</td>
-    <td id='cab2_2026_11_7'>7</td>
+    <td id='cab2_2026_11_7' title='Gorostidi Carolina (3) (con mascota)'>7</td>
   </tr>
   <tr>
-    <td id='cab2_2026_11_8'>8</td>
-    <td id='cab2_2026_11_9'>9</td>
+    <td id='cab2_2026_11_8' title='Gorostidi Carolina (3) (con mascota)'>8</td>
+    <td id='cab2_2026_11_9' title='Gorostidi Carolina (3) (con mascota)'>9</td>
     <td id='cab2_2026_11_10'>10</td>
     <td id='cab2_2026_11_11'>11</td>
     <td id='cab2_2026_11_12'>12</td>
