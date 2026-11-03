@@ -2321,6 +2321,12 @@ function setCalendarHints(){
 #cab1_2027_1_18 {
     background-color: #CC99FF;
 }
+#cab1_2026_11_13 {
+    background-color: #FFBB99;
+}
+#cab1_2026_11_14 {
+    background-color: #FFBB99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3148,8 +3154,8 @@ END HIDDEN MONTHS -->
     <td id='cab1_2026_11_10'>10</td>
     <td id='cab1_2026_11_11'>11</td>
     <td id='cab1_2026_11_12'>12</td>
-    <td id='cab1_2026_11_13'>13</td>
-    <td id='cab1_2026_11_14'>14</td>
+    <td id='cab1_2026_11_13' title='Silvestri Maria Celeste (3)'>13</td>
+    <td id='cab1_2026_11_14' title='Silvestri Maria Celeste (3)'>14</td>
   </tr>
   <tr>
     <td id='cab1_2026_11_15'>15</td>
