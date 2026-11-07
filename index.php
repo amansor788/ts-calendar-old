@@ -2399,6 +2399,15 @@ function setCalendarHints(){
 #cab6_2027_1_16 {
     background-color: #FFAA66;
 }
+#cab6_2026_11_20 {
+    background-color: #99CCFF;
+}
+#cab6_2026_11_21 {
+    background-color: #99CCFF;
+}
+#cab6_2026_11_22 {
+    background-color: #99CCFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -8537,11 +8546,11 @@ END HIDDEN MONTHS -->
     <td id='cab6_2026_11_17'>17</td>
     <td id='cab6_2026_11_18'>18</td>
     <td id='cab6_2026_11_19'>19</td>
-    <td id='cab6_2026_11_20'>20</td>
-    <td id='cab6_2026_11_21'>21</td>
+    <td id='cab6_2026_11_20' title='Chenna Lucila (2)'>20</td>
+    <td id='cab6_2026_11_21' title='Chenna Lucila (2)'>21</td>
   </tr>
   <tr>
-    <td id='cab6_2026_11_22'>22</td>
+    <td id='cab6_2026_11_22' title='Chenna Lucila (2)'>22</td>
     <td id='cab6_2026_11_23'>23</td>
     <td id='cab6_2026_11_24'>24</td>
     <td id='cab6_2026_11_25'>25</td>
