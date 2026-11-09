@@ -2408,6 +2408,24 @@ function setCalendarHints(){
 #cab6_2026_11_22 {
     background-color: #99CCFF;
 }
+#cab3_2027_1_24 {
+    background-color: #99DDBB;
+}
+#cab3_2027_1_25 {
+    background-color: #99DDBB;
+}
+#cab3_2027_1_26 {
+    background-color: #99DDBB;
+}
+#cab3_2027_1_27 {
+    background-color: #99DDBB;
+}
+#cab3_2027_1_28 {
+    background-color: #99DDBB;
+}
+#cab3_2027_1_29 {
+    background-color: #99DDBB;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -5507,12 +5525,12 @@ END HIDDEN MONTHS -->
     <td id='cab3_2027_1_23' title='Peragallo Paula (4) (es cliente - cab 3)'>23</td>
   </tr>
   <tr>
-    <td id='cab3_2027_1_24'>24</td>
-    <td id='cab3_2027_1_25'>25</td>
-    <td id='cab3_2027_1_26'>26</td>
-    <td id='cab3_2027_1_27'>27</td>
-    <td id='cab3_2027_1_28'>28</td>
-    <td id='cab3_2027_1_29'>29</td>
+    <td id='cab3_2027_1_24' title='Romero Luis (4) (es cliente)'>24</td>
+    <td id='cab3_2027_1_25' title='Romero Luis (4) (es cliente)'>25</td>
+    <td id='cab3_2027_1_26' title='Romero Luis (4) (es cliente)'>26</td>
+    <td id='cab3_2027_1_27' title='Romero Luis (4) (es cliente)'>27</td>
+    <td id='cab3_2027_1_28' title='Romero Luis (4) (es cliente)'>28</td>
+    <td id='cab3_2027_1_29' title='Romero Luis (4) (es cliente)'>29</td>
     <td id='cab3_2027_1_30'>30</td>
   </tr>
   <tr>
