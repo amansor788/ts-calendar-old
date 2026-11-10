@@ -2426,6 +2426,33 @@ function setCalendarHints(){
 #cab3_2027_1_29 {
     background-color: #99DDBB;
 }
+#cab5_2026_12_5 {
+    background-color: #FFDD99;
+}
+#cab5_2026_12_6 {
+    background-color: #FFDD99;
+}
+#cab5_2026_12_7 {
+    background-color: #FFDD99;
+}
+#cab6_2026_12_5 {
+    background-color: #FFDD99;
+}
+#cab6_2026_12_6 {
+    background-color: #FFDD99;
+}
+#cab6_2026_12_7 {
+    background-color: #FFDD99;
+}
+#cab8_2026_12_5 {
+    background-color: #FFDD99;
+}
+#cab8_2026_12_6 {
+    background-color: #FFDD99;
+}
+#cab8_2026_12_7 {
+    background-color: #FFDD99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -7551,11 +7578,11 @@ END HIDDEN MONTHS -->
     <td id='cab5_2026_12_2'>2</td>
     <td id='cab5_2026_12_3'>3</td>
     <td id='cab5_2026_12_4'>4</td>
-    <td id='cab5_2026_12_5'>5</td>
+    <td id='cab5_2026_12_5' title='Tomasi Daniel (2)'>5</td>
   </tr>
   <tr>
-    <td id='cab5_2026_12_6'>6</td>
-    <td id='cab5_2026_12_7'>7</td>
+    <td id='cab5_2026_12_6' title='Tomasi Daniel (2)'>6</td>
+    <td id='cab5_2026_12_7' title='Tomasi Daniel (2)'>7</td>
     <td id='cab5_2026_12_8'>8</td>
     <td id='cab5_2026_12_9'>9</td>
     <td id='cab5_2026_12_10'>10</td>
@@ -8611,11 +8638,11 @@ END HIDDEN MONTHS -->
     <td id='cab6_2026_12_2'>2</td>
     <td id='cab6_2026_12_3'>3</td>
     <td id='cab6_2026_12_4'>4</td>
-    <td id='cab6_2026_12_5'>5</td>
+    <td id='cab6_2026_12_5' title='Tomasi Daniel (2)'>5</td>
   </tr>
   <tr>
-    <td id='cab6_2026_12_6'>6</td>
-    <td id='cab6_2026_12_7'>7</td>
+    <td id='cab6_2026_12_6' title='Tomasi Daniel (2)'>6</td>
+    <td id='cab6_2026_12_7' title='Tomasi Daniel (2)'>7</td>
     <td id='cab6_2026_12_8'>8</td>
     <td id='cab6_2026_12_9'>9</td>
     <td id='cab6_2026_12_10'>10</td>
@@ -10731,11 +10758,11 @@ END HIDDEN MONTHS -->
     <td id='cab8_2026_12_2'>2</td>
     <td id='cab8_2026_12_3'>3</td>
     <td id='cab8_2026_12_4'>4</td>
-    <td id='cab8_2026_12_5'>5</td>
+    <td id='cab8_2026_12_5' title='Tomasi Daniel (2)'>5</td>
   </tr>
   <tr>
-    <td id='cab8_2026_12_6'>6</td>
-    <td id='cab8_2026_12_7'>7</td>
+    <td id='cab8_2026_12_6' title='Tomasi Daniel (2)'>6</td>
+    <td id='cab8_2026_12_7' title='Tomasi Daniel (2)'>7</td>
     <td id='cab8_2026_12_8'>8</td>
     <td id='cab8_2026_12_9'>9</td>
     <td id='cab8_2026_12_10'>10</td>
