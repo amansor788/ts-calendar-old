@@ -2453,6 +2453,27 @@ function setCalendarHints(){
 #cab8_2026_12_7 {
     background-color: #FFDD99;
 }
+#cab6_2027_1_23 {
+    background-color: #CCAAFF;
+}
+#cab6_2027_1_24 {
+    background-color: #CCAAFF;
+}
+#cab6_2027_1_25 {
+    background-color: #CCAAFF;
+}
+#cab6_2027_1_26 {
+    background-color: #CCAAFF;
+}
+#cab6_2027_1_27 {
+    background-color: #CCAAFF;
+}
+#cab6_2027_1_28 {
+    background-color: #CCAAFF;
+}
+#cab6_2027_1_29 {
+    background-color: #CCAAFF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -8729,15 +8750,15 @@ END HIDDEN MONTHS -->
     <td id='cab6_2027_1_20'>20</td>
     <td id='cab6_2027_1_21'>21</td>
     <td id='cab6_2027_1_22'>22</td>
-    <td id='cab6_2027_1_23'>23</td>
+    <td id='cab6_2027_1_23' title='Barraza Maria Laura (2) (es cliente (2022))'>23</td>
   </tr>
   <tr>
-    <td id='cab6_2027_1_24'>24</td>
-    <td id='cab6_2027_1_25'>25</td>
-    <td id='cab6_2027_1_26'>26</td>
-    <td id='cab6_2027_1_27'>27</td>
-    <td id='cab6_2027_1_28'>28</td>
-    <td id='cab6_2027_1_29'>29</td>
+    <td id='cab6_2027_1_24' title='Barraza Maria Laura (2) (es cliente (2022))'>24</td>
+    <td id='cab6_2027_1_25' title='Barraza Maria Laura (2) (es cliente (2022))'>25</td>
+    <td id='cab6_2027_1_26' title='Barraza Maria Laura (2) (es cliente (2022))'>26</td>
+    <td id='cab6_2027_1_27' title='Barraza Maria Laura (2) (es cliente (2022))'>27</td>
+    <td id='cab6_2027_1_28' title='Barraza Maria Laura (2) (es cliente (2022))'>28</td>
+    <td id='cab6_2027_1_29' title='Barraza Maria Laura (2) (es cliente (2022))'>29</td>
     <td id='cab6_2027_1_30'>30</td>
   </tr>
   <tr>
