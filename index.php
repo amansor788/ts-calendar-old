@@ -2474,6 +2474,15 @@ function setCalendarHints(){
 #cab6_2027_1_29 {
     background-color: #CCAAFF;
 }
+#cab2_2026_12_24 {
+    background-color: #FF9999;
+}
+#cab2_2026_12_25 {
+    background-color: #FF9999;
+}
+#cab2_2026_12_26 {
+    background-color: #FF9999;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -4444,9 +4453,9 @@ END HIDDEN MONTHS -->
     <td id='cab2_2026_12_21'>21</td>
     <td id='cab2_2026_12_22'>22</td>
     <td id='cab2_2026_12_23'>23</td>
-    <td id='cab2_2026_12_24'>24</td>
-    <td id='cab2_2026_12_25'>25</td>
-    <td id='cab2_2026_12_26'>26</td>
+    <td id='cab2_2026_12_24' title='Boero German (5)'>24</td>
+    <td id='cab2_2026_12_25' title='Boero German (5)'>25</td>
+    <td id='cab2_2026_12_26' title='Boero German (5)'>26</td>
   </tr>
   <tr>
     <td id='cab2_2026_12_27'>27</td>
