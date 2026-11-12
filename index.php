@@ -2498,6 +2498,30 @@ function setCalendarHints(){
 #cab1_2026_12_7 {
     background-color: #99EEBB;
 }
+#cab1_2027_2_2 {
+    background-color: #FFCC99;
+}
+#cab1_2027_2_3 {
+    background-color: #FFCC99;
+}
+#cab1_2027_2_4 {
+    background-color: #FFCC99;
+}
+#cab1_2027_2_5 {
+    background-color: #FFCC99;
+}
+#cab1_2027_2_6 {
+    background-color: #FFCC99;
+}
+#cab1_2027_2_7 {
+    background-color: #FFCC99;
+}
+#cab1_2027_2_8 {
+    background-color: #FFCC99;
+}
+#cab1_2027_2_9 {
+    background-color: #FFCC99;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3514,16 +3538,16 @@ END HIDDEN MONTHS -->
   <tr>
     <td>&nbsp;</td>
     <td id='cab1_2027_2_1' title='Furke Damian (1)'>1</td>
-    <td id='cab1_2027_2_2'>2</td>
-    <td id='cab1_2027_2_3'>3</td>
-    <td id='cab1_2027_2_4'>4</td>
-    <td id='cab1_2027_2_5'>5</td>
-    <td id='cab1_2027_2_6'>6</td>
+    <td id='cab1_2027_2_2' title='Fazzioli Nicolas (4)'>2</td>
+    <td id='cab1_2027_2_3' title='Fazzioli Nicolas (4)'>3</td>
+    <td id='cab1_2027_2_4' title='Fazzioli Nicolas (4)'>4</td>
+    <td id='cab1_2027_2_5' title='Fazzioli Nicolas (4)'>5</td>
+    <td id='cab1_2027_2_6' title='Fazzioli Nicolas (4)'>6</td>
   </tr>
   <tr>
-    <td id='cab1_2027_2_7'>7</td>
-    <td id='cab1_2027_2_8'>8</td>
-    <td id='cab1_2027_2_9'>9</td>
+    <td id='cab1_2027_2_7' title='Fazzioli Nicolas (4)'>7</td>
+    <td id='cab1_2027_2_8' title='Fazzioli Nicolas (4)'>8</td>
+    <td id='cab1_2027_2_9' title='Fazzioli Nicolas (4)'>9</td>
     <td id='cab1_2027_2_10'>10</td>
     <td id='cab1_2027_2_11'>11</td>
     <td id='cab1_2027_2_12'>12</td>
