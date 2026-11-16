@@ -2534,6 +2534,27 @@ function setCalendarHints(){
 #cab2_2026_11_16 {
     background-color: #66B3FF;
 }
+#cab1_2026_12_27 {
+    background-color: #FFB347;
+}
+#cab1_2026_12_28 {
+    background-color: #FFB347;
+}
+#cab1_2026_12_29 {
+    background-color: #FFB347;
+}
+#cab1_2026_12_30 {
+    background-color: #FFB347;
+}
+#cab1_2026_12_31 {
+    background-color: #FFB347;
+}
+#cab1_2027_1_1 {
+    background-color: #FFB347;
+}
+#cab1_2027_1_2 {
+    background-color: #FFB347;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3447,11 +3468,11 @@ END HIDDEN MONTHS -->
     <td id='cab1_2026_12_26'>26</td>
   </tr>
   <tr>
-    <td id='cab1_2026_12_27'>27</td>
-    <td id='cab1_2026_12_28'>28</td>
-    <td id='cab1_2026_12_29'>29</td>
-    <td id='cab1_2026_12_30'>30</td>
-    <td id='cab1_2026_12_31'>31</td>
+    <td id='cab1_2026_12_27' title='Bolanio Jorge (4)'>27</td>
+    <td id='cab1_2026_12_28' title='Bolanio Jorge (4)'>28</td>
+    <td id='cab1_2026_12_29' title='Bolanio Jorge (4)'>29</td>
+    <td id='cab1_2026_12_30' title='Bolanio Jorge (4)'>30</td>
+    <td id='cab1_2026_12_31' title='Bolanio Jorge (4)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
@@ -3480,8 +3501,8 @@ END HIDDEN MONTHS -->
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab1_2027_1_1'>1</td>
-    <td id='cab1_2027_1_2'>2</td>
+    <td id='cab1_2027_1_1' title='Bolanio Jorge (4)'>1</td>
+    <td id='cab1_2027_1_2' title='Bolanio Jorge (4)'>2</td>
   </tr>
   <tr>
     <td id='cab1_2027_1_3' title='Monsalvo Jose (4)'>3</td>
