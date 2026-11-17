@@ -2555,6 +2555,24 @@ function setCalendarHints(){
 #cab1_2027_1_2 {
     background-color: #FFB347;
 }
+#cab4_2026_12_30 {
+    background-color: #B5EAD7;
+}
+#cab4_2026_12_31 {
+    background-color: #B5EAD7;
+}
+#cab4_2027_1_1 {
+    background-color: #B5EAD7;
+}
+#cab4_2027_1_2 {
+    background-color: #B5EAD7;
+}
+#cab4_2027_1_3 {
+    background-color: #B5EAD7;
+}
+#cab4_2027_1_4 {
+    background-color: #B5EAD7;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -6653,8 +6671,8 @@ END HIDDEN MONTHS -->
     <td id='cab4_2026_12_27'>27</td>
     <td id='cab4_2026_12_28'>28</td>
     <td id='cab4_2026_12_29'>29</td>
-    <td id='cab4_2026_12_30'>30</td>
-    <td id='cab4_2026_12_31'>31</td>
+    <td id='cab4_2026_12_30' title='Vazquez Marcelo (2) (con mascota)'>30</td>
+    <td id='cab4_2026_12_31' title='Vazquez Marcelo (2) (con mascota)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
@@ -6683,12 +6701,12 @@ END HIDDEN MONTHS -->
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab4_2027_1_1'>1</td>
-    <td id='cab4_2027_1_2'>2</td>
+    <td id='cab4_2027_1_1' title='Vazquez Marcelo (2) (con mascota)'>1</td>
+    <td id='cab4_2027_1_2' title='Vazquez Marcelo (2) (con mascota)'>2</td>
   </tr>
   <tr>
-    <td id='cab4_2027_1_3'>3</td>
-    <td id='cab4_2027_1_4'>4</td>
+    <td id='cab4_2027_1_3' title='Vazquez Marcelo (2) (con mascota)'>3</td>
+    <td id='cab4_2027_1_4' title='Vazquez Marcelo (2) (con mascota)'>4</td>
     <td id='cab4_2027_1_5' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>5</td>
     <td id='cab4_2027_1_6' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>6</td>
     <td id='cab4_2027_1_7' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>7</td>
