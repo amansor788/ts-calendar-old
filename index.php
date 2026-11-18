@@ -2580,22 +2580,22 @@ function setCalendarHints(){
     background-color: #C7CEEA;
 }
 #cab3_2026_12_30 {
-    background-color: #FFDAC1;
+    background-color: #8EC5FF;
 }
 #cab3_2026_12_31 {
-    background-color: #FFDAC1;
+    background-color: #8EC5FF;
 }
 #cab3_2027_1_1 {
-    background-color: #FFDAC1;
+    background-color: #8EC5FF;
 }
 #cab3_2027_1_2 {
-    background-color: #FFDAC1;
+    background-color: #8EC5FF;
 }
 #cab3_2027_1_3 {
-    background-color: #FFDAC1;
+    background-color: #8EC5FF;
 }
 #cab3_2027_1_4 {
-    background-color: #FFDAC1;
+    background-color: #8EC5FF;
 }
 </style>
 </head>
