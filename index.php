@@ -2579,6 +2579,24 @@ function setCalendarHints(){
 #cab1_2026_11_22 {
     background-color: #C7CEEA;
 }
+#cab3_2026_12_30 {
+    background-color: #FFDAC1;
+}
+#cab3_2026_12_31 {
+    background-color: #FFDAC1;
+}
+#cab3_2027_1_1 {
+    background-color: #FFDAC1;
+}
+#cab3_2027_1_2 {
+    background-color: #FFDAC1;
+}
+#cab3_2027_1_3 {
+    background-color: #FFDAC1;
+}
+#cab3_2027_1_4 {
+    background-color: #FFDAC1;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -5617,8 +5635,8 @@ END HIDDEN MONTHS -->
     <td id='cab3_2026_12_27'>27</td>
     <td id='cab3_2026_12_28'>28</td>
     <td id='cab3_2026_12_29'>29</td>
-    <td id='cab3_2026_12_30'>30</td>
-    <td id='cab3_2026_12_31'>31</td>
+    <td id='cab3_2026_12_30' title='Avila Jeremias (4)'>30</td>
+    <td id='cab3_2026_12_31' title='Avila Jeremias (4)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
@@ -5647,12 +5665,12 @@ END HIDDEN MONTHS -->
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab3_2027_1_1'>1</td>
-    <td id='cab3_2027_1_2'>2</td>
+    <td id='cab3_2027_1_1' title='Avila Jeremias (4)'>1</td>
+    <td id='cab3_2027_1_2' title='Avila Jeremias (4)'>2</td>
   </tr>
   <tr>
-    <td id='cab3_2027_1_3'>3</td>
-    <td id='cab3_2027_1_4'>4</td>
+    <td id='cab3_2027_1_3' title='Avila Jeremias (4)'>3</td>
+    <td id='cab3_2027_1_4' title='Avila Jeremias (4)'>4</td>
     <td id='cab3_2027_1_5' title='Peragallo Paula (4) (es cliente - cab 3)'>5</td>
     <td id='cab3_2027_1_6' title='Peragallo Paula (4) (es cliente - cab 3)'>6</td>
     <td id='cab3_2027_1_7' title='Peragallo Paula (4) (es cliente - cab 3)'>7</td>
