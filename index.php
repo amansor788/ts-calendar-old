@@ -2522,12 +2522,6 @@ function setCalendarHints(){
 #cab1_2027_2_9 {
     background-color: #FFCC99;
 }
-#cab8_2026_11_21 {
-    background-color: #FF88AA;
-}
-#cab8_2026_11_22 {
-    background-color: #FF88AA;
-}
 #cab2_2026_11_15 {
     background-color: #66B3FF;
 }
@@ -2602,6 +2596,12 @@ function setCalendarHints(){
 }
 #cab3_2026_11_22 {
     background-color: #FFE066;
+}
+#cab2_2026_11_21 {
+    background-color: #FF88AA;
+}
+#cab2_2026_11_22 {
+    background-color: #FF88AA;
 }
 </style>
 </head>
@@ -4502,10 +4502,10 @@ END HIDDEN MONTHS -->
     <td id='cab2_2026_11_18'>18</td>
     <td id='cab2_2026_11_19'>19</td>
     <td id='cab2_2026_11_20'>20</td>
-    <td id='cab2_2026_11_21'>21</td>
+    <td id='cab2_2026_11_21' title='Brarda Analia (3)'>21</td>
   </tr>
   <tr>
-    <td id='cab2_2026_11_22'>22</td>
+    <td id='cab2_2026_11_22' title='Brarda Analia (3)'>22</td>
     <td id='cab2_2026_11_23'>23</td>
     <td id='cab2_2026_11_24'>24</td>
     <td id='cab2_2026_11_25'>25</td>
@@ -10862,10 +10862,10 @@ END HIDDEN MONTHS -->
     <td id='cab8_2026_11_18'>18</td>
     <td id='cab8_2026_11_19'>19</td>
     <td id='cab8_2026_11_20'>20</td>
-    <td id='cab8_2026_11_21' title='Brarda Analia (2)'>21</td>
+    <td id='cab8_2026_11_21'>21</td>
   </tr>
   <tr>
-    <td id='cab8_2026_11_22' title='Brarda Analia (2)'>22</td>
+    <td id='cab8_2026_11_22'>22</td>
     <td id='cab8_2026_11_23'>23</td>
     <td id='cab8_2026_11_24'>24</td>
     <td id='cab8_2026_11_25'>25</td>
