@@ -2612,6 +2612,36 @@ function setCalendarHints(){
 #cab1_2027_1_10 {
     background-color: #FFA98F;
 }
+#cab1_2026_12_17 {
+    background-color: #9FE0B0;
+}
+#cab1_2026_12_18 {
+    background-color: #9FE0B0;
+}
+#cab1_2026_12_19 {
+    background-color: #9FE0B0;
+}
+#cab1_2026_12_20 {
+    background-color: #9FE0B0;
+}
+#cab1_2026_12_21 {
+    background-color: #9FE0B0;
+}
+#cab1_2026_12_22 {
+    background-color: #9FE0B0;
+}
+#cab1_2026_12_23 {
+    background-color: #9FE0B0;
+}
+#cab1_2026_12_24 {
+    background-color: #9FE0B0;
+}
+#cab1_2026_12_25 {
+    background-color: #9FE0B0;
+}
+#cab1_2026_12_26 {
+    background-color: #9FE0B0;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3511,18 +3541,18 @@ END HIDDEN MONTHS -->
     <td id='cab1_2026_12_14'>14</td>
     <td id='cab1_2026_12_15'>15</td>
     <td id='cab1_2026_12_16'>16</td>
-    <td id='cab1_2026_12_17'>17</td>
-    <td id='cab1_2026_12_18'>18</td>
-    <td id='cab1_2026_12_19'>19</td>
+    <td id='cab1_2026_12_17' title='Pierini Alejandra (4) (es cliente)'>17</td>
+    <td id='cab1_2026_12_18' title='Pierini Alejandra (4) (es cliente)'>18</td>
+    <td id='cab1_2026_12_19' title='Pierini Alejandra (4) (es cliente)'>19</td>
   </tr>
   <tr>
-    <td id='cab1_2026_12_20'>20</td>
-    <td id='cab1_2026_12_21'>21</td>
-    <td id='cab1_2026_12_22'>22</td>
-    <td id='cab1_2026_12_23'>23</td>
-    <td id='cab1_2026_12_24'>24</td>
-    <td id='cab1_2026_12_25'>25</td>
-    <td id='cab1_2026_12_26'>26</td>
+    <td id='cab1_2026_12_20' title='Pierini Alejandra (4) (es cliente)'>20</td>
+    <td id='cab1_2026_12_21' title='Pierini Alejandra (4) (es cliente)'>21</td>
+    <td id='cab1_2026_12_22' title='Pierini Alejandra (4) (es cliente)'>22</td>
+    <td id='cab1_2026_12_23' title='Pierini Alejandra (4) (es cliente)'>23</td>
+    <td id='cab1_2026_12_24' title='Pierini Alejandra (4) (es cliente)'>24</td>
+    <td id='cab1_2026_12_25' title='Pierini Alejandra (4) (es cliente)'>25</td>
+    <td id='cab1_2026_12_26' title='Pierini Alejandra (4) (es cliente)'>26</td>
   </tr>
   <tr>
     <td id='cab1_2026_12_27' title='Bolanio Jorge (4)'>27</td>
