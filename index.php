@@ -2603,6 +2603,15 @@ function setCalendarHints(){
 #cab2_2026_11_22 {
     background-color: #FF88AA;
 }
+#cab1_2027_1_8 {
+    background-color: #FFA98F;
+}
+#cab1_2027_1_9 {
+    background-color: #FFA98F;
+}
+#cab1_2027_1_10 {
+    background-color: #FFA98F;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -3558,11 +3567,11 @@ END HIDDEN MONTHS -->
     <td id='cab1_2027_1_5' title='Monsalvo Jose (4)'>5</td>
     <td id='cab1_2027_1_6' title='Monsalvo Jose (4)'>6</td>
     <td id='cab1_2027_1_7' title='Monsalvo Jose (4)'>7</td>
-    <td id='cab1_2027_1_8'>8</td>
-    <td id='cab1_2027_1_9'>9</td>
+    <td id='cab1_2027_1_8' title='Munoz Santiago (3)'>8</td>
+    <td id='cab1_2027_1_9' title='Munoz Santiago (3)'>9</td>
   </tr>
   <tr>
-    <td id='cab1_2027_1_10'>10</td>
+    <td id='cab1_2027_1_10' title='Munoz Santiago (3)'>10</td>
     <td id='cab1_2027_1_11' title='Ponte Romina (4) (factura C)'>11</td>
     <td id='cab1_2027_1_12' title='Ponte Romina (4) (factura C)'>12</td>
     <td id='cab1_2027_1_13' title='Ponte Romina (4) (factura C)'>13</td>
