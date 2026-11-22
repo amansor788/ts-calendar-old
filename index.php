@@ -2159,18 +2159,6 @@ function setCalendarHints(){
 #cab3_2026_10_25 {
     background-color: #FFBBAA;
 }
-#cab8_2026_12_31 {
-    background-color: #AAFFCC;
-}
-#cab8_2027_1_1 {
-    background-color: #AAFFCC;
-}
-#cab8_2027_1_2 {
-    background-color: #AAFFCC;
-}
-#cab8_2027_1_3 {
-    background-color: #AAFFCC;
-}
 #cab1_2027_1_26 {
     background-color: #99FF99;
 }
@@ -2641,6 +2629,18 @@ function setCalendarHints(){
 }
 #cab1_2026_12_26 {
     background-color: #9FE0B0;
+}
+#cab5_2026_12_31 {
+    background-color: #AAFFCC;
+}
+#cab5_2027_1_1 {
+    background-color: #AAFFCC;
+}
+#cab5_2027_1_2 {
+    background-color: #AAFFCC;
+}
+#cab5_2027_1_3 {
+    background-color: #AAFFCC;
 }
 </style>
 </head>
@@ -7794,14 +7794,14 @@ END HIDDEN MONTHS -->
     <td id='cab5_2026_12_23'>23</td>
     <td id='cab5_2026_12_24'>24</td>
     <td id='cab5_2026_12_25'>25</td>
-    <td id='cab5_2026_12_26' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>26</td>
+    <td id='cab5_2026_12_26'>26</td>
   </tr>
   <tr>
-    <td id='cab5_2026_12_27' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>27</td>
-    <td id='cab5_2026_12_28' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>28</td>
-    <td id='cab5_2026_12_29' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>29</td>
-    <td id='cab5_2026_12_30' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>30</td>
-    <td id='cab5_2026_12_31' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>31</td>
+    <td id='cab5_2026_12_27'>27</td>
+    <td id='cab5_2026_12_28'>28</td>
+    <td id='cab5_2026_12_29'>29</td>
+    <td id='cab5_2026_12_30'>30</td>
+    <td id='cab5_2026_12_31' title='Quiroga Susana (2)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
@@ -7830,11 +7830,11 @@ END HIDDEN MONTHS -->
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab5_2027_1_1' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>1</td>
-    <td id='cab5_2027_1_2' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>2</td>
+    <td id='cab5_2027_1_1' title='Quiroga Susana (2)'>1</td>
+    <td id='cab5_2027_1_2' title='Quiroga Susana (2)'>2</td>
   </tr>
   <tr>
-    <td id='cab5_2027_1_3'>3</td>
+    <td id='cab5_2027_1_3' title='Quiroga Susana (2)'>3</td>
     <td id='cab5_2027_1_4'>4</td>
     <td id='cab5_2027_1_5'>5</td>
     <td id='cab5_2027_1_6'>6</td>
@@ -10974,14 +10974,14 @@ END HIDDEN MONTHS -->
     <td id='cab8_2026_12_23'>23</td>
     <td id='cab8_2026_12_24'>24</td>
     <td id='cab8_2026_12_25'>25</td>
-    <td id='cab8_2026_12_26'>26</td>
+    <td id='cab8_2026_12_26' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>26</td>
   </tr>
   <tr>
-    <td id='cab8_2026_12_27'>27</td>
-    <td id='cab8_2026_12_28'>28</td>
-    <td id='cab8_2026_12_29'>29</td>
-    <td id='cab8_2026_12_30'>30</td>
-    <td id='cab8_2026_12_31' title='Quiroga Susana (2)'>31</td>
+    <td id='cab8_2026_12_27' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>27</td>
+    <td id='cab8_2026_12_28' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>28</td>
+    <td id='cab8_2026_12_29' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>29</td>
+    <td id='cab8_2026_12_30' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>30</td>
+    <td id='cab8_2026_12_31' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
@@ -11010,11 +11010,11 @@ END HIDDEN MONTHS -->
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab8_2027_1_1' title='Quiroga Susana (2)'>1</td>
-    <td id='cab8_2027_1_2' title='Quiroga Susana (2)'>2</td>
+    <td id='cab8_2027_1_1' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>1</td>
+    <td id='cab8_2027_1_2' title='BLOQUEADA - Familia de Naty' class='reservada-familia'>2</td>
   </tr>
   <tr>
-    <td id='cab8_2027_1_3' title='Quiroga Susana (2)'>3</td>
+    <td id='cab8_2027_1_3'>3</td>
     <td id='cab8_2027_1_4'>4</td>
     <td id='cab8_2027_1_5'>5</td>
     <td id='cab8_2027_1_6'>6</td>
