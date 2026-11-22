@@ -2642,6 +2642,36 @@ function setCalendarHints(){
 #cab5_2027_1_3 {
     background-color: #AAFFCC;
 }
+#cab5_2026_12_17 {
+    background-color: #F7A8D8;
+}
+#cab5_2026_12_18 {
+    background-color: #F7A8D8;
+}
+#cab5_2026_12_19 {
+    background-color: #F7A8D8;
+}
+#cab5_2026_12_20 {
+    background-color: #F7A8D8;
+}
+#cab5_2026_12_21 {
+    background-color: #F7A8D8;
+}
+#cab5_2026_12_22 {
+    background-color: #F7A8D8;
+}
+#cab5_2026_12_23 {
+    background-color: #F7A8D8;
+}
+#cab5_2026_12_24 {
+    background-color: #F7A8D8;
+}
+#cab5_2026_12_25 {
+    background-color: #F7A8D8;
+}
+#cab5_2026_12_26 {
+    background-color: #F7A8D8;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -7783,18 +7813,18 @@ END HIDDEN MONTHS -->
     <td id='cab5_2026_12_14'>14</td>
     <td id='cab5_2026_12_15'>15</td>
     <td id='cab5_2026_12_16'>16</td>
-    <td id='cab5_2026_12_17'>17</td>
-    <td id='cab5_2026_12_18'>18</td>
-    <td id='cab5_2026_12_19'>19</td>
+    <td id='cab5_2026_12_17' title='Marcello Rosa (2) (padres de Pierini - sin escalones - cab 5)'>17</td>
+    <td id='cab5_2026_12_18' title='Marcello Rosa (2) (padres de Pierini - sin escalones - cab 5)'>18</td>
+    <td id='cab5_2026_12_19' title='Marcello Rosa (2) (padres de Pierini - sin escalones - cab 5)'>19</td>
   </tr>
   <tr>
-    <td id='cab5_2026_12_20'>20</td>
-    <td id='cab5_2026_12_21'>21</td>
-    <td id='cab5_2026_12_22'>22</td>
-    <td id='cab5_2026_12_23'>23</td>
-    <td id='cab5_2026_12_24'>24</td>
-    <td id='cab5_2026_12_25'>25</td>
-    <td id='cab5_2026_12_26'>26</td>
+    <td id='cab5_2026_12_20' title='Marcello Rosa (2) (padres de Pierini - sin escalones - cab 5)'>20</td>
+    <td id='cab5_2026_12_21' title='Marcello Rosa (2) (padres de Pierini - sin escalones - cab 5)'>21</td>
+    <td id='cab5_2026_12_22' title='Marcello Rosa (2) (padres de Pierini - sin escalones - cab 5)'>22</td>
+    <td id='cab5_2026_12_23' title='Marcello Rosa (2) (padres de Pierini - sin escalones - cab 5)'>23</td>
+    <td id='cab5_2026_12_24' title='Marcello Rosa (2) (padres de Pierini - sin escalones - cab 5)'>24</td>
+    <td id='cab5_2026_12_25' title='Marcello Rosa (2) (padres de Pierini - sin escalones - cab 5)'>25</td>
+    <td id='cab5_2026_12_26' title='Marcello Rosa (2) (padres de Pierini - sin escalones - cab 5)'>26</td>
   </tr>
   <tr>
     <td id='cab5_2026_12_27'>27</td>
