@@ -3492,7 +3492,7 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab1_2026_11_29'>29</td>
-    <td id='cab1_2026_11_30'>30</td>
+    <td id='cab1_2026_11_30' class='bloqueada' title='BLOQUEADA - no se alquila'>30</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -3521,10 +3521,10 @@ END HIDDEN MONTHS -->
   <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab1_2026_12_1'>1</td>
-    <td id='cab1_2026_12_2'>2</td>
-    <td id='cab1_2026_12_3'>3</td>
-    <td id='cab1_2026_12_4'>4</td>
+    <td id='cab1_2026_12_1' class='bloqueada' title='BLOQUEADA - no se alquila'>1</td>
+    <td id='cab1_2026_12_2' class='bloqueada' title='BLOQUEADA - no se alquila'>2</td>
+    <td id='cab1_2026_12_3' class='bloqueada' title='BLOQUEADA - no se alquila'>3</td>
+    <td id='cab1_2026_12_4' class='bloqueada' title='BLOQUEADA - no se alquila'>4</td>
     <td id='cab1_2026_12_5' title='Braida Ivana (2)'>5</td>
   </tr>
   <tr>
@@ -4554,7 +4554,7 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab2_2026_11_29'>29</td>
-    <td id='cab2_2026_11_30'>30</td>
+    <td id='cab2_2026_11_30' class='bloqueada' title='BLOQUEADA - no se alquila'>30</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -4583,10 +4583,10 @@ END HIDDEN MONTHS -->
   <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab2_2026_12_1'>1</td>
-    <td id='cab2_2026_12_2'>2</td>
-    <td id='cab2_2026_12_3'>3</td>
-    <td id='cab2_2026_12_4'>4</td>
+    <td id='cab2_2026_12_1' class='bloqueada' title='BLOQUEADA - no se alquila'>1</td>
+    <td id='cab2_2026_12_2' class='bloqueada' title='BLOQUEADA - no se alquila'>2</td>
+    <td id='cab2_2026_12_3' class='bloqueada' title='BLOQUEADA - no se alquila'>3</td>
+    <td id='cab2_2026_12_4' class='bloqueada' title='BLOQUEADA - no se alquila'>4</td>
     <td id='cab2_2026_12_5'>5</td>
   </tr>
   <tr>
@@ -5614,7 +5614,7 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab3_2026_11_29'>29</td>
-    <td id='cab3_2026_11_30'>30</td>
+    <td id='cab3_2026_11_30' class='bloqueada' title='BLOQUEADA - no se alquila'>30</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -5643,10 +5643,10 @@ END HIDDEN MONTHS -->
   <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab3_2026_12_1'>1</td>
-    <td id='cab3_2026_12_2'>2</td>
-    <td id='cab3_2026_12_3'>3</td>
-    <td id='cab3_2026_12_4'>4</td>
+    <td id='cab3_2026_12_1' class='bloqueada' title='BLOQUEADA - no se alquila'>1</td>
+    <td id='cab3_2026_12_2' class='bloqueada' title='BLOQUEADA - no se alquila'>2</td>
+    <td id='cab3_2026_12_3' class='bloqueada' title='BLOQUEADA - no se alquila'>3</td>
+    <td id='cab3_2026_12_4' class='bloqueada' title='BLOQUEADA - no se alquila'>4</td>
     <td id='cab3_2026_12_5'>5</td>
   </tr>
   <tr>
@@ -6674,7 +6674,7 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab4_2026_11_29'>29</td>
-    <td id='cab4_2026_11_30'>30</td>
+    <td id='cab4_2026_11_30' class='bloqueada' title='BLOQUEADA - no se alquila'>30</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -6703,10 +6703,10 @@ END HIDDEN MONTHS -->
   <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab4_2026_12_1'>1</td>
-    <td id='cab4_2026_12_2'>2</td>
-    <td id='cab4_2026_12_3'>3</td>
-    <td id='cab4_2026_12_4'>4</td>
+    <td id='cab4_2026_12_1' class='bloqueada' title='BLOQUEADA - no se alquila'>1</td>
+    <td id='cab4_2026_12_2' class='bloqueada' title='BLOQUEADA - no se alquila'>2</td>
+    <td id='cab4_2026_12_3' class='bloqueada' title='BLOQUEADA - no se alquila'>3</td>
+    <td id='cab4_2026_12_4' class='bloqueada' title='BLOQUEADA - no se alquila'>4</td>
     <td id='cab4_2026_12_5'>5</td>
   </tr>
   <tr>
@@ -7734,7 +7734,7 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab5_2026_11_29'>29</td>
-    <td id='cab5_2026_11_30'>30</td>
+    <td id='cab5_2026_11_30' class='bloqueada' title='BLOQUEADA - no se alquila'>30</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -7763,10 +7763,10 @@ END HIDDEN MONTHS -->
   <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab5_2026_12_1'>1</td>
-    <td id='cab5_2026_12_2'>2</td>
-    <td id='cab5_2026_12_3'>3</td>
-    <td id='cab5_2026_12_4'>4</td>
+    <td id='cab5_2026_12_1' class='bloqueada' title='BLOQUEADA - no se alquila'>1</td>
+    <td id='cab5_2026_12_2' class='bloqueada' title='BLOQUEADA - no se alquila'>2</td>
+    <td id='cab5_2026_12_3' class='bloqueada' title='BLOQUEADA - no se alquila'>3</td>
+    <td id='cab5_2026_12_4' class='bloqueada' title='BLOQUEADA - no se alquila'>4</td>
     <td id='cab5_2026_12_5' title='Tomasi Daniel (2)'>5</td>
   </tr>
   <tr>
@@ -8794,7 +8794,7 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab6_2026_11_29' title='Marcaida Kiara (2)'>29</td>
-    <td id='cab6_2026_11_30'>30</td>
+    <td id='cab6_2026_11_30' class='bloqueada' title='BLOQUEADA - no se alquila'>30</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -8823,10 +8823,10 @@ END HIDDEN MONTHS -->
   <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab6_2026_12_1'>1</td>
-    <td id='cab6_2026_12_2'>2</td>
-    <td id='cab6_2026_12_3'>3</td>
-    <td id='cab6_2026_12_4'>4</td>
+    <td id='cab6_2026_12_1' class='bloqueada' title='BLOQUEADA - no se alquila'>1</td>
+    <td id='cab6_2026_12_2' class='bloqueada' title='BLOQUEADA - no se alquila'>2</td>
+    <td id='cab6_2026_12_3' class='bloqueada' title='BLOQUEADA - no se alquila'>3</td>
+    <td id='cab6_2026_12_4' class='bloqueada' title='BLOQUEADA - no se alquila'>4</td>
     <td id='cab6_2026_12_5' title='Tomasi Daniel (2)'>5</td>
   </tr>
   <tr>
@@ -10914,7 +10914,7 @@ END HIDDEN MONTHS -->
   </tr>
   <tr>
     <td id='cab8_2026_11_29'>29</td>
-    <td id='cab8_2026_11_30'>30</td>
+    <td id='cab8_2026_11_30' class='bloqueada' title='BLOQUEADA - no se alquila'>30</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -10943,10 +10943,10 @@ END HIDDEN MONTHS -->
   <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td id='cab8_2026_12_1'>1</td>
-    <td id='cab8_2026_12_2'>2</td>
-    <td id='cab8_2026_12_3'>3</td>
-    <td id='cab8_2026_12_4'>4</td>
+    <td id='cab8_2026_12_1' class='bloqueada' title='BLOQUEADA - no se alquila'>1</td>
+    <td id='cab8_2026_12_2' class='bloqueada' title='BLOQUEADA - no se alquila'>2</td>
+    <td id='cab8_2026_12_3' class='bloqueada' title='BLOQUEADA - no se alquila'>3</td>
+    <td id='cab8_2026_12_4' class='bloqueada' title='BLOQUEADA - no se alquila'>4</td>
     <td id='cab8_2026_12_5' title='Tomasi Daniel (2)'>5</td>
   </tr>
   <tr>
