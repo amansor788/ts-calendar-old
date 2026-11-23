@@ -2672,6 +2672,15 @@ function setCalendarHints(){
 #cab5_2026_12_26 {
     background-color: #F7A8D8;
 }
+#cab4_2027_1_15 {
+    background-color: #8FD694;
+}
+#cab4_2027_1_16 {
+    background-color: #8FD694;
+}
+#cab4_2027_1_17 {
+    background-color: #8FD694;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -6818,11 +6827,11 @@ END HIDDEN MONTHS -->
     <td id='cab4_2027_1_12' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>12</td>
     <td id='cab4_2027_1_13' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>13</td>
     <td id='cab4_2027_1_14' title='Costa Natalia (4) (martes 3/11 completa reserva +400m)'>14</td>
-    <td id='cab4_2027_1_15'>15</td>
-    <td id='cab4_2027_1_16'>16</td>
+    <td id='cab4_2027_1_15' title='Miguez Veronica (4) (es cliente)'>15</td>
+    <td id='cab4_2027_1_16' title='Miguez Veronica (4) (es cliente)'>16</td>
   </tr>
   <tr>
-    <td id='cab4_2027_1_17'>17</td>
+    <td id='cab4_2027_1_17' title='Miguez Veronica (4) (es cliente)'>17</td>
     <td id='cab4_2027_1_18' title='Martinez Micaela (4)'>18</td>
     <td id='cab4_2027_1_19' title='Martinez Micaela (4)'>19</td>
     <td id='cab4_2027_1_20' title='Martinez Micaela (4)'>20</td>
