@@ -2681,6 +2681,27 @@ function setCalendarHints(){
 #cab4_2027_1_17 {
     background-color: #8FD694;
 }
+#cab3_2027_1_30 {
+    background-color: #B9A6FF;
+}
+#cab3_2027_1_31 {
+    background-color: #B9A6FF;
+}
+#cab3_2027_2_1 {
+    background-color: #B9A6FF;
+}
+#cab3_2027_2_2 {
+    background-color: #B9A6FF;
+}
+#cab3_2027_2_3 {
+    background-color: #B9A6FF;
+}
+#cab3_2027_2_4 {
+    background-color: #B9A6FF;
+}
+#cab3_2027_2_5 {
+    background-color: #B9A6FF;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -5786,10 +5807,10 @@ END HIDDEN MONTHS -->
     <td id='cab3_2027_1_27' title='Romero Luis (4) (es cliente)'>27</td>
     <td id='cab3_2027_1_28' title='Romero Luis (4) (es cliente)'>28</td>
     <td id='cab3_2027_1_29' title='Romero Luis (4) (es cliente)'>29</td>
-    <td id='cab3_2027_1_30'>30</td>
+    <td id='cab3_2027_1_30' title='Oddo Eugenia (3)'>30</td>
   </tr>
   <tr>
-    <td id='cab3_2027_1_31'>31</td>
+    <td id='cab3_2027_1_31' title='Oddo Eugenia (3)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -5818,11 +5839,11 @@ END HIDDEN MONTHS -->
 <tbody>
   <tr>
     <td>&nbsp;</td>
-    <td id='cab3_2027_2_1'>1</td>
-    <td id='cab3_2027_2_2'>2</td>
-    <td id='cab3_2027_2_3'>3</td>
-    <td id='cab3_2027_2_4'>4</td>
-    <td id='cab3_2027_2_5'>5</td>
+    <td id='cab3_2027_2_1' title='Oddo Eugenia (3)'>1</td>
+    <td id='cab3_2027_2_2' title='Oddo Eugenia (3)'>2</td>
+    <td id='cab3_2027_2_3' title='Oddo Eugenia (3)'>3</td>
+    <td id='cab3_2027_2_4' title='Oddo Eugenia (3)'>4</td>
+    <td id='cab3_2027_2_5' title='Oddo Eugenia (3)'>5</td>
     <td id='cab3_2027_2_6'>6</td>
   </tr>
   <tr>
