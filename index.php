@@ -2729,6 +2729,21 @@ function setCalendarHints(){
 #cab2_2027_2_8 {
     background-color: #FFE066;
 }
+#cab2_2027_1_10 {
+    background-color: #7FB8F5;
+}
+#cab2_2027_1_11 {
+    background-color: #7FB8F5;
+}
+#cab2_2027_1_12 {
+    background-color: #7FB8F5;
+}
+#cab2_2027_1_13 {
+    background-color: #7FB8F5;
+}
+#cab2_2027_1_14 {
+    background-color: #7FB8F5;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -4750,11 +4765,11 @@ END HIDDEN MONTHS -->
     <td id='cab2_2027_1_9' title='Casas Nicolas (4) (completa reserva el 6/11)'>9</td>
   </tr>
   <tr>
-    <td id='cab2_2027_1_10'>10</td>
-    <td id='cab2_2027_1_11'>11</td>
-    <td id='cab2_2027_1_12'>12</td>
-    <td id='cab2_2027_1_13'>13</td>
-    <td id='cab2_2027_1_14'>14</td>
+    <td id='cab2_2027_1_10' title='Carrera Sebastian (4)'>10</td>
+    <td id='cab2_2027_1_11' title='Carrera Sebastian (4)'>11</td>
+    <td id='cab2_2027_1_12' title='Carrera Sebastian (4)'>12</td>
+    <td id='cab2_2027_1_13' title='Carrera Sebastian (4)'>13</td>
+    <td id='cab2_2027_1_14' title='Carrera Sebastian (4)'>14</td>
     <td id='cab2_2027_1_15'>15</td>
     <td id='cab2_2027_1_16'>16</td>
   </tr>
