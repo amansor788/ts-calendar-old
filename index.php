@@ -2702,6 +2702,33 @@ function setCalendarHints(){
 #cab3_2027_2_5 {
     background-color: #B9A6FF;
 }
+#cab2_2027_1_31 {
+    background-color: #FFE066;
+}
+#cab2_2027_2_1 {
+    background-color: #FFE066;
+}
+#cab2_2027_2_2 {
+    background-color: #FFE066;
+}
+#cab2_2027_2_3 {
+    background-color: #FFE066;
+}
+#cab2_2027_2_4 {
+    background-color: #FFE066;
+}
+#cab2_2027_2_5 {
+    background-color: #FFE066;
+}
+#cab2_2027_2_6 {
+    background-color: #FFE066;
+}
+#cab2_2027_2_7 {
+    background-color: #FFE066;
+}
+#cab2_2027_2_8 {
+    background-color: #FFE066;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -4750,7 +4777,7 @@ END HIDDEN MONTHS -->
     <td id='cab2_2027_1_30'>30</td>
   </tr>
   <tr>
-    <td id='cab2_2027_1_31'>31</td>
+    <td id='cab2_2027_1_31' title='Restelli Diego (4)'>31</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -4779,16 +4806,16 @@ END HIDDEN MONTHS -->
 <tbody>
   <tr>
     <td>&nbsp;</td>
-    <td id='cab2_2027_2_1'>1</td>
-    <td id='cab2_2027_2_2'>2</td>
-    <td id='cab2_2027_2_3'>3</td>
-    <td id='cab2_2027_2_4'>4</td>
-    <td id='cab2_2027_2_5'>5</td>
-    <td id='cab2_2027_2_6'>6</td>
+    <td id='cab2_2027_2_1' title='Restelli Diego (4)'>1</td>
+    <td id='cab2_2027_2_2' title='Restelli Diego (4)'>2</td>
+    <td id='cab2_2027_2_3' title='Restelli Diego (4)'>3</td>
+    <td id='cab2_2027_2_4' title='Restelli Diego (4)'>4</td>
+    <td id='cab2_2027_2_5' title='Restelli Diego (4)'>5</td>
+    <td id='cab2_2027_2_6' title='Restelli Diego (4)'>6</td>
   </tr>
   <tr>
-    <td id='cab2_2027_2_7'>7</td>
-    <td id='cab2_2027_2_8'>8</td>
+    <td id='cab2_2027_2_7' title='Restelli Diego (4)'>7</td>
+    <td id='cab2_2027_2_8' title='Restelli Diego (4)'>8</td>
     <td id='cab2_2027_2_9'>9</td>
     <td id='cab2_2027_2_10'>10</td>
     <td id='cab2_2027_2_11'>11</td>
