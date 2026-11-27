@@ -2744,6 +2744,18 @@ function setCalendarHints(){
 #cab2_2027_1_14 {
     background-color: #7FB8F5;
 }
+#cab6_2026_12_24 {
+    background-color: #7FDBCA;
+}
+#cab6_2026_12_25 {
+    background-color: #7FDBCA;
+}
+#cab6_2026_12_26 {
+    background-color: #7FDBCA;
+}
+#cab6_2026_12_27 {
+    background-color: #7FDBCA;
+}
 </style>
 </head>
 <body onload='setCalendarHints();'>
@@ -8954,12 +8966,12 @@ END HIDDEN MONTHS -->
     <td id='cab6_2026_12_21'>21</td>
     <td id='cab6_2026_12_22'>22</td>
     <td id='cab6_2026_12_23'>23</td>
-    <td id='cab6_2026_12_24'>24</td>
-    <td id='cab6_2026_12_25'>25</td>
-    <td id='cab6_2026_12_26'>26</td>
+    <td id='cab6_2026_12_24' title='Fargio Paula (2)'>24</td>
+    <td id='cab6_2026_12_25' title='Fargio Paula (2)'>25</td>
+    <td id='cab6_2026_12_26' title='Fargio Paula (2)'>26</td>
   </tr>
   <tr>
-    <td id='cab6_2026_12_27'>27</td>
+    <td id='cab6_2026_12_27' title='Fargio Paula (2)'>27</td>
     <td id='cab6_2026_12_28'>28</td>
     <td id='cab6_2026_12_29'>29</td>
     <td id='cab6_2026_12_30'>30</td>
